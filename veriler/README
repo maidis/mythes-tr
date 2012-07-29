@@ -18,6 +18,20 @@ http://www.kemik.yildiz.edu.tr/?id=28
 http://www.kemik.yildiz.edu.tr/data/File/Kelime_anlamlari.zip
 
 
+kelime-esanlamlisi.txt
+======================
+
+relations.txt ve viki_rels.txt dosyalarından yararlanılarak
+hazırlanmış bir eşanlamlılar sözlüğüdür. Kelime Eşanlamlısı
+yapısındadır. Sözlük biçimsel ve anlamsız olarak bazı hatalar
+barındırmaktadır. Bunlar elle düzeltilme aşamasındadır.
+
+Son Güncelleme: 29 Temmuz 2012
+Oluşturan: Anıl Özbek
+
+https://raw.github.com/maidis/mythes-tr/master/veriler/kelime-esanlamlisi.txt
+
+
 relations.txt ve viki_rels.txt
 ==============================
 
@@ -33,7 +47,7 @@ göstermektedir. Veriler Vikisözluk ve TDK sözlüğünden otomatik
 olarak elde edilmiştir.
 
 Son Güncelleme: 12 Ağustos 2010 
-Oluşturan: Emre Yıldız – Yıldız Teknik Üniversitesi
+Oluşturan: Emre Yıldız - Yıldız Teknik Üniversitesi
 Veri kümesi ile ilgili sorularınız için: mfatih at ce.yildiz.edu.tr 
 
 ￼Kemik Doğal Dil İşleme Grubu - Anlamsal İlişkiler Veri Kümesi
