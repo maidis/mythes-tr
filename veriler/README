@@ -17,3 +17,27 @@ Veri kümesi ile ilgili sorularınız için: mfatih at ce.yildiz.edu.tr
 http://www.kemik.yildiz.edu.tr/?id=28
 http://www.kemik.yildiz.edu.tr/data/File/Kelime_anlamlari.zip
 
+
+relations.txt ve viki_rels.txt
+==============================
+
+Bu dosyalar, TDK sözlüğü ve Vikisözlük'ten çıkarılmış, Türkçe 127203
+adet anlamsal ilişkinin bulunduğu veri kümesini içerir.
+￼
+Dosyaların biçimi Kavram1 ilişkitürü Kavram2 frekans şeklindedir.
+Hangi kavramın hangi kavramla nasıl bir ilişkide olduğunu
+göstermektedir. Örneğin özgür  SYNONYMY hür    7 satırı, özgür
+kavramının hür kavramına eşanlamlılık ilişkisiyle bağlı olduğunu
+ve bu ilişkinin kaynak sözlüklerde toplam 7 kez bulunduğunu
+göstermektedir. Veriler Vikisözluk ve TDK sözlüğünden otomatik
+olarak elde edilmiştir.
+
+Son Güncelleme: 12 Ağustos 2010 
+Oluşturan: Emre Yıldız – Yıldız Teknik Üniversitesi
+Veri kümesi ile ilgili sorularınız için: mfatih at ce.yildiz.edu.tr 
+
+￼Kemik Doğal Dil İşleme Grubu - Anlamsal İlişkiler Veri Kümesi
+
+http://www.kemik.yildiz.edu.tr/?id=28
+http://www.kemik.yildiz.edu.tr/data/File/TDK_viki.rar
+
