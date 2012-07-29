@@ -178,7 +178,6 @@ abd	dolar
 abd	köle
 abd	kul
 abdal	çingene
-abdal	????
 abdal	evliya
 abdal	aptal
 abdal	aptala malum olur
@@ -742,7 +741,6 @@ acı	ünlem işareti
 acı	yara
 acı	zehir
 acı	zehir zıkkım
-"acı	1"	insaf
 acı acı	kırıcı
 acı acı	dokunaklı
 acı ağaç	kavasya
@@ -854,8 +852,6 @@ acıma	vah
 acıma	yarlıg
 acımadan	göz kırpmadan
 acımadan	merhametsizce
-acımadan	varmak
-"acımadan	1"	veryansın
 acımak	acılaşmak
 acımak	acılı
 acımak	batmak
@@ -884,7 +880,7 @@ acımasız	gaddar olmak
 acımasız	gâvur
 acımasız	gâvurca
 acımasız	gâvurluk etmek
-acımasız	imanı yok (kısa söyleyişle)
+acımasız	imanı yok
 acımasız	imansız
 acımasız	kâfir
 acımasız	kalpsiz
@@ -1175,7 +1171,6 @@ açık	belirtik
 açık	berrak
 açık	berraklaştırmak
 açık	besbelli
-açık	bilmece gibi konuşmak
 açık	bulutsuz
 açık	bülbül gibi konuşmak
 açık	celî
@@ -1217,10 +1212,7 @@ açık almak	değmemek
 açık artırma	artırma
 açık artırma	müzayede
 açık bono	açık senet
-açık çek	çek
-açık deniz	denizin
 açık deniz	engin
-açık devlet	vatandaşların
 açık devlet	şeffaf devlet
 açık dizge	ısıldevimbilimde
 açık elli	cömert
@@ -1276,7 +1268,6 @@ açıkgözlük	açıkgözlülük
 açıkgözlükle	diplomatça
 açıkgözlülük	açıkgözlük
 açıkgözlülük	jandarmalık
-açıklama	sözün
 açıklama	makale
 açıklama	tanımlama
 açıklama	izah
@@ -1363,7 +1354,6 @@ açıl	açılmış
 açılama	ileride
 açılan	aclan
 açılım	açılma
-"açılın	1"	yağlı boya
 açılış	açılma
 açılış	küşat
 açılış	küşat
@@ -2646,7 +2636,6 @@ aferin	alkışlama
 aferin	bravo
 aferin	bravo
 aferin	bravo
-"aferin	1"	ceddine rahmet!
 aferist	vurguncu
 aferist	dalavereci
 aferist	çıkarcı
@@ -2728,7 +2717,6 @@ afiyet	esenlik
 afiyet bulmak	ıyileşmek
 afiyet bulmak	sağlığınıkazanmak
 afiyet bulmak	iyileşmek
-afiyet şeker olsun	"yarasın	1"
 afiyet üzere olmak	sağlıklı
 afiyetle	keyifle
 afkurma	bağırma
@@ -5583,7 +5571,6 @@ alçak	süfli
 alçak	şerefsiz
 alçak	yavaş
 alçak	züllü
-"alçak	1"	köpek soyu
 alçak at binmeye kolay, öksüz çocuk dövmeye kolay	güçsüz
 alçak gönüllü	mütevazı
 alçakça	alçak
@@ -6438,7 +6425,6 @@ allah bağışlasın	esirgesin
 allah dostu	evliyaullah
 allah dostu	kümmel-i beşer
 allah dostu	insan-ı kamil
-allah dört gözden ayırmasın	"tanrı	1"
 allah için	gerçekten
 allah için	doğrusu
 allah sevdiğine dert verir	tanrı
@@ -6463,9 +6449,7 @@ allah'ın kulu	kimse
 allah'ın kulu	kişi
 allah'ını seversen	istek
 allah'tan	yaradılıştan
-allah'tan kork!	"yapma	1"
 allah'tan kork!	utan
-allah'tan kork!	"yazıktır!"""
 allah'tan korkmaz	insafsız
 allah'tan korkmaz	acımasız
 allahaısmarladık	alasmaladık
@@ -6486,7 +6470,6 @@ allak bullak	bullak
 allak bullak olmak	karışmak
 allak bullak olmak	şaşırmak
 allamak	süslemek
-allamak	"süslemek	1"
 allanmak	süslenmek
 allayıp pullamak	donatmak
 allegro	canlı
@@ -6943,7 +6926,6 @@ amcazade	amca oğlu
 amcazade	emmi oğlu
 amcık	am
 amcık	vajina
-amcık	vikidağarcık:vajina|vajina
 amcık	am
 amebosit	amibimsi
 amebosit	amipsel
@@ -7015,7 +6997,6 @@ amerika armudu	avokado
 amerika elması	bilader ağacı
 amerika fiyusu	amerikan yaban ördeği
 amerika fiyusu	amerikan yaban ördeği
-amerika kara ördeği	esmer ördek|esmer ördek
 amerika kara ördeği	esmer ördek
 amerika tavşanı	kemiricilerden
 amerikalı	amerikan
@@ -7454,7 +7435,6 @@ anca	ancak
 ancak	yalnız
 ancak	lâkin
 ancak	ama
-ancak	"yalnız	1"
 ancak	lâkin
 ancak	ama
 ancak	amma velâkin
@@ -7736,7 +7716,6 @@ anında	simultane
 anında	takkadak
 anında	tam
 anında	tetik davranmak
-anırmak	{{t|yansıma}}
 anırmasınısağlamak	anırtmak
 anırtmak	anırmasınısağlamak
 anış	anuş
@@ -7985,7 +7964,6 @@ anlaşamamak	ihtilâfa düşmek
 anlaşamamak	sürtüşmek
 anlaşamayanlarıuzlaştırmak	ara bulmak
 anlaşılamayan	düğüm
-"anlaşılamayan	1"	işin tuhafı
 anlaşılan	galiba
 anlaşılan	banal
 anlaşılan	belli
@@ -9305,8 +9283,6 @@ ardıç	selvi
 ardıç	ibre
 ardıç	pür
 ardıç	servigiller
-ardıç kuşugiller	karatavukgiller|karatavukgiller
-ardıç kuşugiller|ardıç kuşugiller	karatavukgiller
 ardıç rakısı	cin
 ardıç rakısı	cin
 ardıkesilmek	arkasıgelmemek
@@ -9431,7 +9407,6 @@ arı gibi eri olanın dağ kadar yeri olur	çalışkan
 arı gibi sokmak	iğnelemek
 arı kil	kaolin
 arı kuşu	avrupa arı kuşu
-arı kuşu|arı kuşu	avrupa arı kuşu
 arı sili	tertemiz
 arı sütü	arıların
 arı, bey olan kovana üşer	halk
@@ -9891,7 +9866,6 @@ arnavutlaşma	arnavutlaşmak
 arnavutlaşmak	arnavutlaşma
 arnavutluk	adriyatik denizi
 arnavutluk	balkanlar
-arnika	öküzgözü|öküzgözü
 arnika	öküzgözü
 arnika	sığırgözü
 aromalı	aromatik
@@ -10713,7 +10687,6 @@ asya	ban otu
 asya	kıt'a
 asya	kuzey buz denizi
 asya	üçüncü dünya ülkeleri
-asya yağmurcunu	doğu cılıbıtı|doğu cılıbıtı
 asya yağmurcunu	doğu cılıbıtı
 asya'da	bahreyn
 asya'da	çin
@@ -12371,7 +12344,6 @@ avrupa	kukumav
 avrupa	kurt
 avrupa	orman gülü
 avrupa	sazan
-avrupa arı kuşu	arı kuşu|arı kuşu
 avrupa arı kuşu	arı kuşu
 avrupa atom enerjisi topluluğu	amacı
 avrupa birliği	aet
@@ -12386,7 +12358,6 @@ avrupa sakası	ökse kuşu
 avrupa sakası	saka kuşu
 avrupa saksağanı	kargagillerden
 avrupa saksağanı	kara
-avrupa saksağanı	saksağan|saksağan
 avrupa saksağanı	saksağan
 avrupai	alafranga
 avrupalı	beyaz adam
@@ -13743,7 +13714,6 @@ aziz	beğdi
 aziz	cânı
 aziz	muazzez
 aziz	pak
-aziz|azîz	kur'an
 azizlik	muziplik
 azledilmesi	azil
 azledilmiş	münazil
@@ -13871,7 +13841,6 @@ babasız	yetim
 babasızlık	yetimlik
 babat	cins
 babat	tür
-babaya dayanma,karıya güvenme	"kişi	1"
 babayani	gösterişsiz
 babayani	özentisiz
 babayani	sade
@@ -15217,10 +15186,6 @@ balıkçı gemisi	araştırmasında
 balıkçı yaka	boğazlık
 balıkçıl	uzunbacaklılardan
 balıkçıların	çıramoz
-balıkçılgiller	balıkçıllar|balıkçıllar
-balıkçılgiller|balıkçılgiller	balıkçıllar
-balıkçıllar	balıkçılgiller|balıkçılgiller
-balıkçıllar|balıkçıllar	balıkçılgiller
 balıkçın	deniz kırlangıcı
 balıketi	balıketinde
 balıketinde	balıketi
@@ -15457,7 +15422,6 @@ banliyö	varoş
 banliyö	dolaylık
 banliyö	yörekent
 banliyö	dolay
-banliyö|banliyö	yörekent
 banmak	aybandı
 banmak	bandırmak
 banotu	patlıcangillerden
@@ -16453,7 +16417,6 @@ başkan	server
 başkan	şef
 başkan	yerçi
 başkan	yolçu
-"başkan	1"	hakan
 başkanlar	rüesa
 başkanlık	reislik
 başkanlık	riyaset
@@ -16751,9 +16714,6 @@ başyazmanlık	başkâtiplik
 başyönetmen	başrejisör
 başyönetmen	başrejisör
 başyönetmenlik	başrejisörlük
-batağanlar	yumurta piçleri|yumurta piçleri
-batağanlar|batağanlar	yumurta piçleri
-batağanlar|batağanlar	yumurtapiçleri
 batak	çamur
 batak	bataklık
 batak	gizli
@@ -16771,12 +16731,7 @@ bataklık	çökek
 bataklık	çökelge
 bataklık	sazak
 bataklık	sulak alan
-bataklık baştankarası	kayın baştankarası|kayın baştankarası
-bataklık baştankarası|bataklık baştankarası	kayın baştankarası
 bataklık gazı	metan
-bataklık kiraz kuşu	saz kiraz kuşu|saz kiraz kuşu
-bataklık kiraz kuşu|bataklık kiraz kuşu	saz kiraz kuşu
-bataklık kuşları|bataklık kuşları	turnamsılar
 bataklıkçulluğu	suçulluğu
 bataklıklarda	sfagnum
 batal	büyük
@@ -17009,92 +16964,6 @@ bayağı	süprüntü
 bayağı	tezyif
 bayağı	tezyifkâr
 bayağı	yoz
-bayağı alakarga	alakarga|alakarga
-bayağı alakarga|bayağı alakarga	alakarga
-bayağı atmaca	kırgı|kırgı
-bayağı atmaca|bayağı atmaca	kırgı
-bayağı bıldırcın	bıldırcın|bıldırcın
-bayağı bıldırcın|bayağı bıldırcın	bıldırcın
-bayağı boyunburan	boyunburan|boyunburan
-bayağı boyunburan|bayağı boyunburan	boyunburan
-bayağı çakır kuşu	çakır|çakır
-bayağı çakır kuşu	çakır kuşu|çakır kuşu
-bayağı çakır kuşu|bayağı çakır kuşu	çakır
-bayağı çakır kuşu|bayağı çakır kuşu	çakır kuşu
-bayağı çalı kuşu	çalı kuşu|çalı kuşu
-bayağı çalı kuşu|bayağı çalı kuşu	çalı kuşu
-bayağı çalıkuşu|bayağı çalıkuşu	çalıkuşu
-bayağı çaprazgaga	çaprazgaga|çaprazgaga
-bayağı çaprazgaga	kızıl çaprazgaga|kızıl çaprazgaga
-bayağı çaprazgaga|bayağı çaprazgaga	çaprazgaga
-bayağı çaprazgaga|bayağı çaprazgaga	kızıl çaprazgaga
-bayağı çıvgın	çıvgın|çıvgın
-bayağı çıvgın|bayağı çıvgın	çıvgın
-bayağı çit kuşu	çit kuşu|çit kuşu
-bayağı çit kuşu|bayağı çit kuşu	çit kuşu
-bayağı çulha kuşu	çulha kuşu|çulha kuşu
-bayağı çulha kuşu|bayağı çulha kuşu	çulha kuşu
-bayağı deniz kartalı	ak kuyruklu kartal|ak kuyruklu kartal
-bayağı deniz kartalı	beyaz kuyruklu kartal|beyaz kuyruklu kartal
-bayağı deniz kartalı	deniz kartalı|deniz kartalı
-bayağı deniz kartalı|bayağı deniz kartalı	ak kuyruklu kartal
-bayağı deniz kartalı|bayağı deniz kartalı	beyaz kuyruklu kartal
-bayağı deniz kartalı|bayağı deniz kartalı	deniz kartalı
-bayağı guguk	guguk|guguk
-bayağı guguk	guguk kuşu|guguk kuşu
-bayağı guguk|bayağı guguk	guguk
-bayağı guguk|bayağı guguk	guguk kuşu
-bayağı ipekkuyruk	ipekkuyruk|ipekkuyruk
-bayağı ipekkuyruk|bayağı ipekkuyruk	ipekkuyruk
-bayağı ispinoz	ispinoz|ispinoz
-bayağı ispinoz|bayağı ispinoz	ispinoz
-bayağı kaçmak	davranış
-bayağı kar serçesi	kar serçesi|kar serçesi
-bayağı kar serçesi|bayağı kar serçesi	kar serçesi
-bayağı kaşıkgaga	kaşıkgaga|kaşıkgaga
-bayağı kaşıkgaga|bayağı kaşıkgaga	kaşıkgaga
-bayağı kılıçgaga	kılıçgaga|kılıçgaga
-bayağı kılıçgaga|bayağı kılıçgaga	kılıçgaga
-bayağı kız kuşu	kız kuşu|kız kuşu
-bayağı kız kuşu|bayağı kız kuşu	kız kuşu
-bayağı kızılkuyruk	kızılkuyruk|kızılkuyruk
-bayağı kızılkuyruk|bayağı kızılkuyruk	kızılkuyruk
-bayağı kocabaş	kocabaş|kocabaş
-bayağı kocabaş|bayağı kocabaş	kocabaş
-bayağı peçeli baykuş	peçeli baykuş|peçeli baykuş
-bayağı peçeli baykuş|bayağı peçeli baykuş	peçeli baykuş
-bayağı poyraz kuşu	poyraz kuşu|poyraz kuşu
-bayağı poyraz kuşu|bayağı poyraz kuşu	poyraz kuşu
-bayağı puhu	puhu|puhu
-bayağı puhu	puhu kuşu|puhu kuşu
-bayağı puhu|bayağı puhu	puhu
-bayağı puhu|bayağı puhu	puhu kuşu
-bayağı sarıasma	sarıasma|sarıasma
-bayağı sarıasma|bayağı sarıasma	sarıasma
-bayağı sığırcık	sığırcık|sığırcık
-bayağı sığırcık|bayağı sığırcık	sığırcık
-bayağı sıvacı kuşu	sıvacı kuşu|sıvacı kuşu
-bayağı sıvacı kuşu|bayağı sıvacı kuşu	sıvacı kuşu
-bayağı şahin	şahin|şahin
-bayağı şakrak kuşu	ispinozgillerden
-bayağı şakrak kuşu	şakrak kuşu|şakrak kuşu
-bayağı şakrak kuşu|bayağı şakrak kuşu	şakrak kuşu
-bayağı taşçeviren	taşçeviren|taşçeviren
-bayağı taşçeviren|bayağı taşçeviren	taşçeviren
-bayağı toygar	tarla kuşu|tarla kuşu
-bayağı toygar	toygar|toygar
-bayağı toygar|bayağı toygar	tarla kuşu
-bayağı toygar|bayağı toygar	toygar
-bayağı uzunbacak	uzunbacak|uzunbacak
-bayağı uzunbacak|bayağı uzunbacak	uzunbacak
-bayağı uzunkuyruk	uzun kuyruklu baştankara|uzun kuyruklu baştankara
-bayağı uzunkuyruk|bayağı uzunkuyruk	uzun kuyruklu baştankara
-bayağı yalıçapkını	emircik|emircik
-bayağı yalıçapkını	iskele kuşu|iskele kuşu
-bayağı yalıçapkını	yalıçapkını|yalıçapkını
-bayağı yalıçapkını|bayağı yalıçapkını	emircik
-bayağı yalıçapkını|bayağı yalıçapkını	iskele kuşu
-bayağı yalıçapkını|bayağı yalıçapkını	yalıçapkını
 bayağıkaçmak	davranış
 bayağılaşma	alçalış
 bayağılaşma	iptizal
@@ -18601,7 +18470,6 @@ beneklerle	alalamak
 benekli	ala
 benekli	bıldırcın
 benekli akbaba	rüppell akbabası
-benekli akbaba|benekli akbaba	rüppell akbabası
 bengi	ölümsüz
 bengi	ebedî
 bengi	sonsuz
@@ -19242,7 +19110,6 @@ beşli	kentet
 beşli	kentet
 beşli	kuintet
 beşli	muhammes
-beşli|beşli	kentet
 beşparalık etmek	on paralık etmek
 beşparalık olmak	alçalmak
 beşparmak	beşpençe
@@ -19397,25 +19264,13 @@ beyaz ayı	kuzeyli ayı
 beyaz ayı	deniz ayısı
 beyaz ayı	kutup ayısı
 beyaz ayı	kuzeyli ayı
-beyaz başlı kartal	ak başlı kartal|ak başlı kartal
-beyaz başlı kartal	kel kartal|kel kartal
-beyaz başlı kartal|beyaz başlı kartal	ak başlı kartal
-beyaz başlı kartal|beyaz başlı kartal	kel kartal
 beyaz eşya	buzdolabı
 beyaz et	tavuk
 beyaz ırk	avrupa
-beyaz kuyruklu kartal	ak kuyruklu kartal|ak kuyruklu kartal
-beyaz kuyruklu kartal	bayağı deniz kartalı|bayağı deniz kartalı
-beyaz kuyruklu kartal	deniz kartalı|deniz kartalı
-beyaz kuyruklu kartal|beyaz kuyruklu kartal	ak kuyruklu kartal
-beyaz kuyruklu kartal|beyaz kuyruklu kartal	bayağı deniz kartalı
-beyaz kuyruklu kartal|beyaz kuyruklu kartal	deniz kartalı
 beyaz perde	sinema
 beyaz rusya	belarus
 beyaz rusya cumhuriyeti	belarus cumhuriyeti
 beyaz rusya cumhuriyeti	belarus cumhuriyeti
-beyaz yanaklı kılkuyruk	ak gerdanlı kılkuyruk|ak gerdanlı kılkuyruk
-beyaz yanaklı kılkuyruk|beyaz yanaklı kılkuyruk	ak gerdanlı kılkuyruk
 beyaz zehir	eroin
 beyaz zehir	beyaz
 beyazca	akça
@@ -19543,7 +19398,6 @@ beyzî	söbe
 bez	pamuktan
 bez	çaput
 bez	gudde
-bez	çaput|çaput
 bez	bezirgânbaşı
 bez	çaput
 bez	gudde
@@ -19771,9 +19625,7 @@ bıktırmak	usanç vermek
 bıldır	tombul
 bıldırcın	tavukgillerden
 bıldırcın	benekli
-bıldırcın	bayağı bıldırcın|bayağı bıldırcın
 bıldırcın gibi	dolgunca
-bıldırcın|bıldırcın	bayağı bıldırcın
 bıldırki	kıdemli
 bılkımak	bozulmak
 bılkımak	yumuşamak
@@ -21022,7 +20874,6 @@ bira	arpa suyu
 bira	kahve
 bira	kahvehane
 bira	pastörizasyon
-birader	"yahu	1"
 birader	dost
 biraz	az buçuk
 biraz	azıcık
@@ -21163,7 +21014,6 @@ bireyi	nitelik
 bireyin	güdülenme
 bireyin	öz bağışıklık
 bireyin	yönelim
-"bireyin	1"	kendi düşen ağlamaz
 bireyler	efrat
 bireyler	erkincilik
 bireylere	finans
@@ -22653,8 +22503,6 @@ boyuna	durmaksızın
 boyuna	müdâm
 boyuna	tulânî
 boyunbağı	kravat
-boyunburan	bayağı boyunburan|bayağı boyunburan
-boyunburan|boyunburan	bayağı boyunburan
 boyunca	süresince
 boyunca	boyu
 boyunca	boyuna
@@ -22694,10 +22542,6 @@ boz	gri
 boz	gri
 boz	kumru
 boz	külrengi
-boz kaz	yaban kazı|yaban kazı
-boz kaz|boz kaz	yaban kazı
-boz tuygun	kurşuni tuygun|kurşuni tuygun
-boz tuygun|boz tuygun	kurşuni tuygun
 boz yel	lodos
 boz yel	lodos
 boza	üretilen
@@ -22741,11 +22585,7 @@ bozgunluk	bozgun
 bozgunsuz	dirlikli
 bozkır	step
 bozkır	step
-bozkır delicesi	bozkır tuygunu|bozkır tuygunu
-bozkır delicesi|bozkır delicesi	bozkır tuygunu
 bozkır tavuğu	bağırtlak
-bozkır tuygunu	bozkır delicesi|bozkır delicesi
-bozkır tuygunu|bozkır tuygunu	bozkır delicesi
 bozlak	otlak
 bozlak	mera
 bozma	fek
@@ -23259,7 +23099,6 @@ bravo	aferin
 bravo	yaşa!
 bravo	aferin
 bravo	aferin
-bre	"ey	1"
 bre	şaşkınlık
 bre	ey
 brehmen	brahman
@@ -23311,8 +23150,6 @@ bu	haza
 bu	işbu
 bu	oşul
 bu	uş
-"bu	1"	daha iyisi can sağlığı
-"bu	1"	dam yandı, içindeki sıçan da (birlikte) yandı
 bu arada	birlikte
 bu arada	beraber
 bu arada	bu meyanda
@@ -23415,7 +23252,6 @@ budun	kavim
 budun betimci	etnograf
 budun betimi	etnografya
 budun betimi	kavmiyat
-budun betimi|budun betimi	etnografya
 budun bilimci	etnolog
 budun bilimi	etnoloji
 budun bilimi	ırkiyat
@@ -24340,7 +24176,6 @@ bülbül	çelek
 bülbül gibi konuşmak	akıcı
 bülbül gibi konuşmak	açık
 bülbül gibi konuşmak (veya okumak)	okumak
-"bülbülü altın kafese koymuşlar, ""ah vatanım"" demiş"	kişi
 bülbülü altın kafese koymuşlar, ah vatanım demiş	kişi
 bülek	bilek
 bülent	yüce
@@ -24660,30 +24495,15 @@ büyük anne	nene
 büyük baba	dede
 büyük baba	dede
 büyük baba	dede
-büyük balık küçük balığı yer	güçlüler
-büyük balık küçük balığı yutar	"güçlüler	1"
-büyük balık küçük balığı yutar	güçlüler
 büyük britanya	ingiltere
-büyük cılıbıt	çöl yağmurcunu|çöl yağmurcunu
-büyük cılıbıt|büyük cılıbıt	çöl yağmurcunu
-büyük çamurcun	çengelli ördek|çengelli ördek
-büyük çamurcun|büyük çamurcun	çengelli ördek
-büyük gagalı karga	iri gagalı karga|iri gagalı karga
-büyük gagalı karga|büyük gagalı karga	iri gagalı karga
 büyük görmek (bilmek veya tutmak)	yüceltmek
 büyük harf	majüskül
 büyük iskender	makedonyalı ııı. aleksander
 büyük kalori	kilokalori
-büyük kız kuşu	kızıl ibikli kız kuşu|kızıl ibikli kız kuşu
-büyük kız kuşu|büyük kız kuşu	kızıl ibikli kız kuşu
-büyük kum kuşu	kırmızı göğüslü kum kuşu|kırmızı göğüslü kum kuşu
-büyük kum kuşu|büyük kum kuşu	kırmızı göğüslü kum kuşu
 büyük lâf etmek	büyük söz söylemek
 büyük lokma ye büyük söyleme	başaramayacağın
 büyük mağaza	mega store
 büyük mevlit ayı	rebiyülevvel
-büyük mukallit	zeytin mukallidi|zeytin mukallidi
-büyük mukallit|büyük mukallit	zeytin mukallidi
 büyük okyanus	pasifik okyanusu
 büyük okyanus	pasifik okyanusu
 büyük önerme	majör
@@ -24764,7 +24584,6 @@ büyüklük	ortanca
 büyüklük	şevket
 büyüklük	ululuk
 büyüklük	yükseliş
-"büyüklük	1"	şevketli
 büyüklük göstermek	bağışlamak
 büyüklük hastalığı	megalomani
 büyüklük taslamak	böbürlenmek
@@ -25210,7 +25029,6 @@ canı acımak	çarpma
 canı acımak	üzülmek
 canı çekmek	arzulamak
 canı çıkmak	ölmek
-canı çıksın!	"ölsün	1"
 canı gönülden	canı yürekten
 canı gönülden (veya canı yürekten)	içtenlikle
 canı pek	acıya
@@ -25603,7 +25421,6 @@ cebriye	fatalizm
 cebriye	kadercilik
 cebriye	yazgıcılık
 cece	yenge
-ceddine rahmet!	"aferin	1"
 cedelleşme	becelleşme
 cedelleşme	cebelleşme
 cedelleşme	becelleşme
@@ -25645,7 +25462,6 @@ cehennem azabı	eziyet
 cehennem ol	defol!
 cehennem olmak	defolmak
 cehennem zebanisi	zalim
-cehenneme kadar yolu var	"defolsun	1"
 cehennemi	tamusal
 cehennemî	üzücü
 cehennemî	yakıcı
@@ -26226,7 +26042,6 @@ cıdağı	derin
 cıdak	mızrak
 cıgara	sigara
 cıgı	şamanist
-cık	"yok	1"
 cılduz	yıldız
 cılız	eneze
 cılız	nahif
@@ -26997,8 +26812,6 @@ cübür	pislik
 cüce	boyu
 cüce	gelişmemiş
 cüce	güdük
-cüce karabatak	küçük karabatak|küçük karabatak
-cüce karabatak|cüce karabatak	küçük karabatak
 cüce mürver	bodur mürver
 cücük	civciv
 cücük	filiz
@@ -27055,8 +26868,6 @@ cür'etkâr	atak
 cür'etkâr	cür'etli
 cür'etkâr	atak
 cür'etli	cür'etkâr
-cüre|cüre	çakırkanat
-cüre|cüre	çamurcun
 cüret	yüreklilik
 cüret	ataklık
 cüret	cesaret
@@ -27580,16 +27391,8 @@ cylindroid	yuvaksı
 çakır	çakır
 çakır	çakırdoğan
 çakır	şarap
-çakır	çakır kuşu|çakır kuşu
-çakır	bayağı çakır kuşu|bayağı çakır kuşu
 çakır	çakır
 çakır dikeni	deve çökerten
-çakır kuşu	çakır|çakır
-çakır kuşu	bayağı çakır kuşu|bayağı çakır kuşu
-çakır kuşu|çakır kuşu	bayağı çakır kuşu
-çakır kuşu|çakır kuşu	çakır
-çakır|çakır	bayağı çakır kuşu
-çakır|çakır	çakır kuşu
 çakırcı	eskiden
 çakırdiken	maydanozgillerden
 çakırdiken	deveelması
@@ -27597,10 +27400,6 @@ cylindroid	yuvaksı
 çakırdiken	deveelması
 çakırdoğan	çakır
 çakırdoğan	toğrul
-çakırkanat	cüre|cüre
-çakırkanat	çamurcun|çamurcun
-çakırkanat	eğrikoca|eğrikoca
-çakırkanat|çakırkanat	çamurcun
 çakırkeyf	çakırkeyif
 çakırkeyf	keyif hâli
 çakırkeyif	çakırkeyf
@@ -27711,17 +27510,12 @@ cylindroid	yuvaksı
 çalı dikeni	karaçalı
 çalı horozu	tavukgillerden
 çalı kuşu	serçegillerden
-çalı kuşu	bayağı çalı kuşu|bayağı çalı kuşu
-çalı kuşu|çalı kuşu	bayağı çalı kuşu
-çalıbülbülleri	ötleğengiller|ötleğengiller
-çalıbülbülleri|çalıbülbülleri	ötleğengiller
 çalıbülbülü	bayırkuşu
 çalıcı	çalgar
 çalık	çarpık
 çalık	çalgın
 çalık	çalgın
 çalık	çaluk
-çalıkuşu	bayağı çalıkuşu|bayağı çalıkuşu
 çalıları	tarla açmak
 çalım	gösteriş
 çalım	kurum
@@ -27999,10 +27793,6 @@ cylindroid	yuvaksı
 çamur ıslah metodu	fiziksel
 çamura taş atmak	çirkefe taş atmak
 çamurcuk	sazangillerden
-çamurcun	cüre|cüre
-çamurcun	çakırkanat|çakırkanat
-çamurcun	eğrikoca|eğrikoca
-çamurcun|çamurcun	çakırkanat
 çamurlamak	kötülemek
 çamurlu	balteg
 çamuru karnında, çiçeği burnunda	çiçeği burnunda
@@ -28146,10 +27936,6 @@ cylindroid	yuvaksı
 çapraz	kruvaze
 çapraz	paçarız
 çapraza sarmak	çaprazlaşmak
-çaprazgaga	bayağı çaprazgaga|bayağı çaprazgaga
-çaprazgaga	kızıl çaprazgaga|kızıl çaprazgaga
-çaprazgaga|çaprazgaga	bayağı çaprazgaga
-çaprazgaga|çaprazgaga	kızıl çaprazgaga
 çaprazlama	makaslama
 çaprazlama	evirme
 çaprazlama	kılıçlama
@@ -28259,7 +28045,6 @@ cylindroid	yuvaksı
 çaput	bez
 çaput	bez
 çaput	paçavra
-çaput|çaput	bez
 çarçabuk	çabucak
 çarçabuk	kolaylıkla
 çarçabuk	çabucacık
@@ -28372,13 +28157,10 @@ cylindroid	yuvaksı
 çarpılan	madrup
 çarpılmış	vuruk
 çarpım cetveli	çarpım tablosu
-çarpım cetveli	çarpım tablosu|çarpım tablosu
-çarpım cetveli	kerrat cetveli|kerrat cetveli
 çarpım cetveli	çarpım tablosu
 çarpım tablosu	çarpım cetveli
 çarpım tablosu	kerrat cetveli
 çarpım tablosu	çarpım cetveli
-çarpım tablosu|çarpım tablosu	çarpım cetveli
 çarpınçlı	sansasyonel
 çarpınım	faktöriyel
 çarpınmak	çırpınmak
@@ -28749,12 +28531,6 @@ cylindroid	yuvaksı
 çavunt	şöhret
 çavuş	huni
 çavuş kuşu	ibibik
-çavuş kuşu	hüthüt|hüthüt
-çavuş kuşu	ibibik|ibibik
-çavuş kuşu|çavuş kuşu	hüthüt
-çavuş kuşu|çavuş kuşu	ibibik
-çavuş kuşugiller	ibibikgiller|ibibikgiller
-çavuş kuşugiller|çavuş kuşugiller	ibibikgiller
 çavut	duvar
 çavut	sütun
 çay	çaygillerden
@@ -28796,12 +28572,8 @@ cylindroid	yuvaksı
 çayı görmeden paçaları sıvamak	dereyi görmeden paçaları sıvamak
 çayın	cûyun
 çayır	melis
-çayır delicesi	çayır tuygunu|çayır tuygunu
-çayır delicesi|çayır delicesi	çayır tuygunu
 çayır madımağı	kuş ekmeği
 çayır tirfili	baklagillerden
-çayır tuygunu	çayır delicesi|çayır delicesi
-çayır tuygunu|çayır tuygunu	çayır delicesi
 çayır yulafı	buğdaygillerden
 çayırkuşu	tarlakuşu
 çayırlamak	çayırlanmak
@@ -28964,14 +28736,6 @@ cylindroid	yuvaksı
 çekicilik	zarif
 çekiç	tokmak
 çekiç	orta kulak
-çekiç balığı	çekiç başlı köpekbalığı|çekiç başlı köpekbalığı
-çekiç balığı|çekiç balığı	çekiç başlı köpekbalığı
-çekiç balığıgiller	çekiç başlı köpekbalıkları|çekiç başlı köpekbalıkları
-çekiç balığıgiller|çekiç balığıgiller	çekiç başlı köpekbalıkları
-çekiç başlı köpekbalığı	çekiç balığı|çekiç balığı
-çekiç başlı köpekbalığı|çekiç başlı köpekbalığı	çekiç balığı
-çekiç başlı köpekbalıkları	çekiç balığıgiller|çekiç balığıgiller
-çekiç başlı köpekbalıkları|çekiç başlı köpekbalıkları	çekiç balığıgiller
 çekik	batık
 çekil	bas (veya bas git)
 çekilgi	inziva
@@ -29373,8 +29137,6 @@ cylindroid	yuvaksı
 çengel sakızı	kenger sakızı
 çengelleme	hukşat
 çengelleme atışı	hukşat
-çengelli ördek	büyük çamurcun|büyük çamurcun
-çengelli ördek|çengelli ördek	büyük çamurcun
 çengiz	deniz
 çengiz	cengiz
 çengiz	timuçin
@@ -29654,7 +29416,6 @@ cylindroid	yuvaksı
 çevirmenlik	çeviricilik
 çevirmenlik	dilmaçlık
 çevirmenlik	mütercimlik
-çevirmenlik|çevirmenlik	tercümanlık
 çevirti	anastrophe
 çevirtim	konversiyon
 çevlik	kapısuyu
@@ -30251,8 +30012,6 @@ cylindroid	yuvaksı
 çırpma	çırpış
 çırpma	pıttırma
 çırpmak	çalmak
-çıt kuşugiller	çit kuşugiller|çit kuşugiller
-çıt kuşugiller|çıt kuşugiller	çit kuşugiller
 çıtak	kaba
 çıtak	huysuz
 çıtak	kavgacı
@@ -30276,8 +30035,6 @@ cylindroid	yuvaksı
 çıtlık	menengiç
 çıtpıt	çatapat
 çıvgın	filiz
-çıvgın	bayağı çıvgın|bayağı çıvgın
-çıvgın|çıvgın	bayağı çıvgın
 çıvmak	sekmek
 çıvmak	çavmak
 çıvmak	sapmak
@@ -30508,13 +30265,11 @@ cylindroid	yuvaksı
 çin anasonu	manolyagillerden
 çin çamı	mabet ağacı
 çin dili ve edebiyatı	sinoloji
-çin floryası	doğu floryası|doğu floryası
 çin floryası	doğu floryası
 çin gülü	kamelya
 çin gülü	japon gülü
 çin gülü	japon gülü
 çin gülü	kamelya
-çin kocabaşı	göçmen kocabaş|göçmen kocabaş
 çin kocabaşı	göçmen kocabaş
 çin leylağı	tespih ağacı
 çinakop	lüfer
@@ -30642,10 +30397,6 @@ cylindroid	yuvaksı
 çit	yemeni
 çit	barı
 çit	çeper
-çit kuşu	bayağı çit kuşu|bayağı çit kuşu
-çit kuşu|çit kuşu	bayağı çit kuşu
-çit kuşugiller	çıt kuşugiller|çıt kuşugiller
-çit kuşugiller|çit kuşugiller	çıt kuşugiller
 çit sarmaşığı	sarılıcı
 çit sarmaşığıgiller	mahmude
 çitar	çitari
@@ -30736,8 +30487,6 @@ cylindroid	yuvaksı
 çizgili	yol yol
 çizgili	yollu
 çizgili	zefir
-çizgili çaprazgaga	ak kanatlı çaprazgaga|ak kanatlı çaprazgaga
-çizgili çaprazgaga|çizgili çaprazgaga	ak kanatlı çaprazgaga
 çizgilik	cetvel
 çizgisiz	düz
 çizi	çizgi
@@ -31062,10 +30811,6 @@ cylindroid	yuvaksı
 çokçuluk	plüralizm
 çokgen	poligon
 çokgen	poligon
-çokkatlı	1/2
-çokkatlı	1
-çokkatlı	2
-çokkatlı	3
 çoklar	aza kanaat etmeyen çoğu hiç bulamaz
 çokları	birçoğu
 çokluk	kesret
@@ -31135,7 +30880,6 @@ cylindroid	yuvaksı
 çopur	işkembe suratlı
 çor	hastalık
 çor	dert
-çor	zıkkım|zıkkım
 çorak	verimsiz
 çorak	kısır
 çorak	bakımsız
@@ -31267,8 +31011,6 @@ cylindroid	yuvaksı
 çöl	sahra
 çöl	yaban yer
 çöl	yam
-çöl yağmurcunu	büyük cılıbıt|büyük cılıbıt
-çöl yağmurcunu|çöl yağmurcunu	büyük cılıbıt
 çölde	bedevî
 çölde	ılgım
 çöle dönmek	bozulmak
@@ -31449,7 +31191,6 @@ cylindroid	yuvaksı
 çubukağacı	sütleğengillerden
 çubuklamak	halı
 çubuklar	kızbân
-çubuklu balinalar	dişsiz balinalar|dişsiz balinalar
 çubukluk	çubuk odası
 çucu	semerci
 çuçi	cuci
@@ -31486,8 +31227,6 @@ cylindroid	yuvaksı
 çul tutmaz	derbeder
 çul tutmaz	serseri
 çulçu	serçe
-çulha kuşu	bayağı çulha kuşu|bayağı çulha kuşu
-çulha kuşu|çulha kuşu	bayağı çulha kuşu
 çulluk	çullukgillerden
 çulluk	avrupa
 çulluk	göçebe
@@ -31646,11 +31385,7 @@ dağ bayır	kır
 dağ çayı	ada çayı
 dağ dağa kavuşmaz, insan insana kavuşur	insanlar
 dağ dağa kavuşmaz, insan insana kavuşur	tanışlar
-dağ horozu	huş tavuğu|huş tavuğu
-dağ horozu|dağ horozu	huş tavuğu
 dağ iklimi	sert
-dağ incir kuşu	su incir kuşu|su incir kuşu
-dağ incir kuşu|dağ incir kuşu	su incir kuşu
 dağ kırlangıcı	çobanaldatan
 dağ kırlangıcı	keçisağan
 dağ koyunu	anadolu yaban koyunu
@@ -31833,7 +31568,6 @@ daha	henüz
 daha	karşılaştırma derecesi
 daha bir	değişik
 daha bir	farklı
-daha iyisi can sağlığı	"bu	1"
 dahacık	işte
 dahacık	şurada
 dahası	ilâvesi
@@ -32170,7 +31904,6 @@ dallı budaklı	çapraşık
 dallı güllü	canlı
 dalma	istiğrak
 dalma	topuk kapmak
-dalmaçya pelikanı	tepeli pelikan|tepeli pelikan
 dalmaçya pelikanı	tepeli pelikan
 dalmaçyalı	sakin
 dalmaçyalı	sadık
@@ -32194,7 +31927,6 @@ dam	örtü
 dam	ruf
 dam	sakaf
 dam altı	barınılacak
-dam yandı, içindeki sıçan da (birlikte) yandı	"bu	1"
 dama	taş
 dama	taş sürmek
 dama demek	tükenmek
@@ -32572,7 +32304,6 @@ data	haberleşme teknikeri
 data	telekomünikasyon teknikeri
 data	veri
 datlı	yemiş
-dauria kargası	alaca küçük karga|alaca küçük karga
 dauria kargası	alaca küçük karga
 daüssıla	yurtsama
 daüssıla	nostalji
@@ -32979,14 +32710,12 @@ dayı	kuzen
 dayı	kuzin
 dayı	tumaçı
 dayı oğlu	dayızade
-dayı oğlu|dayı oğlu	dayızade
 dayıcılık	adam kayırma
 dayılanmak	aforozlanmak
 dayılık	kayırıcılık
 dayılık	kabadayılık
 dayılık	külhanbeylik
 dayıoğlu	dayızade
-dayızade	dayı oğlu|dayı oğlu
 dayızade	amca oğlu
 dayızade	dayı oğlu
 dayızade	dayıoğlu
@@ -33172,7 +32901,6 @@ defol!	cehennem ol
 defol!	siktir!
 defolmak	cehennem olmak
 defolmak	yıkılmak
-"defolsun	1"	cehenneme kadar yolu var
 defolu	bozuk
 defolu	özürlü
 defolu	özürlü
@@ -33405,7 +33133,6 @@ değgin	üstüne
 değgin	ait
 değginlik	aidiyet
 değil	olumsuzlama
-"değil	1"	nedürür
 değil mi ki	madem
 değil mi ki	mademki
 değilmi	hemi
@@ -33686,7 +33413,6 @@ dehlemek	haydamak
 dehlenmek	haydalanmak
 dehletmek	aşağılamak
 dehliz	koridor
-dehliz	hol|hol
 dehliz	koridor
 dehliz	dalan
 dehliz	koridor
@@ -34392,12 +34118,6 @@ deniz hamamı	plâj
 deniz hırsızı	korsan
 deniz iklimi	denizlerde
 deniz iklimi	adalarda
-deniz kartalı	ak kuyruklu kartal|ak kuyruklu kartal
-deniz kartalı	bayağı deniz kartalı|bayağı deniz kartalı
-deniz kartalı	beyaz kuyruklu kartal|beyaz kuyruklu kartal
-deniz kartalı|deniz kartalı	ak kuyruklu kartal
-deniz kartalı|deniz kartalı	bayağı deniz kartalı
-deniz kartalı|deniz kartalı	beyaz kuyruklu kartal
 deniz kazı	akbaş
 deniz kazı	akbaş
 deniz kırlangıcı	balıkçın
@@ -34422,7 +34142,6 @@ denizanası	medüz
 denizanası	medüz
 denizanası	medüz
 denizanası	pelte
-denizayısı	1
 denizbilimci	oşinograf
 denizci	mellah
 denizcilik	denizle
@@ -35813,8 +35532,6 @@ diken	çaltı
 diken diken	dikleşmiş
 diken dutu	böğürtlen
 diken dutu	böğürtlen
-diken kanatlı kız kuşu	mahmuzlu kız kuşu|mahmuzlu kız kuşu
-diken kanatlı kız kuşu|diken kanatlı kız kuşu	mahmuzlu kız kuşu
 diken üstünde oturmak	iğne üstünde oturmak
 dikenli	zor
 dikenli	çetin
@@ -36431,7 +36148,6 @@ dinsiz	farmason
 dinsiz	kitapsız
 dinsiz	mülhid
 dinsiz	mülhit
-dinsizin hakkından imansız gelir	"acımasız	1"
 dinsizlik	gâvurluk
 dinyayar	misyoner
 dinyayıcı	misyoner
@@ -36864,7 +36580,6 @@ dişli	amber balığı
 dişli	amberbalığı
 dişsil	sinni samit
 dişsildudaksıl	şefevi sinni
-dişsiz balinalar|dişsiz balinalar	çubuklu balinalar
 diştutmak	dişlenmek
 ditmek	yün
 ditmek	tiftmek
@@ -36942,7 +36657,6 @@ diye	adlı
 diye diye	söyleyerek
 diyecek	itiraz
 diyen	tekbencilik
-"diyen	1"	gûy
 diyerek	diye
 diyesi	meram
 diyet	perhiz
@@ -37166,10 +36880,6 @@ doğal	tabii
 doğal gaz	hidrojen
 doğal kaynak	hava
 doğal kaynak	su
-doğal sayı	1
-doğal sayı	2
-doğal sayı	3
-doğal sayı	0
 doğal varlık	hayvan
 doğalcı	natüralist
 doğalcı	natüralist
@@ -37424,9 +37134,7 @@ doğu bilimi	oryantalizm
 doğu bilimi	şarkiyat
 doğu bilimi	oryantalizm
 doğu cılıbıtı	asya yağmurcunu
-doğu cılıbıtı|doğu cılıbıtı	asya yağmurcunu
 doğu floryası	çin floryası
-doğu floryası|doğu floryası	çin floryası
 doğubilim	oryantalistik
 doğubilim	şarkiyat
 doğuç	doğuş
@@ -38045,8 +37753,6 @@ domuz	bocuk
 domuz	hınzır
 domuz	tonguz
 domuz ayrık otu	buğdaygillerden
-domuz balinasıgiller	muturgiller|muturgiller
-domuz balinasıgiller|domuz balinasıgiller	muturgiller
 domuz derisi post olmaz, eski düşman dost olmaz	inanmayınız
 domuz gibi	adamakıllı
 domuz gibi	iyice
@@ -38898,8 +38604,6 @@ drenaj	tefcir
 dripling	top sürme
 dripling yapmak	futbol
 drosera	droseragillerden
-droseragiller	sinekkapangiller|sinekkapangiller
-droseragiller|droseragiller	sinekkapangiller
 droseragillerden	drosera
 droseragillerden	sinekkapan
 droseragillerden	sinekkapan bitkisi
@@ -39126,7 +38830,6 @@ duran	durdu
 duran	toran
 duran	turgan
 durarak	durup durup
-duraylık|duraylılık	rijitlik
 durcu	durucu
 durdu	duran
 durdu	kalıcı
@@ -40451,7 +40154,6 @@ düzayak	sathî
 düzbaskı	tipografi
 düzdeğişmece	mürsel mecaz
 düzdizgi	hiza
-düzdizmek|düzdizim	hiza
 düzdöner	jiroskop
 düze	doz
 düze	düzen
@@ -40522,7 +40224,6 @@ düzeltmek	tedavi etmek
 düzeltmek	tensik etmek
 düzeltmek	toplamak
 düzeltmek	yatırmak
-"düzeltmek	1"	revize
 düzeltmeler	ıslahat
 düzeltmen	düzeltici
 düzeltmen	musahhih
@@ -45090,7 +44791,6 @@ estağfurullah	estafurullah
 estamp	metal
 estampaj	metal
 estanbol	istanbul
-estek köstek	"oyalamak	1"
 estelik	yadigar
 estelik	hatıra
 estetik	güzelduyu
@@ -45823,7 +45523,6 @@ etsiz	kuru
 etsiz	sıska
 etsiz	zayıf
 etsiz	lâgar
-"ettiği	1"	vakit
 etüt	araştırma
 etüt	öğrencilerin
 etüt	mütalâa
@@ -46294,7 +45993,6 @@ externalization	dışlaklama
 ey	bre
 ey	lan
 ey	ulan
-"ey	1"	bre
 eygi	ıyi
 eygi	salih
 eygi	temiz
@@ -47419,7 +47117,6 @@ fecî	korkunç
 fecî	tesirli
 fecir	alaca karanlık
 fecir	şafak
-fecri âti	"sanat	1"
 feçes	bok
 feda etmek	kıymak
 fedâ olmak	ölmek
@@ -48293,7 +47990,6 @@ fıtrî	doğuştan
 fıtriye	doğuştancılık
 fıtriye	doğuştancılık
 fıttırmak	fırttırmak
-fi	"-de	1"
 fi?l	iş
 fi?l	kâr
 fi?l	amel
@@ -48979,7 +48675,6 @@ fos	boş
 fos	kof
 fos çıkmak	boşçıkmak
 foseptik	lağım çukuru
-fosfor	1
 fosfor	fosforik asit
 fosfor	p
 fosforik	gübre
@@ -49013,9 +48708,6 @@ foslatmak	utandırmak
 foslatmak	utandırmak
 foslatmak	mahçup etmek
 fosseptik	lâğım çukuru
-fosur fosur	"tütün	1"
-fosur fosur	tütün
-fosurdatmak	tütün
 foşa	yomra
 foşa	boyhane
 foşurdata foşurdata	foşurdayarak
@@ -53112,9 +52804,6 @@ gönülsüz çocuksuzluk	çocuksuzluk
 gönülsüzce	istemeye istemeye
 gönülsüzlük	isteksizlik
 gönülsüzlük	rağbetsizlik
-gör	gör (veya görürsün)
-gör (veya görürsün)	gör
-gör bak	"görürsün	1"
 gör-me	mastar
 gördek	acı balık
 göre	gereğince
@@ -53188,7 +52877,6 @@ görelilik	izafiyet
 görelmek	yorgunluktan
 görememek	gözünden kaçmak
 gören	müşâhid
-"gören	1"	maslahatgüzar
 gören gözün hakkı vardır	yiyecek
 göreneğe	acayip
 görenek	âdet
@@ -53557,7 +53245,6 @@ görünüşü	hâli tavrı yerinde
 görünüşü kurtarmak	zevahiri kurtarmak
 görünüşü kurtarmak	zevahiri kurtarmak
 görüp gözetmek	korumak
-"görürsün	1"	gör bak
 görüş	fikir
 görüş	açı
 görüş	açı
@@ -53608,7 +53295,6 @@ görüşmek	ülfet etmek
 görüşmek	ziyaret etmek
 görüşmemek	duvar çekmek
 görüşmeyi	turpun sıkından seyreği iyidir
-"görüşmeyi	1"	turpun sıkından seyreği iyidir
 görüşü	yöneltimsiz görüşme
 görüşü	perde
 görüşüm	röportaj
@@ -54581,7 +54267,6 @@ gut	damla hastalığı
 gut	nıkris
 gut	nikris
 guval	kaval
-gûy	"diyen	1"
 gûy	konuşan
 guyana	surinam
 gübre	kemre
@@ -54872,10 +54557,6 @@ güçlükle	zor
 güçlükle	zor belâ
 güçlükle	zorlukla
 güçlükle	zoru zoruna
-güçlükler	müşkülât
-güçlüler	büyük balık küçük balığı yer
-güçlüler	büyük balık küçük balığı yutar
-"güçlüler	1"	büyük balık küçük balığı yutar
 güçlülük	pehlivanlık
 güçsüz	âciz
 güçsüz	abalı
@@ -56363,7 +56044,6 @@ hâk	toprak
 hak deyince akan sular durur	dürüstlük
 hak deyince akan sular durur	tarafsızlık
 hak dini	islâmiyet
-hak doğrunun yardımcısıdır	"tanrı	1"
 hak etmek	kazanımlamak
 hak evi	kâbe
 hak getire	yoktur
@@ -56375,7 +56055,6 @@ hak vermek	davasını
 hak yerde kalmaz	çiğnenmez
 hak yolu	doğruluk
 hakan	türk
-hakan	"başkan	1"
 hakan	han
 hakan	ilhan
 hakan	kağan
@@ -57116,7 +56795,6 @@ hanımeligillerden	türüz otu
 hanımeligillilerden	hanımeli
 hanımnine	haminne
 hani	hanigillerden
-hani	"nerede	1"
 hani	nerede
 hani	hani ya
 hani ya	hani
@@ -57271,7 +56949,6 @@ hararetli	canlı
 hararetli	alevli
 hararetli	hummalı
 hararetli	yibek
-haraşo	"iyi	1"
 haraza	kavga
 haraza	gürültü
 haraza	karışıklık
@@ -57580,7 +57257,6 @@ hars	ekin
 hars	kültür
 hars	kültür
 hart kakan	ağaçkakan
-harta	"sırasız	1"
 harta	sırasız
 hartadak	hartadan
 hartadak	harttadak
@@ -58257,7 +57933,6 @@ havhav	köpek
 havi	kapsayan
 havi olmak	kapsamak
 havi olmak	içermek
-havil	"korku	1"
 havil	korku
 havis	kuymak
 havlama	afkurma
@@ -58488,7 +58163,6 @@ haydutluk	şekavet
 hayfa	eyvah
 hayfa	yazık
 hayfa	heyhat!
-hayhay	"isteyerek	1"
 hayhay	isteyerek
 hayıf	haksızlık
 hayıf	insafsızlık
@@ -58530,7 +58204,6 @@ hayırlı	hayır
 hayırlı	iyi
 hayırlı	mebrur
 hayırlı	muhassenat
-"hayırlı	1"	mübarek olsun!
 hayırlı (veya hayırlısı) olsun	iyisi
 hayırlıdır	cahilin dostluğundan, alimin düşmanlığı yeğdir
 hayırperver	iyiliksever
@@ -59411,7 +59084,6 @@ hey	azar
 hey	be
 hey	hiş
 hey	yahu
-"hey	1"	hiş
 heyakil	heykeller
 heybet	korku
 heybet	mehabet
@@ -60219,7 +59891,6 @@ hilekâr	kampanacı
 hilekâr	orospu çocuğu
 hilekâr	orospu çocuğu
 hilekâr	polimci
-"hilekar	1"	şeytanla ortak buğday eken samanını alır
 hilekârlık	hilecilik
 hilekârlık	dolandırıcılık
 hilekârlık	cerbeze
@@ -60471,7 +60142,6 @@ histerik	isterik
 histerik	isterik
 histoloji	dokubilim
 histoloji	doku bilimi
-hiş	"hey	1"
 hiş	hey
 hiş	hişt
 hişt	hiş
@@ -60897,7 +60567,6 @@ hristiyanlık	hıristiyanlık
 hristiyanlık	isevîlik
 hristiyanlık	nasranîlik
 hs	hassiyum
-hu	"neredesin!	1"
 hu	neredesin!
 hububat	tahıl
 hububat	tahıl
@@ -61104,7 +60773,6 @@ huylar	şemail
 huylu	işkilli
 huylu	kuşkulu
 huylu	sinirli
-huylu huyundan vazgeçmez	"kişilik	1"
 huysuz	geçimsiz
 huysuz	şirret
 huysuz	acuze
@@ -61346,7 +61014,6 @@ hüner	beceri
 hüner	fazl
 hüner	marifet
 hüner	olçum
-"hüner	1"	varsa hünerin,her yerde vardır yerin
 hüner göstermek	becerisini
 hünerli	marifetli
 hünkâr	padişah
@@ -65068,7 +64735,6 @@ iman sahibi	ınanmış
 imanı yok (kısa söyleyişle)	acımasız
 imanı yok (kısa söyleyişle)	insafsız
 imanı yok (kısa söyleyişle)	kahrolası!
-imanım (kısa söyleyişle)	"kardeş	1"
 imanına kadar (kısa söyleyişle)	alabildiğince
 imaniye	fideizm
 imaniye	inancılık
@@ -66062,7 +65728,6 @@ inmiş	inik
 inorganik	anorganik
 inorganik	anorganik
 input	girdi
-insaf	"acı	1"
 insaf	merhamete
 insaf	acı
 insaf etmek	acımak
@@ -66135,7 +65800,6 @@ insan	söz biliyorsan söyle, inansınlar; bilmiyorsan söyleme, seni bir adam s
 insan	taşımacılık
 insan	taşmak
 insan	yurdun otlusundan kutlusu yeğdir
-"insan	1"	öküze boynuzu yük olmaz
 insan başlı	androsefal
 insan biçimcilik	antropomorfizm
 insan biçimcilik	antropomorfizm
@@ -66204,9 +65868,6 @@ insanlar	beniâdem
 insanlar	dağ dağa kavuşmaz, insan insana kavuşur
 insanlar	dile gelen ele gelir
 insanlar	eğretinin canı berk olur
-"insanlar	1"	aç tavuk kendini arpa ambarında sanır
-"insanlar	1"	tabak sevdiği deriyi yerden yere çalar
-"insanlar	1"	vardığın yer körse sen de gözünü kapa
 insanlarda	et
 insanları	hümanizm
 insanları	kışkırtıcı ajan
@@ -67374,7 +67035,6 @@ isteyerek	kasıtsız
 isteyerek	kasten
 isteyerek	kasti
 isteyerek	mahsus
-"isteyerek	1"	hayhay
 istiap etmek	sığdırmak
 istiap haddi	deniz
 istiare	ödünç
@@ -67912,11 +67572,7 @@ işi üç nalla bir ata kaldı	üç nalla bir ata kaldı
 işin	tekrar
 işin içinden çıkamamak	başaramamak
 işin içinden çıkmak (veya sıyrılmak)	kaçmak
-işin tuhafı	"anlaşılamayan	1"
 işin üstesinden gelmek	sonuçlandırmak
-işin yoksa şahit ol, paran çoksa kefil ol	tanık
-işin yoksa şahit ol, paran çoksa kefil ol	işini
-işin yoksa şahit ol, paran çoksa kefil ol	kefillik
 işinde	acemi
 işine bak!	görevini
 işine gelmek (veya gelmemek)	çıkarına
@@ -68755,7 +68411,6 @@ iyi	yeğrek
 iyi	yekrek
 iyi	yerinde
 iyi	yeyni
-"iyi	1"	haraşo
 iyi çalışan iyi yer	işleyen demir ışıldar
 iyi etmek	iyileştirmek
 iyi etmek	uygun
@@ -70088,8 +69743,6 @@ kadersiz	uğursuz
 kadersizlik	idbar
 kadı	boşanma
 kadı	nafaka
-"kadı	1"	kadı ekmeğini karınca yemez
-kadı ekmeğini karınca yemez	"kadı	1"
 kadı lokması	manas
 kadımalak	kuş ekmeği
 kadın	bayan
@@ -72851,7 +72504,6 @@ kardeş	dadaş
 kardeş	kardaş
 kardeş	kardeş kardeşin ne öldüğünü ister; ne onduğunu
 kardeş	karındaş
-"kardeş	1"	imanım (kısa söyleyişle)
 kardeş kardeş	dostlukla
 kardeş kardeş	dostça
 kardeş kardeş	sevgiyle
@@ -72987,7 +72639,6 @@ karı	zevce
 karı gibi	korkak
 karık	ark
 karık	ark
-karıklama	1-1
 karılık	haremlik
 karılık	zevcelik
 karılmak	karışmak
@@ -75565,11 +75216,6 @@ kelepçe	bilezik
 kelepçe	bukağı
 kelepir	okazyon
 kelepir	parti
-keler	keler balığı
-keler balığı	kelergillerden
-keler balığı	1
-keler balığı	keler
-kelergillerden	keler balığı
 keleş	yiğit
 keleş	cesur
 keleş	bahadır
@@ -75778,7 +75424,6 @@ kenar	yaka
 kenar mahalle	kenar semt
 kenar semt	kenar mahalle
 kenara atmak	önemsememek
-kendi	"kendisi	1"
 kendi	kişisel
 kendi	zat
 kendi	bizzat
@@ -75787,7 +75432,6 @@ kendi	öz
 kendi	şahsen
 kendi	zat
 kendi ağzıyla tutulmak	suçu
-kendi düşen ağlamaz	"bireyin	1"
 kendi hâlinde	sessiz
 kendi hâline	sessiz
 kendi hâline	sakin
@@ -75826,7 +75470,6 @@ kendinden geçmek	bayılmak
 kendinden geçmek	duygulanmak
 kendine	nama
 kendine	parmak yalamak
-"kendine	1"	parmak yalamak
 kendine gelmek	ayılmak
 kendine gelmek	kendini bulmak
 kendine has	kendine özgü
@@ -75862,7 +75505,6 @@ kendirgiller	kendir
 kendirgillerden	kenevir
 kendisi	bizatihi
 kendisi	bizzat
-"kendisi	1"	kendi
 kendisince	kendince
 kendisine	nama
 kendisine	namına
@@ -76298,7 +75940,6 @@ kesip biçmek	doğramak
 kesirler	küsur
 kesirler	küsurat
 kesirli	buçuklu
-kesirli sayı	1
 kesişmek	pazarlıkta
 kesit	kesim
 kesit	makta
@@ -76330,7 +75971,6 @@ keskin	sert
 keskin	yakmak
 keskin	yırtık
 keskin	zağlı
-"keskin	1"	oksalik
 keskin sirke küpüne (veya kabına) zarar	öfkeli
 keskinleştirmek	bilemek
 keskinleştirmek	yülümek
@@ -76427,7 +76067,6 @@ keşfetmek	bulmak
 keşfetmek	bulmak
 keşîd	vurma
 keşîd	dövme
-keşîd	"vurucu	1"
 keşide	çekiliş
 keşif	açma
 keşif	sezme
@@ -78233,7 +77872,6 @@ kızmış	mühted
 kızoğlan kız	kız
 kızoğlan kız	bakire
 ki	özneyi
-ki	"öyle	2"
 ki	çünkü
 ki	halbuki
 ki	mademki
@@ -78420,7 +78058,6 @@ kim	tümleç
 kim	nesne
 kim	ki
 kim bilir	belirsizlik
-"kimdir	1"	neyin nesi (kimin fesi)
 kimeçıktı	piyango
 kimeçıktı	piyango
 kimesne	kimse
@@ -78747,7 +78384,6 @@ kişi	balta sapını yonamaz
 kişi	bırakmak
 kişi	birey
 kişi	buldum bilemedim, bildim bulamadım
-kişi	"bülbülü altın kafese koymuşlar, ""ah vatanım"" demiş"
 kişi	bülbülü altın kafese koymuşlar, ah vatanım demiş
 kişi	cambaz ipte, balık dipte gerek
 kişi	can
@@ -78806,7 +78442,6 @@ kişi	yılana yumuşak diye el sunma
 kişi	yurttaşlar yasası
 kişi	zamir
 kişi	zat
-"kişi	1"	babaya dayanma,karıya güvenme
 kişide	koşutçuluk
 kişiler	eşhas
 kişiler	zevat
@@ -78829,7 +78464,6 @@ kişilik	nefis
 kişilik	şahsiyat
 kişilik	şahsiyet
 kişilik	yabanlık
-"kişilik	1"	huylu huyundan vazgeçmez
 kişilik dışı	gayrişahsî
 kişilikdışı	gayrişahsi
 kişilikli	şahsiyetli
@@ -79784,7 +79418,6 @@ kondansör	yoğuşturucu
 kondisyon	erk
 kondisyon	şart
 kondisyon	durum
-kondisyon	"şart	1"
 kondisyon bisikleti	tekerleksiz
 kondisyon bisikleti	üzerinde
 kondom	prezervatif
@@ -80448,7 +80081,6 @@ korku	ürk
 korku	ürpermek
 korku	vahşet
 korku	yüreği çarpmak
-"korku	1"	havil
 korku düşmek (veya korkuya kapılmak)	endişelenmek
 korku düşmek (veya korkuya kapılmak)	korkmak
 korku vermek	korkutmak
@@ -81278,7 +80910,6 @@ köktürk	göktürk
 köktürkçe	göktürkçe
 köktürkçe	göktürkçe
 kökünden	esasen
-köküne kibrit suyu	"ölsün	1"
 köle	kul
 köle	esir
 köle	abd
@@ -81348,7 +80979,6 @@ köpek	kuduz
 köpek	kuku
 köpek	manik
 köpek balığı	kıkırdaklı
-köpek soyu	"alçak	1"
 köpek soyu	alçak
 köpek suya düşmeyince yüzmeyi öğrenmez	kişi
 köpekayası	ballıbabagillerden
@@ -81727,7 +81357,6 @@ kötülük	şer
 kötülük	şirret
 kötülük	tencere dibin kara, seninki benden kara
 kötülük	yezitlik
-"kötülük	1"	tencere dibin kara, seninki benden kara
 kötülükçü	şerir
 kötülükçü	şerir
 kötülükçülük	şerirlik
@@ -82061,7 +81690,6 @@ kulak	örs
 kulak	baş
 kulak	kök
 kulak	kulakçı
-kulak asma!	"önemseme	1"
 kulak demiri	pulluklarda
 kulak kepçesi	kulağın
 kulak kulağa	gizlice
@@ -82653,7 +82281,6 @@ kurtarma	tahlisiye
 kurtarma aracı	kurtarıcı
 kurtarmak	kazandırmak
 kurtarmak	idare etmek
-"kurtarmak	1"	pöstekiyi sudan çıkarmak
 kurtbağrı	zeytingillerden
 kurtçuk	sürfe
 kurtçuk	lârva
@@ -84417,7 +84044,6 @@ laf etmek	konuşmak
 laf işitmek	paylanmak
 laf işitmek	azarlanmak
 lâf taşımak	lâkırdı  taşımak
-lâf yok!	"mükemmel	1"
 lâf yok!	kusursuz
 lâfa boğmak	unutturmak
 lâfa boğmak	karıştırmak
@@ -87242,7 +86868,6 @@ maslahat	mesele
 maslahat	iş]
 maslahat	[[mesele
 maslahat	iş
-maslahatgüzar	"gören	1"
 maslahatgüzar	yapan
 maslahatgüzar	işgüder
 maslahatgüzar	işgüder
@@ -88853,8 +88478,6 @@ mertebe	derece
 mertebe	rütbe
 mertebe	tor
 mertebeler	derecat
-mertek	4/10
-mertek	5/10
 mertek	düver
 mertlik	yiğitlik
 mertlik	erkeklik
@@ -89588,7 +89211,6 @@ mevsim	sezon
 mevsim	yöyen
 mevsim	zaman
 mevsimi	yumurtlama mevsimi
-mevsimli	"yersiz	1"
 mevsimli	gereksiz
 mevsimli	mevsimli mevsimsiz
 mevsimli mevsimsiz	mevsimli
@@ -90282,7 +89904,6 @@ milliyetperverlik	ulusseverlik
 milliyetperverlik	ulusseverlik
 milliyetsever	milliyetçi
 milyar	1000000000
-milyar	1000000000
 milyar	bilyon
 milyon	1000000
 mimar	örekmen
@@ -90336,7 +89957,6 @@ mineraloji	maden bilimi
 minerolog	mineral bilimci
 mineroloji	mineral bilimi
 mini	küçük
-minibüs	10
 minicik	ufacık
 minicik	küçücük
 minimal	minimum
@@ -92451,7 +92071,6 @@ mübarek	uğurlu
 mübarek	yemîn
 mübarek	yolluk
 mübarek	yumlu
-mübarek olsun!	"hayırlı	1"
 mübarek otu	birleşikgillerden
 mübarekdikeni	şevketibostan
 mübarekdikeni	akkız
@@ -92955,7 +92574,6 @@ mükemmel	tügüz
 mükemmel	yeti
 mükemmel	yetişgin
 mükemmel	yetkin
-"mükemmel	1"	lâf yok!
 mükemmelen	eksiksiz
 mükemmeliyet	mükemmellik
 mükemmeliyet	yetkinlik
@@ -94548,7 +94166,6 @@ nafile	boşuna
 nafile	yararsız
 naftalin	beyaz
 naftalin	alkol
-naftalin	1
 nagâh	birdenbire
 nagâh	ansızın
 nagâh	nâgehan
@@ -95366,7 +94983,6 @@ nedir ki	değersiz
 nedret	azlık
 nedret	seyreklik
 nedret kesbetmek	seyrelmek
-nedürür	"değil	1"
 nedürür	yok
 nefer	er
 nefer	kimse
@@ -95551,18 +95167,15 @@ nerde çokluk, orda bokluk	anlaşmazlıklarbelirir
 nerde|nerde	nerede
 nerdeyse	neredeyse
 nere	nereye
-nerede	"özlem	1"
 nerede	imkansızlık
 nerede	nerde|nerde
 nerede	hani
 nerede	neresi
-"nerede	1"	hani
 nerede ise	neredeyse
 nereden	nasıl
 nereden	işini bilmek
 nereden nereye	uzak
 neredesin!	hu
-"neredesin!	1"	hu
 neredeyse	akşama sabaha
 neredeyse	az daha
 neredeyse	ha
@@ -95863,7 +95476,6 @@ neye	niye
 neye uğradığını bilememek (veya şaşırmak)	sıkıcı
 neye uğradığını bilememek (veya şaşırmak)	neşeli
 neyi	hangisi
-neyin nesi (kimin fesi)	"kimdir	1"
 neymiş	güya
 neyse	uzatmayalım
 neyse	ne ise
@@ -96985,7 +96597,6 @@ oklayış	aldur
 oklu kirpi	kemirgenlerden
 okluk	sadak
 oklukirpi	kemirgenlerden
-oksalik	"keskin	1"
 oksalik	oksalik asit
 oksalik asit	oksalik
 oksidasyon	yükseltgenme
@@ -97431,7 +97042,6 @@ olivin	peridot
 olma	husul
 olma	olacak
 olma	vuku
-"olmadı	1"	sil baştan
 olmadık	alışılmamış
 olmadık	gereksiz
 olmadık	gayrivaki
@@ -97871,13 +97481,6 @@ ongunluk	bereket
 ongunluk	feyiz
 ongunluk	mutluluk
 ongunluk	saadet
-onlu	1
-onlu	2
-onlu	3
-onlu	4
-onlu	5
-onlu	6
-onlu	7
 onlu	muaşer
 onlu önekler	santi
 onlu önekler	mega
@@ -98866,7 +98469,6 @@ oyalamak	işgal etmek
 oyalamak	kendini avutmak
 oyalamak	lâfa tutmak
 oyalamak	meşgul etmek
-"oyalamak	1"	estek köstek
 oyalanma	eğlenme
 oyalanma!	çabuk ol (veya çabuk)
 oyalanmak	aldanmak
@@ -99684,7 +99286,6 @@ ozonölçer	ozonometre
 öküzburnu	serçegillerden
 öküzdili	sığırdili
 öküzdili	sığırdili
-öküze boynuzu yük olmaz	"insan	1"
 öküze boyunduruğunu kuyruğundan vurmak	acemice
 öküzgözü	bileşikgillerden
 öküzgözü	birleşikgillerden
@@ -100027,8 +99628,6 @@ ozonölçer	ozonometre
 ölmüş	ölü
 ölmüşler	mevta
 ölsün	boynu altında kalsın!
-"ölsün	1"	canı çıksın!
-"ölsün	1"	köküne kibrit suyu
 ölsün!	eksik olsun
 ölsüsüz	muvazenesiz
 ölü	ölmüş
@@ -100376,7 +99975,6 @@ ozonölçer	ozonometre
 önemli	varlık
 önemli	zayıf
 önemlice	ciddî
-"önemseme	1"	kulak asma!
 önemsemek	mühimsemek
 önemsemek	deyip de geçmemek
 önemsemek	mühimsemek
@@ -101017,7 +100615,6 @@ ozonölçer	ozonometre
 öykünülen	şablon
 öyle	o denli
 öyle	o yolda
-"öyle	2"	ki
 öyle gelmek	sanmak
 öyle gelmek	zannetmek
 öyle olsun	peki
@@ -101471,7 +101068,6 @@ ozonölçer	ozonometre
 özlem	özlenti
 özlem	tahassür
 özlem	tahassür
-"özlem	1"	nerede
 özlemden	yürek yarası
 özleme	iştiyak
 özleme	iştiyak
@@ -101863,7 +101459,6 @@ palamut	altıparmak
 palamut	lâkerda
 palamut	pelit
 palamut	sivri
-palamut meşesi	5-10m.boyunda
 palamutlular	kayıngiller
 palamutlular	kayıngiller
 palan	palanga
@@ -102586,9 +102181,6 @@ parmak hesabı	hece vezni
 parmak ısırtmak	şaşırtmak
 parmak kadar	küçücük
 parmak kaldı	neredeyse
-parmak parmak	parmaklayarak
-parmak yalamak	"kendine	1"
-parmak yalamak	kendine
 parmakla gösterilmek	seçkin
 parmaklamak	dürtmek
 parmaklayarak	parmak parmak
@@ -102848,9 +102440,7 @@ patlak	pırtlak
 patlak	pörtlek
 patlak	pörtlek
 patlak göz	pörtlek göz
-patlama	"sabret	1"
 patlama	infilak
-patlamak	{{t|yansıma}}
 patlamak	yeşermek
 patlamak	ansızın
 patlamak	atılmak
@@ -104812,7 +104402,6 @@ pörsümüş	porsuk
 pörtlek	patlak
 pörtlek	patlak
 pörtlek göz	patlak göz
-pöstekiyi sudan çıkarmak	"kurtarmak	1"
 pötikare	pitikare
 pr	praseodmiyum
 pragmacı	pragmatist
@@ -104904,7 +104493,6 @@ prevantoryum	önleyimevi
 prezantabl	sunulabilir
 prezantasyon	tanıtma
 prezantasyon	tanıştırma
-prezante	"tanıtmak	1"
 prezante etmek	sunmak
 prezante etmek	tanıştırmak
 prezante etmek	tanıtmak
@@ -106448,7 +106036,6 @@ reviş	yürüyüş
 reviş	üslûp
 reviş	tutum
 reviş	yol
-revize	"düzeltmek	1"
 revizyon	bakım
 revizyon	saptırım
 revizyon	düzeltme
@@ -106506,11 +106093,9 @@ rezaya	felaketler
 reze	menteşe
 reze	hırdavat
 reze	menteşe
-rezede	1
 rezede	rezede çiçeği
 rezede çiçeği	rezede
 rezene	maydanozgillerden
-rezene	1-1
 rezerv	saklanmış
 rezerv	yedek
 rezerv	ihtiyat
@@ -106730,14 +106315,6 @@ romantizm	duygu
 romanya	balkanlar
 romanya	macaristan
 romen	roman
-romen rakamları	v
-romen rakamları	x
-romen rakamları	l
-romen rakamları	c
-romen rakamları	5
-romen rakamları	10
-romen rakamları	50
-romen rakamları	100
 ropdöşambr	robdöşambr
 rotasyon	döngü
 rotatif	döner-basar
@@ -106811,10 +106388,6 @@ ruba	urba
 rubaba	kabak kemane
 rubaî	dördül
 rubaî	dördül
-rubidyum	1
-rubidyum	tütün
-rubidyum	alkali metaller
-rubidyum	rb
 rudbar	çay
 rudbar	akarsu
 ruf	çatı
@@ -107262,7 +106835,6 @@ sabote etmek	baltalamak
 sabote etmek	kundaklamak
 sabredememek	dayanamamak
 sabreden	sabırlı
-"sabret	1"	patlama
 sabretme	musabere
 sabretmek	dayanmak
 sabretmek	katlanmak
@@ -108826,7 +108398,6 @@ sanat	konuşma
 sanat	ruh bilimcilik
 sanat	terim
 sanat	üst yapı
-"sanat	1"	fecri âti
 sanat adamı	sanatçı
 sanat adamı	sanat eri
 sanat eri	sanat adamı
@@ -110007,7 +109578,6 @@ saygılı	hürmetli
 saygılı	istanbul efendisi
 saygılı	nazikçe
 saygılıca	hürmeten
-"saygım	1"	selâm olsun
 saygın	hatırlı
 saygın	itibarlı
 saygın	muteber
@@ -110817,7 +110387,6 @@ selâm	esenleme
 selâm	barış
 selâm	huzur
 selâm	esenleme
-selâm olsun	"saygım	1"
 selâm otu	maydanozgillerden
 selâm vermek	selâmlamak
 selamet	kurtuluş
@@ -111133,7 +110702,6 @@ senetli sepetli	sepetli
 senevî	yıllık
 senfoni orkestrası	üflemeli
 senfoni orkestrası	telli
-seni gidi seni (veya seni seni)	"yaramaz	1"
 seni gidi seni (veya seni seni)	haylaz
 senkron	eş zaman
 senkroni	eş zamanlılık
@@ -113219,7 +112787,6 @@ sırasız	yere
 sırasız	zamana
 sırasız	konuya
 sırasız	harta
-"sırasız	1"	harta
 sırat	yol
 sırat köprüsünden geçmek	sıkıntılı
 sıraya	sıralanmak
@@ -113656,7 +113223,6 @@ siktirici	bayağı
 siktirici	aşağılık
 siktirici	adî
 sil	silme
-sil baştan	"olmadı	1"
 silah	kesici
 silah	delici
 silah	tabanca
@@ -115792,7 +115358,6 @@ söylenecek	sıralamak
 söylenegelmiş	menkul
 söylenen	karşılamak
 söylenen	zebanzet
-"söylenen	1"	şimşek çakmadan gök gürlemez
 söylenilmek	söylenmek
 söylenilmek	denmek
 söyleniş	söyleyiş
@@ -117666,7 +117231,6 @@ süslemek	donatmak
 süslemek	müziklendirmek
 süslemek	nakşetmek
 süslemek	tezyin etmek
-"süslemek	1"	allamak
 süslemelik	tezyini
 süslemeye	süs
 süslenme	tuvalet
@@ -118404,7 +117968,6 @@ süzülmüş	süzük
 şart	kayıt
 şart	kondisyon
 şart	koşul
-"şart	1"	kondisyon
 şart kipi	şartlı birleşik zaman
 şart olmak	gerekmek
 şartlandırma	koşullandırma
@@ -119272,7 +118835,6 @@ süzülmüş	süzük
 şevketibostan	şevket otu
 şevketibostan	şevketotu
 şevketibostan	şevketotu
-şevketli	"büyüklük	1"
 şevketotu	şevketibostan
 şevketotu	akkız
 şevketotu	bostanotu
@@ -119342,7 +118904,6 @@ süzülmüş	süzük
 şeytanın bacağını kırmak	şeytanın ayağını kırmak
 şeytanî	şeytanca
 şeytanî	şeytanca
-şeytanla ortak buğday eken samanını alır	"hilekar	1"
 şeytanlık	hile
 şeytanlık	kurnazlık
 şeytanlık	şeytanet
@@ -119596,7 +119157,6 @@ süzülmüş	süzük
 şimşek	yalabık
 şimşek	yargın
 şimşek	yıldırak
-şimşek çakmadan gök gürlemez	"söylenen	1"
 şimşek gibi	çabucak
 şimşek gibi	birden
 şimşek gibi	aniden
@@ -120121,7 +119681,6 @@ tabak	ölüdoğa
 tabak	sofra takımı
 tabak	şangırtı
 tabak	tepsi
-tabak sevdiği deriyi yerden yere çalar	"insanlar	1"
 tabak sevdiği deriyi yerden yere çarpar	kişi
 tabaka	kat
 tabaka	katman
@@ -120163,8 +119722,6 @@ tabanca	namlu
 tabanca	silah
 tabanca	silâhlık
 tabancanın dolusu bir kişiyi korkutur, boşu kırk kişiyi	kişi
-tabancanın dolusu bir kişiyi,boşu kırk kişiyi korkutur	"tabancayı	1"
-"tabancayı	1"	tabancanın dolusu bir kişiyi,boşu kırk kişiyi korkutur
 tabanıyarık	korkak
 tabanları yağlamak	kaçmak
 tabanları yağlamak	sıvışmak
@@ -122092,7 +121649,6 @@ tanıtmak	gözler önüne sermek
 tanıtmak	prezante etmek
 tanıtmak	takdim etmek
 tanıtmak	tanıştırmak
-"tanıtmak	1"	prezante
 tanıtmalık	tarife
 tanıtmalık	prospektüs
 tanıtmalık	prospektüs
@@ -122162,8 +121718,6 @@ tanrı	üçleme
 tanrı	vermeyince mabut, ne yapsın mahmut?
 tanrı	yaradan
 tanrı	zülcelâl
-"tanrı	1"	allah dört gözden ayırmasın
-"tanrı	1"	hak doğrunun yardımcısıdır
 tanrı bilimci	ilâhiyatçı
 tanrı bilimci	teolog
 tanrı bilimi	teoloji
@@ -124488,10 +124042,6 @@ tek evli	tek eşli
 tek evlilik	tek eşlilik
 tek örnek	yeknesak
 tek örnek	tekdüze
-tek sayı	1
-tek sayı	3
-tek sayı	5
-tek sayı	7
 tek tanrıcı	monoteist
 tek tanrıcılık	insanın
 tek tanrıcılık	evreni
@@ -125600,7 +125150,6 @@ tenbe	at
 tencere	kapaklı
 tencere	kap kacak
 tencere	tel
-tencere dibin kara, seninki benden kara	"kötülük	1"
 tencere dibin kara, seninki benden kara	kötülük
 tendürüst	dinç
 tendürüst	sağlam
@@ -129312,7 +128861,6 @@ turpgillerden	tere
 turpgillerden	turp
 turpgillerden	yaban turpu
 turpgillerden	yabanî lâhana
-turpun sıkından seyreği iyidir	"görüşmeyi	1"
 turpun sıkından seyreği iyidir	görüşmeyi
 turşak	filiz
 turşak	sürgün
@@ -130397,7 +129945,6 @@ tütün	harman
 tütün	harmanlanmak
 tütün	rubidyum
 tütün	tiryaki
-"tütün	1"	fosur fosur
 tütün rengi	taba
 tütünü tepesinden çıkmak	kızmak
 tüvana	kuvvetli
@@ -131482,7 +131029,6 @@ uruk	boy
 urum	rum
 urup	çeyrek
 urus	rus
-uruş	"vuruşma	1"
 uryan	üryan
 us	akıl
 us	akıl
@@ -132281,7 +131827,6 @@ uygun gelmek	uymak
 uygun görmek	yakışır
 uygun olmak	bağdaşmak
 uygundur	yeridir
-"uygundur	1"	yeri var!
 uyguner	yakışır
 uyguner	yaraşır
 uyguner	yiğit
@@ -134765,7 +134310,6 @@ vâki	esirgeyen
 vakit	zaman
 vakit	çağ
 vakit	geçim
-vakit	"ettiği	1"
 vakit	imkân
 vakit	fırsat
 vakit	aralık
@@ -134904,7 +134448,6 @@ varda	savul
 varda	destur!
 vardavela	ağaç
 vardığın yer körse gözünü kapa	kişi
-vardığın yer körse sen de gözünü kapa	"insanlar	1"
 vardırma	iblâ
 vardırmak	götürmek
 vardiya	posta
@@ -135066,7 +134609,6 @@ varoluşçu	egzistansiyalist
 varoluşçuluk	egzistansiyalizm
 varoluşçuluk	egzistansiyalizm
 varoş	banliyö
-varsa hünerin,her yerde vardır yerin	"hüner	1"
 varsamak	var saymak
 varsanı	sanrı
 varsayım	kanıtlanmadan
@@ -135767,14 +135309,12 @@ vermek	uçlanmak
 vermek	uzatmak
 vermek	yağdırmak
 vermemek	kesmek
-vermeyince mabut, ne yapsın mahmut?	tanrı
 vermut	tatlı
 vernik	çelik macunu
 vernik	poliüretan
 version	eviriş
 versiyon	sürüm
 versiyon	sürüm
-veryansın	"acımadan	1"
 vesaik	belgeler
 vesaik	vesikalar
 vesaik	vesikalar
@@ -136246,8 +135786,6 @@ vuru	yüreğin
 vurucu	vuran
 vurucu	çalgar
 vurucu	çalkın
-"vurucu	1"	keşîd
-"vurucu	1"	zed
 vurucu güç	vurucu tim
 vurucu tim	vurucu güç
 vuruk	çarpık
@@ -136286,7 +135824,6 @@ vuruşma	muharebe
 vuruşma	muharebe
 vuruşma	toka
 vuruşma	töküş
-"vuruşma	1"	uruş
 vuruşmak	dövüşmek
 vuruşmak	savaşmak
 vuruşmak	çarpışmak
@@ -136758,7 +136295,6 @@ yağlı	dil peyniri
 yağlı	kete
 yağlı	petrol
 yağlı	tıkız
-yağlı boya	"açılın	1"
 yağlı boya	resim
 yağlı fındık	tombul
 yağlı ip	darağacı
@@ -136859,7 +136395,6 @@ yahtemil	ihtimal
 yahter	cacık
 yahu	hey
 yahu	be
-"yahu	1"	birader
 yahudi	musevî
 yahudi	korkak
 yahudi	cimri
@@ -137578,7 +137113,6 @@ yalnız	sırf
 yalnız	tek
 yalnız	tenha
 yalnız	yanlız
-"yalnız	1"	ancak
 yalnız taş, duvar olmaz	nasıl
 yalnızca	ancak
 yalnızca	salt
@@ -138494,7 +138028,6 @@ yapma	yapa
 yapma	yapı
 yapma	yapmacık
 yapma	yapmacık
-"yapma	1"	allah'tan kork!
 yapma uydu	suni peyk
 yapma! (yapmayın, yapmayınız!)	karşısındakini
 yapmacık	davranış
@@ -138724,7 +138257,6 @@ yaramaz	muzır
 yaramaz	sırpat
 yaramaz	şopar
 yaramaz	yeltek
-"yaramaz	1"	seni gidi seni (veya seni seni)
 yaramaz olmak	yaramazlaşmak
 yaramazlaşmak	muzırlaşmak
 yaramazlaşmak	haylazlaşmak
@@ -138854,7 +138386,6 @@ yarasalardan	vampir
 yarasalardan	yarasa
 yarasaların	göç
 yarasın	boğaz ola
-"yarasın	1"	afiyet şeker olsun
 yarasını deşmek	acıyı
 yarasını deşmek	tazelemek
 yaraşan	yaraşıklı
@@ -140494,7 +140025,6 @@ yazıklanmak	acınmak
 yazıklanmak	teessüf etmek
 yazıklı	günahkâr
 yazıksız	günahsız
-"yazıktır!"""	allah'tan kork!
 yazılacak	sıralamak
 yazılan	mihver
 yazılı	muharrer
@@ -141507,7 +141037,6 @@ yeri	ayak ucu
 yeri	mahal yok
 yeri	mesire
 yeri olmak	sırası
-yeri var!	"uygundur	1"
 yeri yurdu belirsiz	serseri
 yerici	yeren
 yerici	kabare tiyatrosu
@@ -141716,7 +141245,6 @@ yersiz	sululaşmak
 yersiz	sürtüp durmak
 yersiz	yolsuz
 yersiz	ziyan etmek
-"yersiz	1"	mevsimli
 yersizleştirme	yörüngeci
 yersizlik	uygunsuzluk
 yerucu	kutup
@@ -143084,14 +142612,8 @@ yok	namevcut
 yok	nanay
 yok	nedürür
 yok	şinanay
-"yok	1"	cık
-yok büyümez, arık büyür	gelişir
-yok büyümez, arık büyür	büyür
 yok canım	hayır
 yok canım	inanmayın
-yok devenin başı	devenin başı (papucu veya nalı)
-yok devenin başı	yok devenin pabucu
-yok devenin pabucu	yok devenin başı
 yok olmak	kaybolmak
 yok yoksul	fakir
 yokçu	hiççi
@@ -143206,7 +142728,6 @@ yoksulluk	sefalet
 yoksulluk	sefillik
 yoksulluk	yoksuzluk
 yoksulluk	zaruret
-"yoksulluk	1"	züğürt olup düşünmektense uyuz olup kaşınmak yeğdir
 yoksun	mahrum
 yoksun	cıbıl
 yoksun	mahrum
@@ -146038,7 +145559,6 @@ zecrî	zorlayan
 zecrî	yasaklayan
 zed	vurma
 zed	dövme
-zed	"vurucu	1"
 zedelemek	berelemek
 zedelemek	örselemek
 zedelenmek	vurma
@@ -146252,14 +145772,6 @@ zengin	varan
 zengin	variyetli
 zengin	varlı
 zengin	yağlı
-zengin	zengin arabasını dağdan aşırır, fakir düz ovada yolunu şaşırır
-zengin	zengin arabasını dağdan aşırır, züğürt düz ovada yolunu şaşırır
-zengin	zengin silkinse fakir bay olur
-"zengin	1"	zengin arabasını dağdan aşırır, fakir düz ovada yolunu şaşırır
-zengin arabasını dağdan aşırır, fakir düz ovada yolunu şaşırır	yoksul
-zengin arabasını dağdan aşırır, fakir düz ovada yolunu şaşırır	zengin
-zengin arabasını dağdan aşırır, fakir düz ovada yolunu şaşırır	"zengin	1"
-zengin arabasını dağdan aşırır, züğürt düz ovada yolunu şaşırır	zengin
 zengin erki	plutokrasi
 zengin erki	erkin
 zengin erki	pulutokrasi
@@ -147186,7 +146698,6 @@ züğürt	meteliksiz
 züğürt	parasız pulsuz
 züğürt	tıngır
 züğürt	tırıl
-züğürt olup düşünmektense uyuz olup kaşınmak yeğdir	"yoksulluk	1"
 züğürt tesellisi	boş
 züğürtlemek	parasız
 züğürtlük	parasızlık
