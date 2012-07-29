@@ -1,1 +1,19 @@
- 
+anlamlar.txt
+============
+
+anlamlar.txt dosyası 10535 adet kelimenin çevrimiçi bir sözlükteki
+anlamlarını içermektedir. Kelimeler ve anlamları ** dizgesi ile
+birbirlerinden ayrılmıştır. Dosyanın her bir satırında bir kelime
+ve anlamı yer almaktadır. Dosya oluşturulurken birden fazla anlam
+içeren kelimelerin sadece ilk anlamları alınmıştır.
+
+
+Son Güncelleme: 13 Eylül 2002
+Oluşturan: M. Fatih AMASYALI - Yıldız Teknik Üniversitesi
+Veri kümesi ile ilgili sorularınız için: mfatih at ce.yildiz.edu.tr
+
+￼Kemik Doğal Dil İşleme Grubu - Kelime Anlamları Veri Kümesi
+
+http://www.kemik.yildiz.edu.tr/?id=28
+http://www.kemik.yildiz.edu.tr/data/File/Kelime_anlamlari.zip
+
