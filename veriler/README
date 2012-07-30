@@ -32,6 +32,23 @@ Oluşturan: Anıl Özbek
 https://raw.github.com/maidis/mythes-tr/master/veriler/kelime-esanlamlisi.txt
 
 
+kelime-listesi.txt
+==================
+
+İnternet üzerindeki bir Windows tabanlı Türkçe sözlükteki  ve
+kelime-esanlamlisi.txt dosyasındaki kelimelerin birleşiminden
+oluşmuştur. 88705 adet kelime içermektedir. Dosya üzerinde bazı
+düzenlemeler ve kelime çıkarımları yapılması gerekebilir. Dosya
+eşanlamlılar sözlüğü boyunca değiştirileceği için dosyanın ilk
+haline kelime-listesi-ilk.txt dosyasından ulaşabilirsiniz.
+
+Son Güncelleme: 29 Temmuz 2012
+Oluşturan: Anıl Özbek
+
+https://raw.github.com/maidis/mythes-tr/master/veriler/kelime-listesi.txt
+https://raw.github.com/maidis/mythes-tr/master/veriler/kelime-listesi-ilk.txt
+
+
 relations.txt ve viki_rels.txt
 ==============================
 
