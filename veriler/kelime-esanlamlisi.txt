@@ -124138,8 +124138,6 @@ zemin	halı
 zemin	temel
 zemin	dayanak
 zemin	dünya
-zemin kat	zemin katı
-zemin katı	zemin kat
 zemin ve zamana uygun	konuya
 zeminde	konuda
 zemmetmek	kınamak
@@ -124473,8 +124471,6 @@ zırh	opçın
 zırh	pusat
 zırh	yarağ
 zırhlı	panzer
-zırhlı balık	zırhlı yayın
-zırhlı yayın	zırhlı balık
 zırıl zırıl	bolca
 zırıldamak	zırıldanmak
 zırıldamak	zırlamak
@@ -124529,7 +124525,6 @@ zıya	kayıp
 zıya	yitim
 zıya	kaybolma
 zıya	yitme
-zıya-ı kelam	sözyitimi
 zıynak	kaygan
 zıypak	kaygan
 zifaf	gerdek
@@ -124562,11 +124557,6 @@ zihin	an
 zihin	entelekt
 zihin	hatır
 zihin	kafa
-zihin açıklığı	zihin berraklığı
-zihin berraklığı	zihin açıklığı
-zihin bulanıklığı	zihin karışıklığı
-zihin jimnastiği	beyin jimnastiği
-zihin karışıklığı	zihin bulanıklığı
 zihince	zihnen
 zihinden	kafadan
 zihinden	zihnen
@@ -124592,12 +124582,6 @@ zikıymet	değerli
 zikıymet	kıymetli
 zikir	anma
 zikir	söyleme
-zikirler	ezkar
-zikr	kur'an
-zikr-i cüz irade-i kül	kapsamlayış
-zikr-i kül irade-i cüz	kapsamlayış
-zikr-i lazım irade-i melzum	öteleme
-zikr-i melzum irade-i lazım	öteleme
 zikreden	zâkir
 zikredilen	mezkûr
 zikretmek	anmak
@@ -124779,12 +124763,7 @@ zor	yaş
 zor	zorlu
 zor alım	müsadere
 zor belâ	güçlükle
-zor oyunu bozar	oyun
-zor oyunu bozar	hile
-zora	it canlı
-zora binmek	iş
-zora gelememek	baskıya
-zora gelememek	katlanamamak
+zora gelememek	baskıya katlanamamak
 zoraki	zorla
 zoraki	cebren
 zoraki	gıcırı bükme
@@ -124906,7 +124885,6 @@ zorunlu	mecburî
 zorunlu	ıstırarî
 zorunlu	farz
 zorunlu	muztar
-zorunluk	insanın
 zorunluk	mecburiyet
 zorunluk	zaruret
 zorunluk	ıstırar
@@ -124934,7 +124912,6 @@ zulmet	karanlık
 zulmetmek	can yakmak
 zulmetmek	kasıp kavurmak
 zulmetmek	kıymak
-zulmettiği	ah alan onmaz
 zulüm	acımasızlık
 zulüm	haksızlık
 zulüm	cefa
@@ -124970,7 +124947,6 @@ züğürt	meteliksiz
 züğürt	parasız pulsuz
 züğürt	tıngır
 züğürt	tırıl
-züğürt tesellisi	boş
 züğürtlemek	parasız
 züğürtlük	parasızlık
 züğürtlük	meteliksizlik
@@ -125009,7 +124985,6 @@ zülfaris	zülfaruz
 zülfaruz	zülfaris
 zülfü yâre dokunmak	kırmak
 zülfüyâr	zülüf
-zülfüyâre dokunmak	hatırlı
 züllü	alçak
 züllü	düşkün
 züllü	ayıp
@@ -125035,20 +125010,9 @@ zümrüt	yeşil
 zümrüt gibi	yemyeşil
 zümrütlenmek	yeşillenmek
 zümrütlenmek	yeşermek
-zünûb	günahlar
-züppe	giyinişte
-züppe	dilde
 züppe	snop
-züppece	alafranga
-züppeleşmek	giyiniş
-züppeleşmek	düşünüş
 züppelik	snopluk
 zürafa	zurnapa
-zürafa gibi	ince
-zürefa	kibarlar
-zürefa	nazikler
-zürefa	eşcinsel
-zürra	çiftçiler
 zürriyet	döl
 zürriyet	çocuk
 zürriyet	sulp
