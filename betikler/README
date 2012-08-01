@@ -1,1 +1,12 @@
- 
+merge-duplicates.awk
+====================
+
+awk -f merge-duplicates.awk kelime-esanlamlisi.txt | sed 's/ ;/ /' > output.txt
+
+http://stackoverflow.com/questions/6359734/merge-multiple-lines-into-single-line-by-value-of-column
+
+
+thesaurus-downloader.py
+=======================
+
+Just a test script
