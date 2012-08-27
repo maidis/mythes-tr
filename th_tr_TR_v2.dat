@@ -24885,8 +24885,6 @@ dokuları|1
 (noun)|farmakolog
 dokumacı|1
 (noun)|dokuyucu|tokur
-dokumacılıkta|1
-(noun)|apre|argaç|cağlık|jakar
 dokumacılık|1
 (noun)|tekstil
 dokumalar|1
@@ -41447,8 +41445,6 @@ hz|1
 (noun)|silkmek
 ıhı|1
 (noun)|işte
-ıhlamurgillerden|1
-(noun)|ıhlamur|jüt
 ıhlamurgiller|1
 (noun)|ikiçeneklilerden
 ıhlamur|1
@@ -47046,15 +47042,15 @@ izzetüikram|1
 jagar|1
 (noun)|jaguar
 jaguar|1
-(noun)|kedigillerden|postu|jagar
-jakar|1
-(noun)|dokumacılıkta
+(noun)|jagar|felis onca
 jaketatay|1
 (noun)|ceketatay
-jakobenizm|1
-(noun)|tepeden inmecilik
+jaketataylı|1
+(adj)|ceketataylı
 jakoben|1
 (noun)|tepeden inmeci
+jakobenizm|1
+(noun)|tepeden inmecilik
 jale|1
 (noun)|çiğ|kırağı|jale|şebnem|çalın|çilen|çiy
 jandarma|1
@@ -47213,10 +47209,8 @@ jüpiter|1
 (noun)|erendiz|müşteri
 jüri|1
 (noun)|hakem heyeti|seçiciler kurulu|yargıcılar kurulu
-jüt|1
-(noun)|ıhlamurgillerden
 jüvenil|1
-(noun)|şebabi
+(noun)|ham insan|yavru|genç|şebabi
 kaba beton|1
 (noun)|grobeton
 kababurun|1

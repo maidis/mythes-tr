@@ -40859,15 +40859,6 @@ izzetinefsine yedirememek
 izzetü ikram
 izzetüikbal
 izzetüikram
-j
-j j
-jagar
-jaguar
-jakar
-jaketatay
-jaketataylı
-jakoben
-jakobenizm
 jakuzi
 jale
 jalûzi
@@ -40996,8 +40987,6 @@ jülide
 jüpiter
 jüpon
 jüri
-jüt
-jüvenil
 k
 k, k
 ka'yseri
