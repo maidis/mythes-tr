@@ -2,12 +2,16 @@ UTF-8
 aba|2
 (noun)|abla|anne
 (noun)|barak|çuha|çul|keçe|kebe|şayak|palas
-abacı|1
-(noun)|bedavacı|asalak|kâbus|umacı
+abacı|3
+(noun)|bedavacı|asalak
+(noun)|keçeci
+(noun)|kâbus|umacı
 abacılık|1
 (noun)|keçecilik
-abadan|1
-(noun)|şen|bayındır|cömert|verici|bağışlayıcı|mamur
+abadan|3
+(adj)|şen|bayındır|mamur
+(adj)|cömert|verici
+(adj)|bağışlayıcı|gönül yapıcı
 abad etmek|1
 (noun)|bayındırlaştırmak
 abad olmak|1
@@ -40,8 +44,9 @@ abanozgillerden|1
 (noun)|abanoz
 abanozlaşmak|1
 (noun)|yanmak
-âba|1
-(noun)|pederler
+âba|2
+(noun)|pederler|babalar
+(noun)|mürşidler|ileri gelenler
 abar|1
 (noun)|gösteriş|heybetlilik|dirençli|dayanıklı|avar
 abartıcı|1
@@ -181,9 +186,9 @@ abıç|1
 abıdan|1
 (noun)|içli
 ab-ı hayat|1
-(noun)|bengisu
+(noun)|bengisu|dirim suyu|hayat suyu|yaşam suyu
 abıhayat|1
-(noun)|bengi su|dirim suyu
+(noun)|bengisu|dirim suyu|hayat suyu|yaşam suyu
 abıkan|1
 (noun)|mec.soylu
 abık|1
