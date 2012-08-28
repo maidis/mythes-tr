@@ -1011,7 +1011,6 @@ adsız parmak
 adsız sansız
 adsorban
 adsorpsiyon
-adwafwd
 aerobik
 aerobik solunum
 aerodinamik
@@ -5978,7 +5977,6 @@ at oynatmak
 at pazarında eşek osurtmuyoruz!
 at sineği
 at var, meydan yok
-at which
 at yiğidin yoldaşıdır
 at, adımına göre değil, adamına göre yürür
 ata
@@ -12943,7 +12941,6 @@ broş
 broşür
 brovning
 bröve
-bruxelles lâhanası
 brüksel lâhanası
 brülör
 brüt
@@ -13676,7 +13673,6 @@ bülbül kesilmek
 bülbülkonağı
 bülbülleşme
 bülbülleşmek
-bülbülü altın kafese koymuşlar, "ah vatanım" demiş
 bülbülü altın kafese koymuşlar, ah vatanım demiş
 bülbülün çektiği dili belâsı
 bülbülyuvası
@@ -14318,7 +14314,6 @@ castilla
 casus
 casusluk
 casusluk etmek
-catalexe
 catuk
 cav
 cavalacoz
@@ -26694,7 +26689,7 @@ etraflıca
 etsiz
 ettiği hayır, ürküttüğü kurbağaya değmemek
 ettiği yanına (kâr) kalmak
-ettiğini bulmak ( veya çekmek)
+ettiğini bulmak
 ettiğini yanına bırakmamak
 ettiğiyle kalmak
 ettirgen
@@ -26941,10 +26936,6 @@ evveliyat
 evvelki
 evvelleri
 evvelsi
-exchange
-exciton
-expressionnisme
-externalization
 ey
 eyalet
 eyer
@@ -29768,7 +29759,6 @@ gelincik
 gelincikgiller
 gelincikgillerden
 gelinfeneri
-gelini ata bindirmişler "ya nasip" demiş
 gelinkuşağı
 gelinlik
 gelinlik çağı
@@ -30065,7 +30055,6 @@ gerdirmek
 gere gere
 gereç
 gereçler
-gereği
 gereği düşünülmek
 gereği gibi
 gereğince
@@ -30090,7 +30079,6 @@ gerekli
 gerekli gereksiz
 gerekli görmek
 gerekli kılmak
-gerekliği
 gerekliıik
 gereklik
 gereklik kipi
@@ -30130,7 +30118,6 @@ gerginleşme
 gerginleşmek
 gerginleştirme
 gerginleştirmek
-gerginliği
 gerginlik
 gergöz
 geri
@@ -30662,7 +30649,6 @@ gizdökümlemek
 gizdüzen
 gizem
 gizemci
-gizemciliği
 gizemcilik
 gizemli
 gizemsel
@@ -30795,7 +30781,8 @@ gotlar
 govanmak
 goygoycu
 goygoyculuk
-göbeği biriyle bağlı (veya beraber kesilmiş)
+göbeği biriyle bağlı
+göbeği beraber kesilmiş
 göbeği çatlamak
 göbeği düşmek
 göbeği sokakta kesilmiş
@@ -31066,7 +31053,6 @@ gönder
 gönderen
 gönderi
 gönderici
-gönderildiği
 gönderilen
 gönderiler
 gönderiliş
@@ -31214,7 +31200,7 @@ gördürmek
 göre
 görece
 görececilik
-göreceği gelmek (veya göresi gelmek)
+göreceği gelmek
 göreceli
 görecelik
 göreci
@@ -32160,11 +32146,10 @@ güçlü
 güçlü kuvvetli
 güçlüdür
 güçlüğe
-güçlüğü ( veya güçlükleri) yenmek
 güçlük
 güçlük çekmek
 güçlük çıkarmak
-güçlükle
+güçlükleri yenmek
 güçlülük
 güçsünme
 güçsünmek
@@ -32222,7 +32207,7 @@ gük güven
 gül
 gül gibi
 gül gibi bakmak
-gül gibi geçinmek (veya yaşamak)
+gül gibi geçinmek
 gül rengi
 gül suyu
 gül üstüne gül koklamamak
@@ -32282,7 +32267,7 @@ gülmece
 gülmeceli
 gülmecesel
 gülmek
-gülmekten kırılmak (katılmak)
+gülmekten kırılmak
 gülmeyen
 gülmüş
 gülü seven dikenine katlanır
@@ -32309,7 +32294,8 @@ gülüntübetimlemek
 gülüntüçizim
 gülüntüçizimlemek
 gülüp geçmek
-gülüp oynamak (veya gülüp söylemek)
+gülüp oynamak
+gülüp söylemek
 gülüş
 gülüşme
 gülüşmek
@@ -32431,16 +32417,17 @@ gün yayı
 gün yeli
 gün-tün eşitliği
 günah
-günah benden gitti (veya gitsin)
+günah benden gitti
 günah çıkarmak
 günah işlemek
 günah keçisi
 günah olmak
 günaha girmek
 günaha sokmak
-günahı (veya vebali) boynuna
+günahı boynuna
 günahı kadar sevmemek
-günahına girmek (veya günahını almak)
+günahına girmek
+günahını almak
 günahını çekmek
 günahını vermez
 günahkâr
@@ -32467,7 +32454,6 @@ güncelleşme
 güncelleşmek
 güncelleştirme
 güncelleştirmek
-güncelliğini
 güncelliğini yitirmek
 güncellik
 gündaş
@@ -32504,7 +32490,7 @@ güneç
 güneğik
 güneş
 güneş açmak
-güneş almak (veya güneş görmek)
+güneş almak
 güneş balçıkla sıvanmaz
 güneş banyosu
 güneş batmak
@@ -32537,7 +32523,7 @@ güneşdoğmak
 güneşe karşı işemek
 güneşi üzerine doğdurmamak
 güneşin
-güneşin alnında (veya güneşin altında)
+güneşin alnında
 güneşleme
 güneşlemek
 güneşlendirme
@@ -32610,7 +32596,7 @@ günülemek
 günün adamı
 günün birinde
 gününde
-gününü (veya günlerini) saymak
+günlerini saymak
 gününü beklemek
 gününü doldurmak
 gününü görmek
@@ -32632,7 +32618,7 @@ gürecilik
 gürel
 gürelik
 güreş
-güreş etmek (veya tutmak)
+güreş tutmak
 güreş mayosu
 güreş minderi
 güreşçi
@@ -32666,7 +32652,7 @@ gürüldeme
 gürüldemek
 gürültü
 gürültü bastırmak
-gürültü çıkarmak (etmek, koparmak veya yapmak)
+gürültü çıkarmak
 gürültü çıkmak
 gürültü patırtı
 gürültücü
@@ -32675,10 +32661,9 @@ gürültülü patırtılı
 gürültüsüz
 gürültüsüzce
 gürültüye
-gürültüye (veya patırtıya pabuç bırakmamak)
-gürültüye (veya patırtıya vermek)
+gürültüye pabuç bırakmamak
 gürültüye gelmek
-gürültüye getirmek (veya boğmak)
+gürültüye getirmek
 gürültüye gitmek
 gürültüyle
 gürz
@@ -32710,7 +32695,7 @@ güvencelik
 güvencesiz
 güvenceye bağlamak
 güvenç
-güvendiği dağlara kar yağmak (veya güvendiği dal elinde kalmak)
+güvendiği dağlara kar yağmak
 güvendirmek
 güvenecek
 güvenerek
@@ -32719,7 +32704,6 @@ güveni sarsılmak
 güvenilen
 güvenilerek
 güvenilir
-güvenilirliği
 güvenilirlik
 güvenilme
 güvenilmek
@@ -32804,7 +32788,6 @@ güzelleştirilme
 güzelleştirilmek
 güzelleştirme
 güzelleştirmek
-güzelliği
 güzelliğini
 güzellik
 güzellik enstitüsü
@@ -32862,7 +32845,8 @@ haber göndermek
 haber kaynağı
 haber kipi
 haber merkezi
-haber salmak (veya yollamak)
+haber salmak
+haber yollamak
 haber stüdyosu
 haber uçurmak
 haber vermek
@@ -32900,7 +32884,6 @@ hac
 hacamat
 hacamat baltası
 hacamat etmek
-hacamat etmek (veya yapmak)
 hacamat şişesi
 hacamat yapmak
 hacamatçı
@@ -32976,7 +32959,6 @@ haddehane
 haddeleme
 haddelemek
 haddi hesabı yok
-haddi mi (veya haddine mi düşmüş)
 haddi olmamak
 haddikifayeyi bulmak
 haddinden fazla
@@ -33013,7 +32995,6 @@ hadsiz hesapsız
 haf
 hafakan
 hafakanlar basmak
-hafakanlar boğmak (veya basmak)
 hafazanallah
 hafız
 hafıza
@@ -33070,7 +33051,8 @@ hafriyatçı
 hafriyatçılık
 hafta
 hafta arası
-hafta arasında (veya içinde)
+hafta arasında
+hafta içinde
 hafta başı
 hafta içi
 hafta sekiz, gün dokuz
@@ -33114,14 +33096,13 @@ hak etmek
 hak evi
 hak getire
 hâk ile yeksan etmek
-hâk ile yeksan etmek (veya olmak)
 hak kazanmak
 hak kuşu
 hak sahibi
 hak vermek
 hak yemek
 hak yerde kalmaz
-hak yerini bulur (veya hak yerde kalmaz)
+hak yerini bulur
 hak yolu
 hakan
 hakanlık
@@ -33180,14 +33161,13 @@ hakkı var
 hakkıhıyar
 hakkıhuzur
 hakkın emri
-hakkın rahmetine kavuşmak (veya hakka kavuşmak, hakka yürümek)
+hakkın rahmetine kavuşmak
 hakkına
 hakkında
 hakkından gelmek
 hakkını
 hakkını aramak
 hakkını helal etmek
-hakkını helâl etmek (veya etmemek)
 hakkını helal etmemek
 hakkını vermek
 hakkını yemek
@@ -33250,7 +33230,7 @@ halat çekme
 halat ve kablo ekleyicisi
 halâvet
 halay
-halay çekmek (veya tepmek)
+halay çekmek
 halayık
 halayıklı
 halayıklık
@@ -33258,7 +33238,7 @@ halaza
 halazade
 halbuki
 hâlbuki
-hâlden anlamak (veya bilmek)
+hâlden anlamak
 haldır haldır
 hale
 hâle yola koymak
@@ -33270,7 +33250,7 @@ halef selef olmak
 halefler
 halel
 halel gelmek
-halel getirmek (veya getirmemek)
+halel getirmek
 halel vermek
 haleldar
 haleldar olmak
@@ -33291,7 +33271,7 @@ halıcılık
 hâlık
 hali
 hâli
-hâli (veya hâlleri) duman olmak
+hâli duman olmak
 hâli harap olmak
 hâli kalmamak
 hâli tavrı yerinde
@@ -33349,7 +33329,6 @@ halk yardakçılığı
 halk yardakçısı
 halk yönetimi
 halka
-halka (veya âleme) verir talkını (telkini), kendi yutar salkımı
 halka dizilişli
 halka dönük
 halka inmek
@@ -33442,7 +33421,7 @@ hamal sırığı
 hamala semeri yük olmaz
 hamalbaşı
 hamaliye
-hamallığını etmek (veya yapmak)
+hamallığını yapmak
 hamallık
 hamam
 hamam anası
@@ -33513,7 +33492,8 @@ hamlamak
 hamlaşma
 hamlaşmak
 hamle
-hamle etmek (veya yapmak)
+hamle etmek
+hamle yapmak
 hamleci
 hamletme
 hamletmek
@@ -33600,10 +33580,6 @@ hanendelik
 hangar
 hangar gibi
 hangi
-hangi peygambere kulluk edeceğini şaşırmak
-hangi taş pekse (katıysa), başını ona vur
-hangi taşı kaldırsan altından çıkar
-hangi taşı kaldırsan, altından çıkar
 hangisi
 hânık
 hanım
@@ -33643,7 +33619,7 @@ hanüman
 hanümanını yıkmak
 hanya
 hanya'yı konya'yı anlamak
-hanya'yı konya'yı göstermek (veya öğretmek)
+hanya'yı konya'yı göstermek
 hanya'yı konya'yı öğrenmek
 hanzi
 hap
@@ -33697,7 +33673,7 @@ haraca bağlamak
 haraca kesmek
 haraç
 haraç mezat satmak
-haraç yemek (veya almak)
+haraç almak
 haraççı
 haraççılık
 haraçlı
@@ -33725,7 +33701,7 @@ harar
 harar gibi
 hararet
 hararet basmak
-hararet kesmek (veya söndürmek)
+hararet kesmek
 hararet vermek
 hararetlendirme
 hararetlendirmek
@@ -33849,7 +33825,7 @@ hariciyeci
 hariciyecilik
 hariç
 hariç olmak
-hariçten gazel okumak (veya atmak)
+hariçten gazel okumak
 harîf
 harika
 harikalar yaratmak
@@ -33882,7 +33858,7 @@ harman çevirmek
 harman çorman
 harman dövmek
 harman dövmek keçinin işi değil
-harman etmek (veya yapmak)
+harman etmek
 harman savurmak
 harman sonu
 harman sonu dervişlerin
@@ -34026,15 +34002,17 @@ hassiyum
 hasta
 hasta bakıcı
 hasta bakıcılık
+hasta düşmek
 hasta etmek
 hasta ol benim için, öleyim senin için
-hasta olmak (veya düşmek)
+hasta olmak
 hastahane
 hastahanelerde
 hastahanelik
 hastahanelik etmek
 hastahanelik olmak
-hastahaneye kaldırmak (veya yatırmak)
+hastahaneye kaldırmak
+hastahaneye yatırmak
 hastalandırma
 hastalandırmak
 hastalanış
@@ -34042,8 +34020,7 @@ hastalanma
 hastalanmak
 hastalanmaz
 hastalık
-hastalık almak (hastalık kapmak veya hastalığa tutulmak)
-hastalık kantarla girer, miskalle çıkar
+hastalık kapmak
 hastalık tablosu
 hastalıkbilim
 hastalıkbilimsel
@@ -34061,7 +34038,7 @@ hasut
 hasutluk
 haşa
 hâşâ
-hâşâ huzurdan (veya huzurunuzdan)
+hâşâ huzurdan
 hâşâ sümme hâşâ
 haşarat
 haşarı
@@ -34122,7 +34099,7 @@ hat bekçisi
 hat çekmek
 hat-trick
 hata
-hata etmek (veya işlemek)
+hata etmek
 hata vuruşu
 hatalı
 hatalı yürüme
@@ -34135,7 +34112,7 @@ hatıllamak
 hatır
 hatır almak
 hatır belâsı
-hatır gönül bilmemek (saymamak veya tanımamak)
+hatır gönül bilmemek
 hatır hatır
 hatır hutur
 hatır için çiğ tavuk yemek
@@ -34143,7 +34120,7 @@ hatır için çiğ tavuk yenir
 hatır senedi
 hatır sormak
 hatıra
-hatıra (veya hatır ve hayale) gelmemek
+hatıra gelmemek
 hatıra defteri
 hatırat
 hatırbilmez
@@ -34156,7 +34133,7 @@ hatırına gelmek
 hatırında kalmak
 hatırında olmak
 hatırında tutmak
-hatırından (veya hatır ve hayalinden) geçmemek
+hatırından geçmemek
 hatırından çıkmamak
 hatırını hoş etmek
 hatırını kırmak
@@ -34199,7 +34176,6 @@ hatun
 hatun kişi
 hav
 hava
-hava açmak (veya açılmak)
 hava akımı
 hava alanı
 hava almak
@@ -34229,7 +34205,6 @@ hava haritası
 hava hoş
 hava hukuku
 hava indirme
-hava iyi (veya fena) esmek
 hava kaçırmak
 hava kanalı
 hava kapağı
@@ -34271,7 +34246,7 @@ havaçözüt
 havada
 havada kalmak
 havadan
-havadan sudan (konuşmak)
+havadan sudan
 havadan sudan konuşmak
 havadar
 havadis
@@ -34294,7 +34269,8 @@ havalara uçmak
 havale
 havale etmek
 havale gelmek
-havale göndermek (veya yollamak)
+havale göndermek
+havale yollamak
 havaleli
 havalename
 havalı
@@ -34323,7 +34299,7 @@ havasızlık
 havataşı
 havaya
 havaya gitmek
-havaya pala (veya kılıç) sallamak
+havaya pala sallamak
 havaya savurmak
 havaya uçmak
 havayı bozmak
@@ -34439,12 +34415,11 @@ hayat tarzı
 hayat vermek
 hayata atılmak
 hayata bağlamak
-hayata gözlerini yummak (veya kapamak)
+hayata gözlerini yummak
 hayata küsmek
 hayatı kaymak
 hayatın baharı
 hayatına girmek
-hayatını (birine) borçlu olmak
 hayatını kazanmak
 hayatını yaşamak
 hayatî
@@ -34502,7 +34477,7 @@ hayırdua
 hayırdua etmek
 hayırhah
 hayırhahlık
-hayırla anmak (veya yad etmek)
+hayırla anmak
 hayırlaşma
 hayırlaşmak
 hayırlı
@@ -36763,7 +36738,6 @@ hz
 ıstar
 ıstasyon
 ıstavroz
-ısteği
 ısteklendirme
 ısteklendirmek
 ısteklerini
@@ -36942,8 +36916,6 @@ hz
 ıvedi
 ıvedilikle
 ıvır zıvır
-ıx
-ıy
 ıydiye
 ıyi
 ıyice
@@ -37186,8 +37158,6 @@ içe dönüklük
 içe kapanık
 içe kapanıklık
 içe yöneliklik
-içeceği
-içeceğim
 içecek
 içecek suyu olmak
 içecekler
@@ -37333,7 +37303,7 @@ içini sarmak
 içini sıkmak
 içini yakmak
 içini yemek
-içinin (veya yüreğinin) yağı erimek
+içinin yağı erimek
 içinin ateşi küllenmek
 içirik
 içirilme
@@ -38246,7 +38216,6 @@ ilginlik
 ilgisi
 ilgisini kesmek
 ilgisiz
-ilgisizliğinden
 ilgisizlik
 ilgiyi
 ilgiyle
@@ -38266,10 +38235,10 @@ ilhanlı
 ilhanlık
 ilig
 iliğ
-iliğine (veya iliklerine) kadar
-iliğine işlemek (veya geçmek)
+iliğine kadar
+iliğine işlemek
 iliğine kadar ıslanmak
-iliğini (veya iliğini kemiğini) kurutmak
+iliğini kurutmak
 iliğini kemirmek
 ilik
 ilik gibi
@@ -38714,7 +38683,8 @@ ince ağrı
 ince ayrım
 ince bağırsak
 ince donanma
-ince eleyip (veya eğirip) sık dokumak
+ince eğirip sık dokumak
+ince eleyip sık dokumak
 ince gül yağı
 ince hastalık
 ince ince
@@ -38749,7 +38719,6 @@ inceletmek
 inceleyen
 inceleyerek
 inceleyici
-inceliği
 inceliğin
 incelik
 incelikle
@@ -38852,7 +38821,6 @@ inebe
 inebolu kütüğü
 ineç
 inegöl köftesi
-ineğin
 inek
 inek ağzından sağılır
 inek yağı
@@ -39615,12 +39583,7 @@ istavrit
 istavrit azmanı
 istavroz
 istavroz çıkarmak
-istediği
 istediği gibi at koşturmak
-istediğini
-isteğe
-isteği
-isteğin
 isteğince
 istek
 istek duymak
@@ -39907,7 +39870,7 @@ iş başa düşmek
 iş başı
 iş başı yapmak
 iş başında eğitim
-iş başında eğitim (görmek veya yapmak)
+iş başında eğitim görmek
 iş bırakımcı
 iş bırakımı
 iş bilenin, kılıç kuşananın
@@ -40228,7 +40191,7 @@ iştahlılık
 iştahsız
 iştahsızlık
 işte
-işten (bile) değil
+işten bile değil
 işten el çektirmek (veya çektirilmek)
 işten güçten kalmak
 işteş
@@ -40307,7 +40270,6 @@ ite atsan yemez
 ite dalanmaktan çalıyı dolanmak iyidir
 ite kaka
 ite ot, ata et vermek
-iteği
 itekleme
 iteklemek
 iteleme
@@ -40526,8 +40488,6 @@ iyileştirilemeyen
 iyileştirme
 iyileştirmek
 iyileştirmeler
-iyiliğe iyilik olsaydı, koca öküze bıçak olmazdı
-iyiliği
 iyiliği dokunmak
 iyilik
 iyilik bilmek
@@ -40851,7 +40811,6 @@ jurnalcilik
 jurnalleme
 jurnallemek
 juro
-juxtaposition
 jübile
 jül
 jülide
@@ -40893,16 +40852,12 @@ kabadayılık etmek
 kabadayılık taslamak
 kabahat
 kabahat bulmak
-kabahat etmek (veya işlemek)
-kabahat öldürende değil, ölendedir
-kabahat samur kürk olsa, kimse sırtına almaz
-kabahati (birine veya bir şeye) yüklemek
+kabahat etmek
 kabahatli
 kabahatlilik
 kabahatsiz
 kabahatsizlik
 kabak
-kabak (birinin) başına (veya başında) patlamak
 kabak çekirdeği
 kabak çıkmak
 kabak çiçeği
@@ -44894,9 +44849,6 @@ kedi olalı bir fare tuttu
 kedi otu
 kedi otugiller
 kedi uzanamadığı ciğere, pis der
-kedi yavrusunu yerken sıçana benzetir
-kedi yetişemediği (veya uzanamadığı) ciğere pis (veya murdar) dermiş
-kedi, yavrusunu yerken sıçana benzetir
 kediayağı
 kedibastı
 kedidili
@@ -44905,7 +44857,7 @@ kedigillerden
 kedigözü
 kedinin boynuna ciğer asılmaz
 kediyaladı
-kediye peynir ( veya ciğer) ısmarlamak
+kediye peynir ısmarlamak
 keeling adaları
 kefâ
 kefal
@@ -45120,7 +45072,7 @@ kemerli
 kemerlik
 kemersiz
 kemha
-kemiğine (kemiklerine) kadar
+kemiğine kadar
 kemik
 kemik atmak
 kemik bilimci
@@ -46999,15 +46951,8 @@ kimesne
 kimi
 kimi kimsesi
 kimi kimsesi olmamak
-kimi köprü bulamaz geçmeye, kimi su bulamaz içmeye
 kimi vakit
 kimi zaman
-kimileyin
-kimin arabasına binerse onun türküsünü çağırır
-kimine hay hay, kimine vay vay
-kiminin parası, kiminin duası
-kimisi
-kimliği
 kimlik
 kimlik asıllama
 kimlik belgesi
@@ -47242,7 +47187,6 @@ kişileşme
 kişileşmek
 kişileştirme
 kişileştirmek
-kişiliği
 kişilik
 kişilik dışı
 kişilik kazanmak
@@ -51304,7 +51248,6 @@ lavta
 lâvta
 lâvtacı
 lâvtacılık
-lawrencyum
 layemut
 lâyemut
 lâyenkati
@@ -53043,7 +52986,6 @@ maruz bulunmak (veya olmak)
 maruz kalmak
 maruz kalmak (veya kalmamak)
 maruzat
-marxçılık
 marya
 marya ağı
 marzi
@@ -53288,7 +53230,6 @@ mavracı
 mavruka
 mavuna
 mavzer
-maxime
 maya
 maya ağacı
 mayabozan
@@ -54080,7 +54021,6 @@ mermilerde
 merminin
 merraren
 merre
-merriam-webster
 merserize
 mersi
 mersin
@@ -57172,9 +57112,7 @@ müzminleştirme
 müzminleştirmek
 müzminlik
 mv
-mw
 myanmar
-n
 na
 nâ-çâr
 nâ-pesend
@@ -62280,7 +62218,6 @@ patatesli
 patavatsız
 patavatsızca
 patavatsızlık
-patchwork
 paten
 patenci
 patent
@@ -63881,7 +63818,6 @@ prekambriyen
 prelüt
 prematüre
 prens
-prens**
 prenses
 prenseslik
 prensip
@@ -64717,7 +64653,6 @@ refkeks
 refleks
 refleks yayı
 reflektör
-reflexology
 reform
 reformcu
 reformculuk
@@ -67322,7 +67257,6 @@ sazlık
 sazsız
 sb
 sc
-scallywag
 scanveging
 scatola
 schizofrenic barrier
@@ -67661,12 +67595,6 @@ selentereler
 selenterelerden
 selenterelerin
 selenyum
-self acceptance
-self awareness
-self determinasyon
-self-abasement
-self-deception
-self-discipline
 selfdeterminasyon
 selfservis
 seli suyu kalmamış
@@ -70991,7 +70919,6 @@ strüktüralist
 strüktüralizm
 strüktürel
 stüdyo
-stylistique
 su
 su (veya söz) götürmez
 su (yüzü) görmemiş
@@ -77197,7 +77124,7 @@ tetikleşme
 tetikleşmek
 tetiklik
 tetikte
-tetikte ( tetikte olmak, beklemek, bulunmak veya durmak)
+tetikte olmak
 tetir
 tetkik
 tetkik etmek
@@ -77278,7 +77205,6 @@ tevzi
 tevzi bürosu
 tevzi etmek
 tevziat
-textuellement
 teyakkuz
 teyel
 teyel ipliği
@@ -80218,15 +80144,6 @@ utma
 utmak
 utulma
 utulmak
-uub
-uue
-uuh
-uuo
-uup
-uuq
-uus
-uut
-uuu
 uvertür
 uvertür yapmak
 uvunmak
