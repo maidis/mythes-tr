@@ -32939,13 +32939,8 @@ güzün
 gyga
 gyte
 gzis
-ğ
-ğ, ğ
-h
-h, h
 ha
-ha ... ha ...
-ha babam (veya ha babam ha)
+ha babam ha
 ha bire
 ha bugün ha yarın
 ha deyince
@@ -32958,7 +32953,8 @@ haba
 habanera
 habaset
 habbe
-habbesi kalmadı (veya habbesi yok)
+habbesi kalmadı
+habbesi yok
 habbeyi kubbe yapmak
 hâbe
 haber
@@ -64479,13 +64475,6 @@ pütürlenmek
 pütürlü
 pütürsüz
 pütürsüzlük
-py
-qam
-qamcı
-qamçı
-quasi-proximity
-quiproquo
-r, r
 ra
 rab
 rabab
@@ -65677,10 +65666,6 @@ rüzgârlı havanın kuytusu, yağmurlu havanın uykusu
 rüzgârlık
 rüzgârölçer
 rüzgârsız
-s
-s, s
-s?e
-s.
 saadet
 saadet asrı
 saadet zinciri
@@ -82708,25 +82693,7 @@ vüs'at
 vüsat
 vüsûl
 vüzera
-w
-w, w
-walkman
-wc
-where
-wikipedia
-www.saglikli-yasamak.com[http://www.saglikli-yasamak.com]
-x
-x (veya röntgen) ışınları
-x, x
-xc
-xe
-xl
-xx
-xxx
-y
-y, y
 ya
-ya ... ya
 ya allah
 ya bu deveyi gütmeli ya bu diyardan gitmeli
 ya da
