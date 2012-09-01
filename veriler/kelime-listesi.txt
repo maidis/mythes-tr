@@ -755,7 +755,6 @@ adam olmak
 adam sarrafı
 adam sen de!
 adam sırasına geçmek
-adam yanıla yanıla, pehlivan yenile yenile
 adam yerine koymak
 adama
 adama dönmek
@@ -774,9 +773,6 @@ adamdan saymak
 adamet
 adamı
 adamım
-adamın adı çıkacağına canı çıksın
-adamın alacası içinde, hayvanın alacası dışında
-adamın iyisi alışverişte belli olur
 adamına çatmak
 adamına düşmek
 adamına göre
@@ -1670,31 +1666,31 @@ ağzından girip burnundan çıkmak
 ağzından hayır çıkmazsa bari şer söyleme
 ağzından kaçırmak
 ağzından kapmak
-ağzından lâkırdı (veya lâf) almak (veya çekmek)
+ağzından lâf almak
 ağzından lokmasını almak
 ağzından yel alsın
-ağzını (veya çenesini) tutmak
+ağzını tutmak
 ağzını açacağına gözünü aç
 ağzını açıp gözünü yummak
 ağzını açmak
 ağzını açmamak
-ağzını aramak (veya yoklamak)
+ağzını aramak
 ağzını bıçak açmamak
 ağzını bozmak
-ağzını burnunu çarşamba çanağına (veya pazarına) çevirmek
 ağzını burnunu dağıtmak
 ağzını dilini bağlamak
-ağzını havaya (veya poyraza) açmak
+ağzını havaya açmak
 ağzını hayra aç!
 ağzını hayra açmak
 ağzını kapamak
-ağzını kapamak (veya kilitlemek)
+ağzını kapamak
+ağzını kilitlemek
 ağzını kiraya vermek
 ağzını koklamak
-ağzını kullanmak (veya satmak)
+ağzını kullanmak
 ağzını mühürlemek
-ağzını öpeyim (veya seveyim)
-ağzını sıkı (veya pek) tutmak
+ağzını öpeyim
+ağzını sıkı tutmak
 ağzını tıkamak
 ağzını toplamak
 ağzını yoklamak
@@ -1702,13 +1698,13 @@ ağzınıhayra aç!
 ağzının içi yangın yerine dönmek
 ağzının içine baktırmak
 ağzının içine girmek
-ağzının kaşığı (kalıbı veya lokması) olmamak
+ağzının kaşığı olmamak
 ağzının kokusunu çekmek
 ağzının mührü ile
-ağzının payını (veya ölçüsünü) vermek
+ağzının payını vermek
 ağzının perhizi yok
 ağzının suyu akmak
-ağzının tadı bozulmak (veya kaçmak)
+ağzının tadı bozulmak
 ağzının tadını almak
 ağzının tadını bilmek
 ağzının tadını kaçırmak
@@ -1747,7 +1743,7 @@ ahçı
 ahçıbaşı
 ahçılık
 ahd
-ahde vefa (etmek)
+ahde vefa
 ahdetme
 ahdetmek
 ahdî
@@ -1844,9 +1840,6 @@ ahlat
 ahlât
 ahlatıerbaa
 ahlâtıerbaa
-ahlatın (veya armudun) iyisini (dağda) ayılar yer
-ahlatın iyisini ayılar yer
-ahmağa yüz, abdala söz vermeye gelmez
 ahmak
 ahmak yerine koymak
 ahmakça
@@ -1864,10 +1857,9 @@ ahret adamı
 ahret kardeşi
 ahret suali
 ahret yolculuğu
-ahreti (veya öbür dünyayı) boylamak
-ahretini yapmak (veya zenginleştirmek)
+ahreti boylamak
+ahretini yapmak
 ahretlik
-ahrette on parmağı yakasında olmak
 ahşa
 ahşap
 ahşap iskelet
@@ -5206,7 +5198,7 @@ arlı arından, huysuz huyundan vazgeçmez
 arma
 arma donatmak
 arma soymak
-arma uçurmak (veya arma budatmak)
+arma uçurmak
 armada
 armador
 armadura
@@ -5228,15 +5220,12 @@ armonyum
 armudî
 armudiye
 armudu soy ye, elmayı say ye
-armudun iyisini (dağda) ayılar yer
 armudun iyisini ayılar yer
 armut
 armut gibi
 armut kabağı
 armut kurusu
 armut piş ağzıma düş!
-armut top
-armutun sapı var, üzümün (veya kirazın) çöpü var demek
 armuz
 arnavut
 arnavut bacası
@@ -5256,7 +5245,8 @@ aromatik
 arozöz
 arp
 arpa
-arpa boyu kadar gitmek (veya yol almak)
+arpa boyu kadar gitmek
+arpa boyu kadar yol almak
 arpa ektim, darı çıktı
 arpa güvesi
 arpa suyu
@@ -5418,7 +5408,7 @@ arzu duymak
 arzu etmek
 arzuhal
 arzuhâl
-arzuhâl gibi (veya kadar)
+arzuhâl gibi
 arzuhâlci
 arzuhâlcilik
 arzulama
@@ -5444,7 +5434,6 @@ asabiyet
 asal
 asal gazlar
 asal sayı
-asal sayı(lar)
 asalağı
 asalağın
 asalak
@@ -5496,7 +5485,7 @@ asgarî
 asgarî ücret
 ashap
 ası
-asıda olmak (veya asıda kalmak)
+asıda olmak
 asıglı
 asık
 asık suratlı
@@ -5600,7 +5589,7 @@ askılı
 askılık
 askıntı
 askıya almak
-askıya çıkarmak (veya çıkarılmak)
+askıya çıkarmak
 askıya çıkmak
 askıyeri
 asklı
@@ -5630,7 +5619,6 @@ aslansı
 aslansütü
 aslen
 aslı astarı
-aslı astarı (veya aslı aslı) olmamak
 aslı çıkmak
 aslı faslı yok
 aslı nesli
@@ -5685,7 +5673,7 @@ ast
 astar
 astar boyası
 astar kaplama
-astar sürmek (veya vurmak, çekmek)
+astar sürmek
 astarı yüzünden pahalı olmak
 astarıyüzünden pahalıolmak
 astarlama
@@ -5758,21 +5746,15 @@ aş taşınca kepçeye paha olmaz
 aş tavası
 aş yermek
 aşağı
-aşağı (falan) yukarı
 aşağı almak
 aşağı bitkiler
 aşağı cuk oturmak
 aşağı düşmek
 aşağı görmek
-aşağı kalır yeri (veya yanı) yok
+aşağı kalır yanı yok
 aşağı kalmamak
 aşağı kurtarmaz
-aşağı mahalle
-aşağı tükürsem sakal
-aşağı tükürsem sakalım, yukarı tükürsem bıyığım
-aşağı tükürsen sakal yukarı tükürsen bıyık
 aşağı yukarı
-aşağı yukarı (yürümek)
 aşağıalmak
 aşağıda
 aşağıdakiler
@@ -5831,7 +5813,6 @@ aşığı cuk oturmak
 aşık
 âşık
 aşık atmak
-aşık atmak (veya aşık oynamak)
 aşık kemiği
 âşık olmak
 âşıkane
@@ -5951,9 +5932,9 @@ at
 at ahırı
 at anası
 at at oluncaya kadar sahibi mat olur
-at başı (beraber) gitmek
+at başı gitmek
 at beslenirken, kız istenirken
-at binenin (veya iş bilenin), kılıç kuşananın
+at binenin, kılıç kuşananın
 at binicisine göre kişner
 at binicisini tanır
 at cambazı
@@ -5972,7 +5953,6 @@ at koşturmak
 at kudümüy yurt kudümü, avrat kudümü
 at meydanı
 at nalı kadar
-at olur, meydan olmaz (bulunmaz), meydan olur (bulunur), at olmaz (bulunmaz)
 at oynatmak
 at pazarında eşek osurtmuyoruz!
 at sineği
@@ -6049,7 +6029,7 @@ ateş
 ateş açmak
 ateş alev ile söndürülmez
 ateş almak
-ateş bacayı (veya saçağı) sarmak
+ateş bacayı sarmak
 ateş balığı
 ateş basmak
 ateş böceği
@@ -6092,11 +6072,11 @@ ateşe vermek
 ateşe vurmak
 ateşe vursa duman vermez
 ateşi başına vurmak
-ateşi çıkmak (veya yükselmek)
+ateşi çıkmak
 ateşi düşmek
 ateşi uyandırmak
 ateşin
-ateşine (veya nârına) yanmak
+ateşine yanmak
 ateşini almak
 ateşkes
 ateşkesilmek
@@ -6168,7 +6148,7 @@ atın bahtsızı arabaya düşer
 atın ölümü arpadan olsun
 atını sağlam kazığa bağlamak
 atıp
-atıp (veya atmak) tutmak
+atıp tutmak
 atış
 atış yeri
 atışbilim
@@ -6192,7 +6172,7 @@ atkılı
 atkuyruğu
 atkuyruğugiller
 atkuyruğugillerden
-atla arpayı dövüştürmek (veya dalaştırmak)
+atla arpayı dövüştürmek
 atladı geçti genç osman!
 atlama
 atlama beygiri
@@ -6322,7 +6302,7 @@ avantür
 avantüriyer
 avar
 avara
-avara kasnak işlemek (veya dönmek)
+avara kasnak işlemek
 avaraya almak
 avarca
 avare
@@ -6335,7 +6315,7 @@ avarelik
 avarız
 avarya
 avaz
-avaz avaz (bağırmak)
+avaz avaz
 avazı çıktığı kadar
 avcı
 avcı eri
@@ -6403,7 +6383,7 @@ avşarlamak
 avşarlandırmak
 avşarlanmak
 avuç
-avuç (veya el) açmak
+avuç açmak
 avuç avuç
 avuç dolusu
 avuç içi
@@ -6425,13 +6405,13 @@ avunmuş
 avuntu
 avurdu avurduna geçmek
 avurt
-avurt satmak (veya avurt zavurt etmek)
+avurt satmak
 avurt şişirmek
 avurt ünsüzü
 avurt zavurt etmek
 avurtlama
 avurtlamak
-avurtları çökmek (veya avurtları birbirine geçmek)
+avurtları çökmek
 avurtlu
 avustralya
 avustralya kara tavuğu
@@ -6465,7 +6445,7 @@ ay karanlığı
 ay modülü
 ay örümceği
 ay parçası
-ay parçası (gibi)
+ay parçası gibi
 ay takvimi
 ay tutulması
 ay uzaklığı
@@ -6480,12 +6460,12 @@ ayağa düşmek
 ayağa fırlamak
 ayağa kaldırmak
 ayağa kalkmak
-ayağı (veya ayakları) dolaşmak
-ayağı (veya ayakları) suya ermek
-ayağı alışmak (veya alışmamak)
+ayağı dolaşmak
+ayağı suya ermek
+ayağı alışmak
 ayağı düşmek
 ayağı düze basmak
-ayağı ile (veya kendi ayağı ile) gelmek
+ayağı ile gelmek
 ayağı uğurlu
 ayağı üzengide
 ayağı yerden kesilmek
@@ -6777,7 +6757,6 @@ ayın on dördü gibi
 ayınga
 ayıngacı
 ayıngacılık
-ayının kırk türküsü var, kırkı da ahlat üstüne
 ayınları çatlatmak
 ayıntap
 ayıp
@@ -40690,13 +40669,6 @@ izzetinefsine yedirememek
 izzetü ikram
 izzetüikbal
 izzetüikram
-jakuzi
-jale
-jalûzi
-jambon
-jambonluk
-jandarma
-jandarmalık
 janjan
 janjanlı
 janr
@@ -40817,9 +40789,6 @@ jülide
 jüpiter
 jüpon
 jüri
-k
-k, k
-ka'yseri
 kaba
 kaba beton
 kaba dayı
@@ -87272,7 +87241,6 @@ zahm
 zahmet
 zahmet çekmek
 zahmet etmek
-zahmet etmek (zahmete girmek veya zahmete katlanmak)
 zahmet olmak
 zahmet olmazsa
 zahmet vermek
@@ -87618,7 +87586,8 @@ zelil olmak
 zelve
 zelzele
 zem
-zembereği boşalmak (veya boşanmak)
+zembereği boşalmak
+zembereği boşanmak
 zemberek
 zemberek gibi
 zemberek kurulmak
@@ -87659,16 +87628,11 @@ zendost
 zendostluk
 zengillik
 zengin
-zengin arabasını dağdan aşırır, fakir düz ovada yolunu şaşırır
 zengin erki
 zengin etmek
 zengin kafiye
 zengin olmak
-zengin silkinse fakir bay olur
 zengince
-zenginin azğını, kürk giyer yaz günü
-zenginin iki dünyası da mamurdur
-zenginin malı züğürdün çenesini yorar
 zenginle
 zenginleme
 zenginlemek
@@ -87713,7 +87677,7 @@ zevahir
 zevahiri kurtarmak
 zevaid
 zeval
-zeval bulmak (veya zevale ermek)
+zeval bulmak
 zeval vakti
 zeval vermek
 zeval vermemek
@@ -87738,7 +87702,7 @@ zevk için
 zevke
 zevki
 zevki çıkmak
-zevkinde olmak (veya zevkine bakmak)
+zevkine bakmak
 zevkine gitmek
 zevkine varmak
 zevkini çıkarmak
@@ -87799,7 +87763,7 @@ zıbarmak
 zıbıdı
 zıbın
 zıddı olmak
-zıddına basmak (veya bir şey birinin zıddına gitmek)
+zıddına gitmek
 zıddiyet
 zıh
 zıhlama
@@ -87908,7 +87872,7 @@ zırlamak
 zırlatma
 zırlatmak
 zırnık
-zırnık (bile) koklatmamak
+zırnık koklatmamak
 zırnık bile vermemek
 zırt fırt
 zırt kaba kâğıt
@@ -87956,7 +87920,7 @@ zifos
 zifos atmak
 zift
 zift gibi
-zift yesin (veya ziftin pekini yesin)
+ziftin pekini yesin
 ziftinmek
 ziftleme
 ziftlemek
@@ -87987,7 +87951,7 @@ zihnî
 zihni açılmak
 zihni alt üst etmek
 zihni boşalmak
-zihni bulanmak (veya karışmak)
+zihni bulanmak
 zihni takılmak
 zihnine girmek
 zihnine yerleştirmek
@@ -87996,7 +87960,6 @@ zihnini bulandırmak
 zihnini çelmek
 zihnini dağıtmak
 zihnini kurcalamak
-zihnini kurcalamak (veya tırmalamak)
 zihnini oynatmak
 zihnini toplamak
 zihniye
@@ -88083,7 +88046,6 @@ ziraks
 zirkon
 zirkonyum
 zirve
-zirve (veya doruk) toplantısı (veya konferansı)
 zirve konferansı
 zirve toplantısı
 zirzop
@@ -88103,11 +88065,10 @@ ziyadeleşmek
 ziyadesiyle
 ziyafet
 ziyafet çekmek
-ziyafet çekmek (veya vermek)
+ziyafet vermek
 ziyalı
 ziyan
 ziyan etmek
-ziyan olan koyunun kuyruğu yağlı olur
 ziyan olmak
 ziyan zebil olmak
 ziyanı yok!
