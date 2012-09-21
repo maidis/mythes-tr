@@ -2093,7 +2093,6 @@ akıl dişi
 akıl doktoru
 akıl durdurmak
 akıl erdirememek
-akıl erdirememek (veya ermemek)
 akıl erdirmek
 akıl etmek
 akıl hastahanesi
@@ -2109,7 +2108,7 @@ akıl kutusu
 akıl öğretmek
 akıl sır ermemek
 akıl terelelli
-akıl var, yakın var (veya akıl var, izan var)
+akıl var, yakın var
 akıl vermek
 akıl yaşta değil, baştadır
 akıl yormak
@@ -2135,12 +2134,9 @@ akıllara seza
 akıllara şifa
 akıllara zarar
 akıllara ziyan
-akılları pazara çıkarmışlar, herkes yine kendi akılını almış (veya akıllar gelin olmuş, herkes kendininkini beğenmiş)
 akıllı
 akıllı bilet
-akıllı düşününceye kadar deli çocuğunu (veya oğlunu) everir
 akıllı geçinmek
-akıllı köprü arayıncaya dek deli suyu geçer
 akıllı olmak
 akıllı uslu
 akıllıca
@@ -2150,9 +2146,6 @@ akılsal
 akılsallaştırma
 akılsallaştırmak
 akılsız
-akılsız başın cezasını ayak çeker (veya akılsız iti veya köpeği yol kocatır)
-akılsız başın cezasını ayaklar çeker
-akılsız iti yol kocatır
 akılsızca
 akılsızlık
 akılsızlık etmek
@@ -2236,11 +2229,10 @@ akla gelmez
 akla hayale gelmez
 akla karayı seçmek
 akla sığar gibi
-akla sığmak (veya sığmamak)
+akla sığmamak
 akla yakın
 akla yatkın
 akla zarar
-akla zarar (veya ziyan)
 akla ziyan
 aklama
 aklama belgesi
@@ -2264,7 +2256,6 @@ aklı başına gelmek
 aklı başında
 aklı başında olmamak
 aklı başından bir karış yukarda
-aklı başından bir karış yukarı (veya yukarıda)
 aklı başından gitmek
 aklı başka yerde olmak
 aklı bir yerde olmak
@@ -2314,8 +2305,8 @@ aklına getirmek
 aklına koymak
 aklına sığdırmak
 aklına sığmamak
-aklına şaşayım (veya şaşarım)
-aklına takmak (veya aklını takmak)
+aklına şaşayım
+aklına takmak
 aklına turp sıkayım
 aklına tükürmek
 aklına uymak
@@ -2331,8 +2322,7 @@ aklından geçirmek
 aklından geçmek
 aklından tutmak
 aklından zoru olmak
-aklını (bir şeyle) bozmak
-aklını başına almak (veya toplamak, devşirmek)
+aklını başına almak
 aklını başından almak
 aklını başka yere vermek
 aklını çalmak
@@ -2520,18 +2510,12 @@ akşamcılık
 akşamcılık etmek
 akşamdan
 akşamdan akşama
-akşamdan kalmış (veya kalma)
+akşamdan kalmış
 akşamdan kavur, sabaha savur
-akşamdan sonra merhaba (veya sabahlar hayrolsun)
-akşamı bulmak (veya akşamı etmek)
-akşamın işini sabaha (veya yarına) bırakma
-akşamıyaptırmak
-akşamki
-akşamlama
+akşamdan sonra merhaba
+akşamı bulmak
 akşamlamak
-akşamlar (veya akşam şerifler) hayrolsun!
 akşamları
-akşamlatma
 akşamlatmak
 akşamleyin
 akşamlı sabahlı
@@ -2630,12 +2614,10 @@ akyıldız
 akyuvar
 akzambak
 al
-al (veya alın)
-al (veya kanlı) gömlek gizlenemez
 al basmak
-al bayrak (veya sancak)
+al bayrak
 al benden de o kadar
-al birini, vur ötekine (veya birine)
+al birini, vur ötekine
 al elmaya taş atan çok olur
 al giymedim ki alınayım
 al gülüm ver gülüm
@@ -2694,7 +2676,7 @@ alacağı
 alacağı olmak
 alacağı olsun!
 alacağım olsun da ala kargada olsun
-alacağına şahin, vereceğine karga (veya kuzgun)
+alacağına şahin, vereceğine karga
 alacağına tutmak
 alacak
 alacak verecek
@@ -2741,7 +2723,7 @@ alâimisema
 alak
 alaka
 alâka
-alâka çekmek (toplamak veya uyandırmak)
+alâka çekmek
 alâka duymak
 alâkabahş
 alakadar
@@ -2758,7 +2740,7 @@ alakarga
 alâkart
 alâkasız
 alâkasızlık
-alâkayı (veya alâkasını) kesmek
+alâkayı kesmek
 alakok
 alâkok
 alalama
@@ -2824,7 +2806,7 @@ alaturkalık
 alavandalı
 alavere
 alavere dalavere
-alavere dalavere yapmak (veya çevirmek)
+alavere dalavere yapmak
 alavere tulumbası
 alavereci
 alay
@@ -2926,7 +2908,7 @@ alçılatma
 alçılatmak
 alçılı
 alçıpan
-alçıya almak (veya koymak)
+alçıya almak
 aldanç
 aldangıç
 aldanış
@@ -3021,7 +3003,7 @@ aletli jimnastik
 alev
 alev alev
 alev almak
-alev bacayı (veya saçağı) sarmak
+alev bacayı sarmak
 alev gibi parlamak
 alev kırmızısı
 alev lâmbası
@@ -3039,7 +3021,6 @@ alevlenmiş
 alevli
 aleyh
 aleyhe dönmek
-aleyhinde (veya aleyhine) söylemek (veya bulunmak)
 aleyhinde konuşmak
 aleyhinde olmak
 aleyhine dönmek
@@ -3266,11 +3247,10 @@ alkolmetre
 alkolölçer
 allah
 allah allah!
-allah (bin bir) bereket versin
-allah (seni) inandırsın
-allah (veya allahım)
+allah bereket versin
+allah seni inandırsın
 allah acısını unutturmasın
-allah akıl fikir versin (veya allah akıllar versin)
+allah akıl fikir versin
 allah aratmasın
 allah artırsın
 allah aşkına
@@ -3278,14 +3258,13 @@ allah bağışlasın
 allah bahtından güldürsün
 allah bana, ben de sana
 allah belâsını versin
-allah beterinden saklasın (veya esirgesin)
+allah beterinden saklasın
 allah bilir
 allah bir
 allah bir dediğinden başka sözüne inanılmaz
-allah bir yastıkta kocatsın
 allah büyüktür
 allah canını alsın
-allah cezasını vermesin (veya allah cezasını versin)
+allah cezasını vermesin
 allah dağına göre kar verir
 allah derim
 allah dirlik düzenlik versin
@@ -3297,7 +3276,7 @@ allah ecir sabır versin
 allah eksik etmesin
 allah eksikliğini göstermesin
 allah emeklerini eline vermesin
-allah esirgesin (veya saklasın)
+allah esirgesin
 allah etmesin
 allah gecinden versin
 allah göstermesin
@@ -3308,14 +3287,14 @@ allah herkesin gönlüne göre versin
 allah hoşnut olsun
 allah için
 allah iki iyilikten birisini versin
-allah iyiliğini (veya lâyığını) versin
+allah iyiliğini versin
 allah kabul etsin
 allah kahretsin
 allah kavuştursun
 allah kazadan belâdan saklasın
 allah kerim
 allah kısmet ederse
-allah korusun (veya saklasın)
+allah korusun
 allah kuru iftiradan saklasın
 allah manda şifalığı versin
 allah mübarek etsin
@@ -3326,10 +3305,8 @@ allah övmüş de yaratmış
 allah rahatlık versin
 allah rahmet eylesin
 allah rızası için
-allah sağ gözü (veya eli) sol göze (veya ele) muhtaç etmesin
 allah selâmet versin
 allah senden razı olsun
-allah seni (veya sizi) inandırsın
 allah sevdiğine dert verir
 allah son gürlüğü versin
 allah sonunu hayır etsin
@@ -3339,7 +3316,7 @@ allah tamamına eriştirsin
 allah tekrarına erdirsin
 allah uçamayan kuşa alçacık dal verir
 allah utandırmasın
-allah var (veya allah'ı var)
+allah var
 allah vere de
 allah vergisi
 allah verince kimin oğlu, kimin kızı demez
@@ -3350,18 +3327,7 @@ allah yarattı dememek
 allah yazdı ise bozsun
 allah yürü ya kulum demiş
 allah ziyade etsin
-allah'a
-allah'a (bin) şükür
-allah'a bir can borcu var
-allah'a emanet
-allah'a emanet olun
-allah'a yalvar
-allah'ı
-allah'ı (veya allah'ını) seversen
-allah'ı çok, insanı az bir yer
-allah'ım
-allah'ım!
-allah'ın (veya tanrı'nın) günü
+allah'ın günü
 allah'ın adamı
 allah'ın belâsı
 allah'ın bildiği kuldan saklanamaz
