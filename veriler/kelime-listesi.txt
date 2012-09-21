@@ -87176,9 +87176,6 @@ yüzyıllarca
 yüzyıllık
 yvbd
 yy.
-z
-z, z
-za'c
 za'f-ı suri
 zaaf
 zaaf saymak
@@ -87258,9 +87255,6 @@ zaireli
 zait
 zâkir
 zakkum
-zakkumgiller
-zakkumgillerden
-zakkumlaşma
 zakkumlaşmak
 zakkumlu
 zalâm
@@ -87343,7 +87337,6 @@ zamlanma
 zamlanmak
 zamlı
 zamme
-zammetme
 zammetmek
 zampara
 zamparalık
@@ -87358,9 +87351,7 @@ zanaatkârlık
 zanbak
 zangaç
 zangır zangır
-zangırdama
 zangırdamak
-zangırdatma
 zangırdatmak
 zangırtı
 zango
@@ -87371,13 +87362,10 @@ zanka
 zanlı
 zannederim
 zannedilmek
-zannetme
 zannetmek
 zannettirmek
-zanneyleme
 zanneylemek
 zannına düşmek
-zannolunma
 zannolunmak
 zaparta
 zaping
@@ -87386,10 +87374,7 @@ zapt
 zapt etmek
 zaptiye
 zaptiye memuru
-zapturab
-zapturabt
 zapturapt
-zapturapt altına almak
 zar
 zar almak
 zar atmak
@@ -87406,7 +87391,6 @@ zarar etmek
 zarar gelmek
 zarar görmek
 zarar vermek
-zarara
 zarara sokmak
 zarara uğramak
 zararda olmak
@@ -87426,11 +87410,8 @@ zarfçılık
 zarffiil
 zarffiil grubu
 zarfında
-zarflama
 zarflamak
-zarflanma
 zarflanmak
-zarfları
 zarflı
 zargana
 zarılık
@@ -87463,14 +87444,12 @@ zatî
 zatlar
 zatülcenp
 zatülkürsi
-zatülkürsî
 zatüre
 zatürre
 zatürree
 zavallı
 zavallılık
 zaviye
-zâviye
 zâviyenişin
 zaviyevî
 zavurt
@@ -87480,12 +87459,10 @@ zayıf düşürmek
 zayıf nahif
 zayıf sesli
 zayıf yerinden yakalamak
-zayıflama
 zayıflamak
 zayıflamış
 zayıflar
 zayıflatır
-zayıflatma
 zayıflatmak
 zayıflayış
 zayıflık
@@ -87513,7 +87490,6 @@ zebun kalmak
 zebun olmak
 zebunküş
 zebunküşlük
-zebunlaşma
 zebunlaşmak
 zebunluk
 zebunu olmak
@@ -87523,10 +87499,8 @@ zecren
 zecrî
 zecrî tedbir
 zed
-zedeleme
 zedelemek
 zedeleniş
-zedelenme
 zedelenmek
 zedelenmemiş
 zedelenmiş
@@ -87547,19 +87521,14 @@ zehir saçmak
 zehir zemberek
 zehir zıkkım
 zehir zıkkım olsun
-zehirle
-zehirleme
 zehirlemek
-zehirlenme
 zehirlenmek
 zehirlenmiş
 zehirli
 zehirli gaz
 zehirlilik
 zehirsiz
-zehretme
 zehretmek
-zehrolma
 zehrolmak
 zeka
 zekâ
@@ -87604,22 +87573,16 @@ zemin
 zemin hazırlamak
 zemin kat
 zemin katı
-zemin ve zamana uygun
 zeminde
 zeminli
 zeminlik
 zemmetme
 zemmetmek
 zemzem
-zemzem kuyusuna işemek
 zemzem suyu
-zemzem suyu ile yıkanmak
 zemzemle yıkanmış
-zemzemle yıkanmış olmak
 zen
 zencefil
-zencefilgiller
-zencefilgillerden
 zencerf
 zenci
 zencir
@@ -87632,18 +87595,9 @@ zengin erki
 zengin etmek
 zengin kafiye
 zengin olmak
-zengince
-zenginle
-zenginleme
-zenginlemek
-zenginleşme
 zenginleşmek
 zenginleşmiş
-zenginleştiği
-zenginleştirme
 zenginleştirmek
-zenginliğe
-zenginliği
 zenginlik
 zenne
 zenneci
@@ -87695,12 +87649,8 @@ zevdeli
 zeveban
 zeveban etmek
 zevk
-zevk almak (veya duymak)
+zevk almak
 zevk ehli
-zevk etmek
-zevk için
-zevke
-zevki
 zevki çıkmak
 zevkine bakmak
 zevkine gitmek
@@ -87716,7 +87666,6 @@ zevkli gelmek
 zevksiz
 zevksizlik
 zevkten dört köşe olmak
-zevkusefa
 zevküsefa
 zevrak
 zevzek
@@ -87766,31 +87715,23 @@ zıddı olmak
 zıddına gitmek
 zıddiyet
 zıh
-zıhlama
 zıhlamak
-zıhlanma
 zıhlanmak
 zıhlı
 zıkkım
-zıkkımlanma
 zıkkımlanmak
 zılgıt
 zılgıt çekmek
 zılgıt vermek
 zılgıt yemek
-zılgıtlanma
 zılgıtlanmak
 zıll
 zımba
-zımbalama
 zımbalamak
-zımbalanma
 zımbalanmak
-zımbalatma
 zımbalatmak
 zımbalı
 zımbalı defter
-zımbırdatma
 zımbırdatmak
 zımbırtı
 zımnen
@@ -87800,9 +87741,7 @@ zımpara
 zımpara kâğıdı
 zımpara taşı
 zımpara tozu
-zımparalama
 zımparalamak
-zımparalanma
 zımparalanmak
 zındık
 zındıklık
@@ -87829,9 +87768,7 @@ zıpırlık
 zıpka
 zıpkın
 zıpkıncı
-zıpkınlama
 zıpkınlamak
-zıpkınlanma
 zıpkınlanmak
 zıplama
 zıplamak
@@ -87846,9 +87783,7 @@ zıravut
 zırcahil
 zırdeli
 zırh
-zırhlandırma
 zırhlandırmak
-zırhlanma
 zırhlanmak
 zırhlı
 zırhlı araç
@@ -87860,9 +87795,7 @@ zırhlı kuvvet
 zırhlı yayın
 zırhsız
 zırıl zırıl
-zırıldama
 zırıldamak
-zırıldanma
 zırıldanmak
 zırıltı
 zırıltı çıkarmak
@@ -87968,13 +87901,10 @@ zikıymet
 zikir
 zikreden
 zikredilen
-zikredilme
 zikredilmek
-zikretme
 zikretmek
 zikri geçmek
 zikrolunan
-zikrolunma
 zikrolunmak
 zikzak
 zikzak dikişi
@@ -87983,7 +87913,6 @@ zikzak yapmak
 zikzaklı
 zil
 zil takıp oynamak
-zil takıp oynayacak
 zil vurmak
 zil zurna
 zil zurna olmak
@@ -88016,7 +87945,6 @@ zincirleme kaza
 zincirleme sıfat tamlaması
 zincirleme tepkime
 zincirlemek
-zincirlenme
 zincirlenmek
 zincirli
 zindan
@@ -88029,7 +87957,6 @@ zindandelen
 zinde
 zinde kuvvet
 zinde tutmak
-zindeleşme
 zindeleşmek
 zindelik
 zinhar
@@ -88050,7 +87977,6 @@ zirve konferansı
 zirve toplantısı
 zirzop
 zirzopça
-zirzoplaşma
 zirzoplaşmak
 zirzopluk
 zirzopluk etmek
@@ -88083,7 +88009,6 @@ ziyaretgâh
 ziyasız
 ziynet
 zloti
-zn
 zodyak
 zodyakta
 zoka
@@ -88092,10 +88017,7 @@ zom
 zom olmak
 zona
 zonk zonk
-zonk zonk zonklamak
-zonklama
 zonklamak
-zonklatma
 zonklatmak
 zoolog
 zooloji
@@ -88122,21 +88044,15 @@ zorbilim
 zorca
 zorgu
 zorgulu
-zorla
-zorla güzellik olmaz
 zorlama
 zorlamak
 zorlamasız
 zorlamaya
 zorlanımlık
 zorlanış
-zorlanma
 zorlanmak
 zorlanmış
-zorlansa
-zorlaşma
 zorlaşmak
-zorlaştırma
 zorlaştırmak
 zorlaya zorlaya
 zorlayan
@@ -88147,19 +88063,13 @@ zorlu
 zorluk
 zorluk çıkarmak
 zorlukla
-zorluklar
-zorsunma
 zorsunmak
 zortlamak
 zoru olmak
 zoru zoruna
 zoruna gitmek
-zorunda bırakmak
-zorunda kalmak (veya olmak)
 zorunlu
 zorunlu emeklilik
-zorunlu kılmak
-zorunlu olarak
 zorunlu öğrenim
 zorunlu sigorta
 zorunlu tasarruf
@@ -88167,30 +88077,24 @@ zorunluk
 zorunluluk
 zottiri
 zöhre
-zr
 zuhur
 zuhur etmek
 zuhurat
 zuhuri
-zuhurî
 zuhurî kolu
 zula
 zula etmek
 zulmeden
 zulmedici
 zulmet
-zulmetme
 zulmetmek
 zulüm
 zulüm görmek
 zulümler
-zum
-zum yapmak
 zumzuruh
 zurna
 zurna gibi
 zurnacı
-zurnacılık
 zurnapa
 zurnazen
 zurt
@@ -88203,10 +88107,6 @@ züccaciye
 züccaciyeci
 züğürt
 züğürt tesellisi
-züğürtleme
-züğürtlemek
-züğürtleşme
-züğürtleşmek
 züğürtlük
 zühal
 zühre
@@ -88220,13 +88120,11 @@ zükûrat
 zül
 zül saymak
 zülal
-zülâl
 zülcelâl
 zülf
 zülfaris
 zülfaruz
 zülfikar
-zülfü yâre dokunmak
 zülfüyâr
 zülfüyâre dokunmak
 zülfüyâre dokunmamak
@@ -88242,19 +88140,13 @@ zümrüdüanka gibi
 zümrüt
 zümrüt gibi
 zümrüt yeşili
-zümrütlenme
 zümrütlenmek
 züppe
 züppece
-züppeleşme
-züppeleşmek
-züppeleştirme
-züppeleştirmek
 züppelik
 züppelik etmek
 zürafa
 zürafa gibi
-zürafagiller
 zürra
 zürriyet
 züyuf
