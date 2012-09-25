@@ -1266,9 +1266,6 @@ ağaçlandırma
 ağaçlandırmak
 ağaçlanma
 ağaçlanmak
-ağaçları
-ağaçların
-ağaçlaşma
 ağaçlaşmak
 ağaçlı
 ağaçlık
@@ -1991,11 +1988,6 @@ akarca
 akaret
 akarlar
 akarsu
-akarsular
-akarsularda
-akarsuların
-akarsularını
-akarsuyun
 akaryakıt
 akaryakıt istasyonu
 akasma
@@ -3152,8 +3144,6 @@ alışkan
 alışkanlığında olmak
 alışkanlık
 alışkanlık edinmek
-alışkanlıklar
-alışkanlıklarına
 alışkanlıktan kopamamak
 alışkı
 alışkılar
@@ -4638,7 +4628,6 @@ araba mezarlığı
 araba vapuru
 arabacı
 arabacılık
-arabaların
 arabalı
 arabalı vapur
 arabalık
@@ -4780,7 +4769,7 @@ arası geçmeden
 arası hoş (veya iyi) olmamak
 arası olmamak
 arası soğumak
-arasına (veya aralarına) karışmak
+arasına karışmak
 arasında
 arasıolmamak
 arasıra
@@ -4935,20 +4924,13 @@ arık
 arık çekmek
 arık emek
 arıkçı
-arıklama
 arıklamak
-arıklaşma
 arıklaşmak
-arıklatma
 arıklatmak
 arıklık
 arıksayış
-arılama
 arılamak
-arılanma
 arılanmak
-arılar
-arıların
 arılaşma
 arılaşmak
 arılaştırma
@@ -6264,7 +6246,6 @@ avcı otu
 avcı uçağı
 avcı üzümü
 avcıl
-avcıların
 avcılık
 avcılık etmek
 avcu kaşınmak
@@ -6410,14 +6391,14 @@ ayağı üzengide
 ayağı yerden kesilmek
 ayağı yürüten baştır
 ayağıdüşmek
-ayağına (veya ayaklarına) kapanmak
-ayağına (veya bacağına) geçirmek
+ayağına kapanmak
+ayağına geçirmek
 ayağına bağ olmak
 ayağına bağ vurmak
 ayağına çabuk
 ayağına çağırmak
 ayağına çelme takmak
-ayağına dolanmak (veya dolaşmak)
+ayağına dolanmak
 ayağına düşmek
 ayağına gelmek
 ayağına getirmek
@@ -6425,9 +6406,6 @@ ayağına gitmek
 ayağına ip takmak
 ayağına kira istemek
 ayağına üşenmemek
-ayağında donu yok, fesleğen ister (veya takar) başına
-ayağını (veya ayaklarını) altına almak
-ayağını (veya ayaklarını) öpeyim
 ayağını alamamak
 ayağını bağlamak
 ayağını çekmek
@@ -6439,19 +6417,8 @@ ayağını kesmek
 ayağını sürümek
 ayağını tek almak
 ayağını vurmak
-ayağını yorganına göre uzatmak
-ayağının (veya ayaklar) altında
-ayağının (veya ayaklarının) altını öpeyim
 ayağının altına almak
-ayağının altına karpuz kabuğu koymak
-ayağının bağını çözmek
-ayağının bağınıçözmek
-ayağının bastığı yerde ot bitmez
-ayağının pabucu olamamak
-ayağının pabucunu başına giymek
 ayağının tozu ile
-ayağının tozunu silmeden
-ayağının türabı olmak
 ayağınısürümek
 ayak
 ayak atmak
@@ -6501,7 +6468,6 @@ ayakkabı vurmak
 ayakkabıcı
 ayakkabıcılık
 ayakkabıcıya
-ayakkabılarını çevirmek
 ayakkabılık
 ayaklama
 ayaklamak
@@ -6516,12 +6482,10 @@ ayakları birbirine dolaşmak
 ayakları dolaşmak
 ayakları geri geri gitmek
 ayakları yere değmemek
-ayaklarına (veya ayağına) kara su (veya sular) inmek
-ayaklarını sürümek
+ayaklarına kara su inmek
 ayaklarını sürümek
 ayaklarını yerden kesmek
-ayaklarının (veya ayağının) ucuna basmak
-ayaklarla
+ayaklarının ucuna basmak
 ayaklı
 ayaklı canavar
 ayaklı koşma
@@ -6769,7 +6733,6 @@ aylan
 aylandız
 aylanma
 aylanmak
-aylarını
 aylı
 aylığa geçmek
 aylık
@@ -7158,7 +7121,7 @@ babana rahmet
 babası tutmak (veya babaları üstünde olmak)
 babasına çekmek
 babasına rahmet okumak
-babasının (veya babalarının) çiftliği
+babasının çiftliği
 babasının hayrına
 babasının oğlu
 babasız
@@ -7385,7 +7348,6 @@ bağırsak kazıntısı
 bağırsak kurdu
 bağırsak otu
 bağırsak solucanı
-bağırsaklarını deşerim
 bağırtı
 bağırtkan
 bağırtlak
@@ -7690,7 +7652,7 @@ bakışımlı
 bakışımsız
 bakışımsızlık
 bakışla
-bakışlarınıayıramamak
+bakışlarını ayıramamak
 bakışma
 bakışmak
 baki
@@ -7890,12 +7852,7 @@ balıkhane
 balıkkartalı
 balıklama
 balıklamak
-balıklandırma
 balıklandırmak
-balıklar
-balıklarda
-balıkların
-balıklava
 balıklı
 balıknefesi
 balıksırtı
@@ -8117,7 +8074,6 @@ baraj mesafesi
 baraj yapmak
 baraj yapmak (veya kurmak)
 barajı aşmak
-barajların
 barak
 baraka
 barakacık
@@ -8821,11 +8777,7 @@ başka olmak
 başkaca
 başkafiye
 başkahraman
-başkal
-başkaları
-başkalarına
-başkalarını
-başkalarınıaldatmak
+başkalarını aldatmak
 başkalaşım
 başkalaşma
 başkalaşmak
@@ -9517,8 +9469,6 @@ bekâr odası
 bekâra karı boşaması kolaydır
 bekâret
 bekârhane
-bekarın parasını it yer, yakasını bit
-bekârların
 bekârlık
 bekarlık maskaralık
 bekârlık sultanlık
@@ -12500,9 +12450,6 @@ boyut
 boyut katmak
 boyut kazanmak
 boyutlandırma
-boyutlar
-boyutları
-boyutlarında
 boyutlu
 boyutsuz
 boz
@@ -16939,7 +16886,6 @@ cylindroid
 çıkarını tepmek
 çıkarış
 çıkarken
-çıkarlarından
 çıkarma
 çıkarma birliği
 çıkarma gemisi
@@ -17344,7 +17290,6 @@ cylindroid
 çifter çifter
 çiftetelli
 çifti bozmak
-çiftkanatlıların
 çiftleme
 çiftlemek
 çiftlenme
@@ -17780,14 +17725,6 @@ cylindroid
 çocuk yuvası
 çocukcağız
 çocukça
-çocukçu
-çocukla çocuk, büyükle büyük olmak
-çocuklar
-çocuklar!
-çocuklara
-çocuklarda
-çocukların
-çocuklarına
 çocuklaşma
 çocuklaşmak
 çocuklaştırma
@@ -18387,9 +18324,6 @@ dağlanmak
 dağlar anası
 dağlara düşmek
 dağlara taşlara
-dağlarda
-dağların misafir aldığı mevsim
-dağların şenliği (veya dağların gelin anası)
 dağlatış
 dağlatma
 dağlatmak
@@ -18690,7 +18624,7 @@ damarı (veya damarları) kabarmak
 damarı bozuk
 damarı kurusun
 damarı tutmak
-damarına (veya damarlarına) işlemek
+damarına işlemek
 damarına basmak
 damarına çekmek
 damarına girmek
@@ -19006,16 +18940,6 @@ davranış
 davranış bilgisi
 davranış töresi
 davranışçılık
-davranışı
-davranışın
-davranışını
-davranışıyla
-davranışlar
-davranışları
-davranışlarını
-davranışta
-davranma
-davranma!
 davranmak
 davudî
 davul
@@ -19027,12 +18951,8 @@ davul dövmek
 davul gibi
 davul tozu
 davulcu
-davulcuların
 davulculuk
 davulga
-davulu biz çaldık, parsayı başkası topladı
-davulun sesi uzaktan hoş gelir
-davut'un mezmurları
 davya
 dayağa idmanlı olmak
 dayak
@@ -19948,8 +19868,6 @@ deniztarağı
 deniztavşanı
 deniztilkisi
 denizyıldızı
-denizyıldızları
-denizyıldızlarından
 denk
 denk düşmek
 denk gelmek
@@ -21837,7 +21755,6 @@ doğrulanma
 doğrulanmak
 doğrulanmamış
 doğrulanmış
-doğruların
 doğrulatılmış
 doğrulma
 doğrulmak
@@ -21913,7 +21830,6 @@ doğurucu
 doğuruş
 doğusal
 doğuş
-doğuşlarını
 doğuştan
 doğuştancılık
 dok
@@ -22717,7 +22633,7 @@ dublörlük
 dubniyum
 duçar
 duçar olmak
-dudağını (veya dudaklarını) ısırmak
+dudağını ısırmak
 dudağını bükmek
 dudağının ucuna gelmek
 dudak
@@ -23009,8 +22925,6 @@ duygular
 duyguları
 duyguları açığa vurmak
 duygularıaçığa vurmak
-duyguların
-duygularını
 duygularıyla davranmak
 duygulu
 duygululuk
@@ -23688,10 +23602,6 @@ ecel geldi cihana, baş ağrısı bahane
 ecel şerbeti içmek
 ecel teri
 ecel teri dökmek
-ecele çare bulunmaz
-eceli gelen köpek cami duvarına işer
-eceli gelen köpek cami duvarına siyer
-eceli gelen sıçan kedinin taşaklarını kaşır
 eceli gelmek
 eceline susamak
 eceliyle ölmek
@@ -25757,8 +25667,6 @@ ertim
 ertin
 ertingü
 ervah
-ervahına yuf olsun
-ervahlarına yuf olsun
 erzak
 erzatz
 erzene
@@ -28037,7 +27945,6 @@ fincan fincan
 fincan gibi
 fincan oyunu
 fincancı
-fincancı katırlarını ürkütmek
 fincanlık
 fince
 fingir fingir
@@ -31425,7 +31332,6 @@ gözleri çekik
 gözleri çukura gitmek (veya kaçmak)
 gözleri dolmak (veya dolu dolu olmak)
 gözleri dönmek
-gözleri evinden (veya yuvalarından) uğramak (veya fırlamak)
 gözleri fal taşı gibi açılmak
 gözleri fıldır fıldır etmek
 gözleri ışık içinde (veya ışıklı)
@@ -32145,7 +32051,6 @@ günahkârlık
 günahlar
 günahlı
 günahsız
-günahsızların
 günahsızlık
 günâşık
 günaşırı
@@ -32621,7 +32526,6 @@ hacıbektaş taşı
 hacıbektaştaşı
 hacılar bayramı
 hacılar kuşağı
-hacıların
 hacılarkuşağı
 hacılaryolu
 hacılık
@@ -34250,11 +34154,6 @@ hayvancılık
 hayvanımsı
 hayvanî
 hayvaniyet
-hayvanlar
-hayvanlara
-hayvanlarda
-hayvanlardır
-hayvanların
 hayvanlaşma
 hayvanlaşmak
 hayvanlaştırma
@@ -35631,12 +35530,6 @@ höykürme
 höykürmek
 höyük
 hristiyan
-hristiyanlarda
-hristiyanların
-hristiyanlaşma
-hristiyanlaşmak
-hristiyanlaştırma
-hristiyanlaştırmak
 hristiyanlık
 hristo
 hristo teyeli
@@ -35661,7 +35554,6 @@ hukşat
 hukuk
 hukuk sekreteri
 hukukçu
-hukukçuların
 hukukçuluk
 hukuken
 hukuki
@@ -35843,9 +35735,6 @@ hüküm yemek
 hükümdar
 hükümdara
 hükümdarca
-hükümdarın
-hükümdarlar
-hükümdarların
 hükümdarlık
 hükümet
 hükümferma
@@ -36303,7 +36192,6 @@ hz
 ıskontolu
 ıskontosuz
 ıskota
-ıskotaların
 ıskuna
 ıslah
 ıslah etmek
@@ -36513,13 +36401,9 @@ hz
 ışınır
 ışınırlık
 ışınkıvıl etki
-ışınlama
 ışınlamak
-ışınlandırma
 ışınlandırmak
-ışınlanma
 ışınlanmak
-ışınların
 ışınlayıcı
 ışınlı
 ışınlılar
@@ -37500,11 +37384,6 @@ iki dillilik
 iki dinle bir söyle
 iki dirhem bir çekirdek
 iki düzlemli
-iki el bir baş için
-iki eli (birinin) yakasında olmak
-iki eli böğründe kalmak
-iki eli kanda (veya kızıl kanda) olsa
-iki eli şakaklarında düşünmek
 iki eli yanına gelmek
 iki eşeyli
 iki evcikli
@@ -38177,7 +38056,7 @@ imkân
 imkân vermek
 imkânı yok
 imkânları
-imkânlarınıyitirmek
+imkânlarını yitirmek
 imkansız
 imkânsız
 imkânsızlaşma
@@ -38286,7 +38165,6 @@ inanca
 inancı
 inancılık
 inanç
-inançlarını
 inançlı
 inançlılık
 inançsız
@@ -38670,10 +38548,6 @@ insaniyet namına
 insaniyetli
 insaniyetsiz
 insaniyetsizlik
-insanlar
-insanlarda
-insanları
-insanların
 insanlaşma
 insanlaşmak
 insanlığına
@@ -40785,7 +40659,6 @@ kadının fendi, erkeği yendi
 kadının yüzünün karası erkeğin elinin kınası
 kadınlar
 kadınlar hamamı
-kadınların
 kadınlaşma
 kadınlaşmak
 kadınlaşmış
@@ -42420,7 +42293,6 @@ kaplanboğan
 kaplanış
 kaplanma
 kaplanmak
-kapların
 kaplaşma
 kaplaştırma
 kaplatış
@@ -43397,10 +43269,6 @@ kasketçilik
 kasketli
 kasketsiz
 kasko
-kaslar
-kaslarda
-kasları
-kasların
 kaslaşma
 kaslaşmak
 kaslı
@@ -43863,7 +43731,6 @@ kavramak
 kavramaz
 kavramcılık
 kavramın
-kavramların
 kavramlaşma
 kavramlaşmak
 kavramsal
@@ -43950,7 +43817,6 @@ kaya suyu
 kaya tuzu
 kayabaşı
 kayaç
-kayaçların
 kayagan
 kayağan
 kayağan taş
@@ -43962,7 +43828,6 @@ kayakçı
 kayakçılık
 kayakkabı
 kayakta
-kayaların
 kayalık
 kayan
 kayanyıldız
@@ -46784,9 +46649,6 @@ kitapbilir
 kitapça
 kitapçı
 kitapçılık
-kitaplar
-kitapların
-kitaplarına
 kitaplaştırma
 kitaplaştırmak
 kitaplık
@@ -47211,7 +47073,6 @@ kolları kopmak
 kollarıaçarak
 kollarını açmak
 kollarını sallaya sallaya gelmek
-kollarının
 kollarının arasına almak
 kollayan
 kollayıcı
@@ -47778,14 +47639,12 @@ korkaklık etmek
 korkalama
 korkalamak
 korkarak
-korkma
 korkmadan
 korkmadığını
 korkmak
 korkmama
 korkmamak
 korktuğu başına gelmek (veya korktuğuna uğramak)
-korktuklarından
 korku
 korku dağları bekler (veya aşırır)
 korku damarı
@@ -47967,15 +47826,10 @@ koşuk
 koşukça
 koşuklu
 koşul
-koşularda
-koşullama
 koşullamak
 koşullandırma
 koşullandırmak
-koşullanma
 koşullanmak
-koşullar
-koşullarına
 koşullu
 koşullu tepke
 koşullu yan cümle
@@ -48149,7 +48003,6 @@ kozalaklılar
 kozalaklılardan
 kozalaksı
 kozalaksı bez
-kozaların
 kozalı
 kozasına çekilmek
 kozasız
@@ -48349,7 +48202,6 @@ köpoğluluk
 köprü
 köprü altı çocuğu
 köprü başı
-köprü başını (veya köprü başlarını) tutmak
 köprü kurmak
 köprü yol
 köprücü
@@ -49155,7 +49007,6 @@ kundaklı
 kundaksız
 kundura
 kunduracı
-kunduracıların
 kunduracılık
 kunduru
 kunduz
@@ -49200,15 +49051,7 @@ kurala aykırılık
 kuralcı
 kuralcılık
 kuraldışı
-kuralı
-kurallar
-kurallara
-kuralları
-kuralların
-kurallarla
-kurallaşma
 kurallaşmak
-kurallaştırma
 kurallaştırmak
 kurallı
 kurallı cümle
@@ -49219,9 +49062,6 @@ kurama
 kuramca
 kuramcı
 kuramcılık
-kuramlar
-kuramların
-kuramlaştırma
 kuramlaştırmak
 kuramsal
 kuramsal dilbilim
@@ -49673,9 +49513,6 @@ kuşkusuz
 kuşkuya düşmek
 kuşkuyu düşmek
 kuşlak
-kuşlar
-kuşları
-kuşların
 kuşlokumu
 kuşluk
 kuşluk namazı
@@ -49687,9 +49524,7 @@ kuşyemi
 kut
 kutan
 kutay
-kutlama
 kutlamak
-kutlamaların
 kutlanış
 kutlanma
 kutlanmak
@@ -52045,12 +51880,7 @@ malkar
 malkarca
 malkıran
 malkoç
-mallanma
 mallanmak
-mallar
-malları
-malların
-mallarına
 malt
 malta
 malta eriği
@@ -53065,7 +52895,6 @@ mekanize
 mekanize birliği
 mekanizm
 mekanizma
-mekanizmalarını
 mekik
 mekik atmak
 mekik diplomasisi
@@ -53222,12 +53051,9 @@ memur etmek
 memure
 memurin
 memuriyet
-memurlar
-memurların
 memurluk
 men
-men'eden
-men\'etmek
+men etmek
 menafi
 menafiiumumiye
 menajer
@@ -54754,7 +54580,6 @@ monografi
 monokl
 monolitik
 monolog
-monologların
 monomer
 monopol
 monoray
@@ -56260,8 +56085,6 @@ müslim
 müslüman
 müslüman adam
 müslüman mahallesinde salyangoz satmak
-müslümanların
-müslümanlaştırma
 müslümanlaştırmak
 müslümanlık
 müslümanlıkta
@@ -56755,7 +56578,6 @@ nalan
 nalân
 nalâyık
 nalbant
-nalbantların
 nalbantlık
 nalbur
 nalburluk
@@ -57851,7 +57673,6 @@ not vermek
 nota
 notalama
 notalamak
-notaların
 notam
 noter
 noterlik
@@ -58219,13 +58040,9 @@ okkalı
 okkalı kahve
 okkalık
 okkanın altına gitmek
-oklama
 oklamak
 oklangeç
-oklanma
 oklanmak
-oklar
-okların
 oklava
 oklava (veya baston) yutmuş gibi
 oklavı
@@ -58352,14 +58169,10 @@ olabilmek
 olacağını
 olacak
 olacak gibi değil
-olacakların
 olagelen
-olagelme
 olagelmek
 olağan
 olağan dışı
-olağana
-olağandan
 olağandışı
 olağandışılık
 olağanlaşma
@@ -58378,10 +58191,8 @@ olan dört bağlar, olmayan dert bağlar
 olan oldu
 olanak
 olanak sağlamak
-olanaklarının
 olanaklı
 olanaksız
-olanaksızlaşma
 olanaksızlaşmak
 olanaksızlık
 olanca
@@ -58399,10 +58210,6 @@ olay bilimi
 olay çıkarmak
 olay yapmak
 olaycılık
-olayın
-olaylar
-olayların
-olaylaştırma
 olaylaştırmak
 olaylı
 olaysız
@@ -58572,14 +58379,8 @@ omnibüs
 omnivor
 omur
 omurga
-omurgalılar
-omurgalılarda
-omurgalılardan
-omurgalıların
 omurgasız
-omurgasızlar
 omurilik
-omurların
 omuz
 omuz başı
 omuz eklemi
@@ -59331,12 +59132,8 @@ out
 output
 ova
 oval
-ovalama
 ovalamak
-ovalanma
 ovalanmak
-ovalarını
-ovalatma
 ovalatmak
 ovalı
 ovalık
@@ -59510,14 +59307,8 @@ oyuncakçı
 oyuncakçılık
 oyuncaklı
 oyuncu
-oyunculara
 oyunculuk
-oyunda
-oyunla
-oyunlarını
-oyunlaştırılma
 oyunlaştırılmak
-oyunlaştırma
 oyunlaştırmak
 oyunluk
 oyuntu
@@ -59651,8 +59442,6 @@ ozuga
 öf
 öfke
 öfke baldan tatlıdır
-öfke ile kalkan ziyanla (zararla) oturur
-öfke topuklarına çıkmak
 öfkelendirme
 öfkelendirmek
 öfkelenerek
@@ -60828,7 +60617,6 @@ pabuç kadar dili olmak
 pabuç pahalı
 pabuççu
 pabuççuluk
-pabuçlarını çevirmek
 pabuçlu
 pabuçluk
 pabuçsuz
@@ -60840,7 +60628,7 @@ paça kasnak
 paçacı
 paçacılık
 paçal
-paçaları (veya kolları) sıvamak
+paçaları sıvamak
 paçaları tutuşmak
 paçalarından akmak
 paçalı
@@ -60873,8 +60661,6 @@ padişah
 padişah divanı
 padişahın
 padişahî
-padişahlar
-padişahların
 padişahlık
 padok
 pafta
@@ -61453,7 +61239,7 @@ parmakla gösterilmek
 parmakla sayılmak
 parmaklama
 parmaklamak
-parmaklarını (birlikte) yemek
+parmaklarını yemek
 parmaklayarak
 parmaklık
 parmaklıklı
@@ -61571,7 +61357,6 @@ passız
 pasta
 pasta kalıbı
 pastacı
-pastacıların
 pastacılık
 pastahane
 pastahaneci
@@ -62650,7 +62435,6 @@ pisletmek
 pislik
 pislik böceği
 pislik götürmek
-pislik parmağından (veya paçalarından) akmak
 pislikarkı
 pislikçil
 pist
@@ -62834,7 +62618,6 @@ platinimsi
 platinsi
 plato
 plâto
-plâtolarını
 platon
 plâtoncu
 plâtonculuk
@@ -63362,7 +63145,6 @@ protokole dahil
 proton
 protonema
 protoplâzma
-protoplazmalarından
 prototip
 prova
 prova yapmak
@@ -64292,7 +64074,6 @@ resmîlik
 resmiyet
 resmiyete dökmek
 ressam
-ressamların
 ressamlık
 rest
 rest çekmek
@@ -64506,7 +64287,6 @@ rolüne çıkmak
 rom
 roma
 romalı
-romalıların
 roman
 roman dilleri
 romanca
@@ -64991,10 +64771,6 @@ saçalanmak
 saçan
 saçı
 saçı başı ağarmak
-saçı bitmedik (yetim)
-saçı kılmak (veya saçı atmak)
-saçı sakalı akar gibi
-saçı topuklarını dövmek
 saçı uzun aklı kısa
 saçık
 saçılıp dökülmek
@@ -65016,7 +64792,6 @@ saçıştırmak
 saçkıran
 saçları
 saçları iki türlü olmak
-saçların
 saçlarıörmek
 saçlı
 saçlı meşe
@@ -65612,7 +65387,6 @@ saldırganlık
 saldırı
 saldırıcı
 saldırıcılık
-saldırılarına
 saldırısız
 saldırış
 saldırıteknesi
@@ -67613,7 +67387,7 @@ sevince
 sevinci kursağında kalmak
 sevincinden ağzı kulaklarına varmak
 sevinç
-sevinç göz yaşları (veya sevinç yaşları) dökmek
+sevinç göz yaşları dökmek
 sevinçle
 sevinçli
 sevinçsiz
@@ -68341,11 +68115,7 @@ sıvıçözüt
 sıvık
 sıvıklaştırma
 sıvıklaştırmak
-sıvıları
-sıvıların
-sıvılaştırma
 sıvılaştırmak
-sıvındırma
 sıvındırmak
 sıvının
 sıvınma
@@ -69359,12 +69129,9 @@ solucan
 solucan düşürücü
 solucan gibi
 solucan otu
-solucanlar
-solucanların
 soluğan
 soluğan etmek
-soluğu (bir yerde) almak
-soluğu kesilmek (veya tutulmak)
+soluğu kesilmek
 soluğu kesmek
 soluk
 soluk aldırmamak
@@ -70119,7 +69886,6 @@ spor kesesi
 spor loto
 spor toto
 sporcu
-sporcuların
 sporculuk
 sporlanma
 sporlanmak
@@ -70458,7 +70224,7 @@ suçlanma
 suçlanmak
 suçlanmış
 suçlar
-suçlarınıaçıklamak
+suçlarını açıklamak
 suçlayış
 suçlu
 suçlu olmak
@@ -70519,18 +70285,13 @@ sulak
 sulak alan
 sulaklık
 sulâle
-sulama
 sulama makinesi
 sulamaç
 sulamak
 sulandırıcı
-sulandırma
 sulandırmak
-sulanma
 sulanmak
 sular kararmak
-sularında
-sulatma
 sulatmak
 sulbünden gelmek
 sulehâ
@@ -74618,7 +74379,6 @@ tayeçe
 tayf
 tayf ölçümü
 tayfa
-tayfaların
 tayfalmak
 tayfölçer
 tayfölçümü
@@ -77416,7 +77176,6 @@ toplanmış
 toplantı
 toplantı salonu
 toplantı yeri
-toplantıların
 toplardamar
 toplaşım
 toplaşma
@@ -77654,9 +77413,7 @@ torug
 toruk
 torum
 torun
-torun torba (veya torun tosun) sahibi olmak
-torunlar
-torunlarının
+torun torba sahibi olmak
 toryum
 tos
 tos vurmak
@@ -79165,7 +78922,7 @@ umutlandırma
 umutlandırmak
 umutlanma
 umutlanmak
-umutlarınıyitirmek
+umutlarını yitirmek
 umutlu
 umutsuz
 umutsuzluğa düşmek (veya kapılmak)
@@ -79431,7 +79188,6 @@ uyar
 uyaraç
 uyarak
 uyaran
-uyaranların
 uyarcı
 uyarcık
 uyarcılık
@@ -80844,14 +80600,11 @@ varlık göstermek
 varlık içinde yaşamak
 varlık nedeni
 varlık sebebi
-varlıklar
-varlıkların
 varlıklı
 varlıklılık
 varlıksal
 varlıksız
 varlıkta darlık çekmek
-varma
 varmak
 varolan
 varoluş
@@ -80931,9 +80684,7 @@ vatan borcu
 vatan haini
 vatan hainliği
 vatan tutmak
-vatana
 vatandaş
-vatandaşların
 vatandaşlık
 vatandaşlıktan çıkarılmak
 vatani
@@ -81539,13 +81290,10 @@ vurdumduymaz
 vurdumduymaz kör ayvaz (olmak)
 vurdumduymazlık
 vurdumduymazlıktan gelmek
-vurdurma
 vurdurmak
 vurgu
 vurgu uzunluğu
-vurgulama
 vurgulamak
-vurguların
 vurgulu
 vurgulu hece
 vurgun
@@ -82025,22 +81773,12 @@ yakın sesli
 yakın takibe almak
 yakınan
 yakınçağ
-yakında
-yakından
 yakından bilmek (veya tanımak)
-yakını
 yakınımsılık
 yakınından
 yakınış
-yakınlar
-yakınlarda
-yakınları
-yakınlarında
-yakınlaşma
 yakınlaşmak
-yakınlaştırma
 yakınlaştırmak
-yakınlığı
 yakınlık
 yakınlık derecesi
 yakınlık durumu
@@ -82703,12 +82441,7 @@ yapılabilirlik
 yapılacağını
 yapılageliş
 yapılan
-yapılandırma
 yapılandırmak
-yapılar
-yapılarda
-yapıların
-yapılaşma
 yapılaşmak
 yapıldak
 yapılı
@@ -82809,10 +82542,7 @@ yaprak yaprak
 yaprakcık
 yaprakçıl
 yaprakkurusu
-yapraklanma
 yapraklanmak
-yaprakları
-yapraklarında
 yapraklı
 yapraklı kara yosunları
 yapraksı
@@ -82914,10 +82644,8 @@ yararsızlık
 yarasa
 yarasalar
 yarasalardan
-yarasaların
 yarası olan gocunur
 yarasın
-yarasın!
 yarasını deşmek
 yaraş
 yaraşan
@@ -83167,9 +82895,6 @@ yarışlık
 yarışma
 yarışmacı
 yarışmak
-yarışmaların
-yarışta
-yarıştırma
 yarıştırmak
 yarışyolu
 yarıüzülmek
@@ -83755,10 +83480,7 @@ yazar
 yazar çizer
 yazar hakkı
 yazar kasa
-yazarın
 yazarkasa
-yazarlar
-yazarların
 yazarlık
 yazboz tahtası
 yazboz tahtasına çevirmek
@@ -84922,8 +84644,6 @@ yıldızlama
 yıldızlamak
 yıldızlar arası
 yıldızları saymak
-yıldızların
-yıldızlaşma
 yıldızlaşmak
 yıldızlı
 yıldızlık
@@ -85768,10 +85488,6 @@ yumuşak ünsüz
 yumuşak yüzlü
 yumuşak yüzlülük
 yumuşakça
-yumuşakçalar
-yumuşakçalardan
-yumuşakçaların
-yumuşaklaşma
 yumuşaklaşmak
 yumuşaklık
 yumuşama
@@ -85817,11 +85533,8 @@ yurt içi
 yurt tutmak
 yurtgeçeri
 yurtlak
-yurtlandırma
 yurtlandırmak
-yurtlanma
 yurtlanmak
-yurtlarını
 yurtluk
 yurtsal
 yurtsama
