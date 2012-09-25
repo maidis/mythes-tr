@@ -2541,14 +2541,11 @@ aktif fiil
 aktif metot
 aktif rol oynamak
 aktif taşıma
-aktifleşme
 aktifleşmek
 aktifleştirici
-aktifleştirme
 aktifleştirmek
 aktiflik
 aktinit
-aktinitlerden
 aktinoloji
 aktinomorf
 aktinyum
@@ -4411,8 +4408,6 @@ antikomünist
 antikomünizm
 antikor
 antilop
-antiloplar
-antiloplardan
 antimadde
 antimon
 antinomi
@@ -11390,7 +11385,6 @@ birci
 bircilik
 birçe
 birçek
-birçeneklilerden
 birçoğu
 birçok
 birdemlemek
@@ -17258,7 +17252,6 @@ cylindroid
 çift vuruş
 çift yıldız
 çift zamanı
-çiftçeneklilerden
 çiftçi
 çiftçiler
 çiftçilik
@@ -22949,7 +22942,6 @@ duyucu
 duyuk
 duyulabilen
 duyulan
-duyulanlardan
 duyulma
 duyulmak
 duyulmamış
@@ -26192,8 +26184,6 @@ etap
 etçi
 etçik
 etçil
-etçiller
-etçillerden
 eteği
 eteği arı
 eteği ayağına dolaşmak
@@ -26344,7 +26334,6 @@ etnolog
 etnoloji
 etnoloji uzmanı
 etnolojik
-etoburlardan
 etokrasi
 etol
 etraf
@@ -26459,7 +26448,6 @@ eviç
 evin
 evin bağlamak
 evin direği
-evindekilerden
 evinin kadını
 evinlenme
 evinlenmek
@@ -26513,7 +26501,7 @@ evlenmeyi
 evlenmiş
 evler
 evlerde
-evlerden ırak (veya uzak)
+evlerden ırak
 evlere
 evlere şenlik
 evleviyet
@@ -29869,8 +29857,6 @@ gevher
 geviş
 geviş getirenler
 geviş getirmek
-geviş getirmeyenler
-gevişgetirenlerden
 gevme
 gevmek
 gevrecik
@@ -30649,8 +30635,6 @@ gömlekçilik
 gömlekler
 gömlekli
 gömleklik
-gömlekliler
-gömleklilerden
 gömleksiz
 gömme
 gömme balkon
@@ -30940,7 +30924,6 @@ görüldüğünü
 görülebilen
 görülegelen
 görülen
-görülenlerden
 görülme
 görülmedik
 görülmek
@@ -32345,8 +32328,6 @@ güvercin
 güvercinboynu
 güvercingöğsü
 güvercinimsiler
-güvercinler
-güvercinlerden
 güvercinlik
 güverte
 güvey
@@ -32951,8 +32932,6 @@ halkalayış
 halkalı
 halkalı damar
 halkalı gözler
-halkalılar
-halkalılardan
 halkamsı
 halkavî
 halkbilgisi
@@ -32976,13 +32955,10 @@ halletme
 halletmek
 hallice
 hallihamur
-hallolma
 hallolmak
 hallolmuş
-hallolunma
 hallolunmak
 halojen
-halojenlerden
 halon
 hâlsiz
 hâlsiz düşmek
@@ -34427,7 +34403,6 @@ hemze
 hemzemin
 hemzemin geçit
 hendek
-hendeklerden
 hendese
 hendesî
 hengâm
@@ -36272,8 +36247,6 @@ hz
 ıstakoz gibi
 ıstakoz gibi kızarmak
 ıstakoz gibi olmak
-ıstakozlar
-ıstakozlardan
 ıstakozluk
 ıstampa
 ıstampa resim
@@ -37432,12 +37405,7 @@ ikibiçimlilik
 ikici
 ikicilik
 ikiçenekli
-ikiçenekliler
-ikiçeneklilerden
 ikide bir
-ikide bir (veya ikide birde)
-ikidebir
-ikievcikli
 ikil
 ikilem
 ikileme
@@ -40470,8 +40438,6 @@ kabuklaşma
 kabuklaşmak
 kabuklu
 kabuklu bit
-kabuklular
-kabuklulardan
 kabuksu
 kabuksuz
 kabuksuz yumurtlatmak
@@ -42307,8 +42273,6 @@ kaplık
 kaplumbağa
 kaplumbağa gibi
 kaplumbağa yürüyüşü
-kaplumbağalar
-kaplumbağalardan
 kapma
 kapmaca
 kapmak
@@ -43137,8 +43101,6 @@ kart basmak
 kart çıkarmak
 kartal
 kartal ağacı
-kartallar
-kartallardan
 kartallı
 kartallı eğrelti otu
 kartalma
@@ -44544,15 +44506,9 @@ kemircik
 kemirdek
 kemiren
 kemirgen
-kemirgenler
-kemirgenlerden
 kemirici
-kemiriciler
-kemiricilerden
-kemirilme
 kemirilmek
 kemiriş
-kemirme
 kemirmek
 kemis
 kemiyet
@@ -44825,11 +44781,8 @@ kerteleme
 kerteles
 kerteli
 kertenkele
-kertenkeleler
-kertenkelelerden
-kertenkeleleri
 kerteriz
-kerteriz almak (veya etmek)
+kerteriz almak
 kerteriz noktası
 kertesine gelmek
 kertesine getirmek
@@ -44882,8 +44835,6 @@ keseletme
 keseletmek
 keseli
 keseli kurt
-keseliler
-keselilerden
 kesen
 kesene
 keseneğe almak
@@ -45372,7 +45323,6 @@ kınayış
 kındıra
 kındıraç
 kınık
-kınkanatlılardan
 kınlama
 kınlamak
 kınlı
@@ -47999,8 +47949,6 @@ kozacı
 kozacılık
 kozak
 kozalak
-kozalaklılar
-kozalaklılardan
 kozalaksı
 kozalaksı bez
 kozalı
@@ -49076,9 +49024,6 @@ kurbağa testi
 kurbağa zehiri
 kurbağaadam
 kurbağacık
-kurbağalama
-kurbağalar
-kurbağalardan
 kurban
 kurban bayramı
 kurban eti
@@ -50788,9 +50733,6 @@ leyleğin ömrü lâklâkla geçer
 leylek
 leylek gibi
 leylekgagası
-leylekler
-leyleksiler
-leyleksilerden
 leylî
 leylî meccanî
 lezar
@@ -52097,11 +52039,7 @@ mantarcı
 mantarcılık
 mantardoğuran
 mantarhane
-mantarlama
 mantarlamak
-mantarlar
-mantarlardan
-mantarlaşma
 mantarlaşmak
 mantarlı
 mantarlık
@@ -52617,11 +52555,7 @@ maymun iştahlı
 maymuna benzetmek (çevirmek veya döndürmek)
 maymuna dönmek
 maymuncuk
-maymunlar
-maymunlardan
-maymunlaşma
 maymunlaşmak
-maymunlaştırma
 maymunlaştırmak
 maymunluk
 maymunsu
@@ -53011,10 +52945,6 @@ memecik
 memede olmak
 memeden kesmek
 memeli
-memeliler
-memelilerde
-memelilerden
-memelileri
 mememsi
 memişhane
 memleha
@@ -57886,7 +57816,6 @@ oburlaşma
 oburlaşmak
 oburluk
 obüs
-obüslerden
 ocağı batmak
 ocağı kör kalmak
 ocağı sönmek
@@ -57903,7 +57832,6 @@ ocak katı
 ocak taşı
 ocakçı
 ocakçılık
-ocaklardan
 ocaklı
 ocaklık
 occludere
@@ -61884,7 +61812,6 @@ perde çekmek
 perde inmek
 perde kurmak
 perde perde
-perdeayaklılardan
 perdeci
 perdecilik
 perdedar
@@ -62365,10 +62292,7 @@ pirekateşin
 pirekıran
 pirelendirme
 pirelendirmek
-pirelenme
 pirelenmek
-pireler
-pirelerden
 pireli
 pireyi deve yapmak
 pireyi gözünden vurmak
@@ -63049,8 +62973,6 @@ prezidyum
 prim
 primadonna
 primat
-primatlar
-primatlardan
 primitif
 primitivizm
 print
@@ -69580,7 +69502,6 @@ sökün
 söküntü
 söküp atmak
 söküş
-sölenterlerden
 sölom
 sölomlular
 sölpük
@@ -70633,8 +70554,6 @@ sülük
 sülük gibi
 sülük vurmak
 sülükçü
-sülükler
-sülüklerden
 sülümen
 sülün
 sülün gibi
@@ -70938,10 +70857,6 @@ süründürmek
 süründürülme
 süründürülmek
 sürüngen
-sürüngenler
-sürüngenlerden
-sürüngenleri
-sürünme
 sürünmek
 sürünücü
 sürünüş
@@ -70949,7 +70864,6 @@ sürüp gitmek
 sürür
 sürüsüne bereket!
 sürüş
-sürüştürme
 sürüştürmek
 sürütme
 sürütmek
@@ -71510,12 +71424,8 @@ süzüntü
 şartlandırma
 şartlandırmak
 şartlanış
-şartlanma
 şartlanmak
-şartlar
-şartlardan
-şartlarıkötüleşmek
-şartlaşma
+şartları kötüleşmek
 şartlaşmak
 şartlı
 şartlı birleşik cümle
@@ -79443,10 +79353,8 @@ uzak görüşlü
 uzak görüşlülük
 uzak metatez
 uzakçeker
-uzaklanma
 uzaklanmak
 uzaklara gitmek
-uzaklardan
 uzaklaş
 uzaklaşılma
 uzaklaşılmak
@@ -79495,7 +79403,6 @@ uzatma
 uzatma işareti
 uzatmadan
 uzatmak
-uzatmalardan
 uzatmalı
 uzatmalı çavuş
 uzatmalı nişanlı
@@ -79597,7 +79504,6 @@ uzun ünlü
 uzun vokal
 uzun yol sürücüsü
 uzun yol şoförü
-uzunbacaklılardan
 uzunca
 uzunçalar
 uzuneşek
@@ -82642,8 +82548,6 @@ yararlıolmamak
 yararsız
 yararsızlık
 yarasa
-yarasalar
-yarasalardan
 yarası olan gocunur
 yarasın
 yarasını deşmek
@@ -83098,12 +83002,8 @@ yaşanak
 yaşanan
 yaşananları
 yaşanası
-yaşanılan
-yaşanılanlardan
-yaşanılma
 yaşanılmak
 yaşanılmış
-yaşanma
 yaşanmak
 yaşanmalı
 yaşanmaz
@@ -84722,8 +84622,6 @@ yırlamak
 yırtıcı
 yırtıcı hayvan
 yırtıcı kuş
-yırtıcılar
-yırtıcılardan
 yırtıcılık
 yırtık
 yırtık pırtık
@@ -85740,12 +85638,9 @@ yükselme
 yükselmek
 yükselteç
 yükselten
-yükseltgeme
 yükseltgemek
-yükseltgenme
 yükseltgenmek
 yükselti
-yükseltilerden
 yükseltilme
 yükseltilmek
 yükseltiyazar
@@ -86402,7 +86297,6 @@ zarif
 zarifane
 zarifçe
 zariflik
-zarkanatlılardan
 zarp
 zarplı
 zarsı
