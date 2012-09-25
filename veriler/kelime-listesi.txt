@@ -26478,7 +26478,6 @@ evlat
 evlât
 evlat doğurdum, gönlünü doğurmadım
 evlât edinmek
-evlât gibi (veya evlâdı gibi)
 evlâtlı
 evlatlık
 evlâtlık
@@ -26935,7 +26934,7 @@ fâr
 farad
 faranjit
 faraş
-faraş gibi (veya faraş kadar)
+faraş gibi
 faraza
 farazi
 farazî
@@ -27054,10 +27053,6 @@ fassallık
 fast food
 fasulya
 fasulye
-fasulye gibi kendini nimetten saymak
-fasulye pilâkisi
-fasulye piyazı
-fasulye sırığı gibi
 fasülye
 faş
 fâş
@@ -28242,7 +28237,6 @@ formül
 formül bulmak
 formüle
 formüle etmek
-formüler
 formülleşme
 formülleşmek
 formülleştirme
@@ -28586,7 +28580,6 @@ gagalaşma
 gagalaşmak
 gagalı
 gagalı memeli
-gagalı memeliler
 gagamsı
 gagana
 gagası
@@ -28927,7 +28920,6 @@ gayrimakul
 gayrimalûm
 gayrimemnun
 gayrimenkul
-gayrimenkuller
 gayrimeskûn
 gayrimesul
 gayrimeşru
@@ -29057,7 +29049,6 @@ ge
 gebe
 gebe kalmak
 gebe olmak
-gebelerde
 gebelik
 gebelik testi
 geberik
@@ -29107,7 +29098,6 @@ gecekondulaşmak
 geceleme
 gecelemek
 geceler gebedir
-geceleri
 geceletme
 geceleyin
 geceli
@@ -29249,7 +29239,6 @@ geçit hakkı
 geçit resmi
 geçit töreni
 geçit vermek
-geçitler
 geçitlik
 geçkin
 geçkinlik
@@ -29350,7 +29339,6 @@ gelenekselleşme
 gelenekselleşmek
 gelenekte
 geleni
-gelenler
 gelesi
 gelgeç
 gelgeççi
@@ -29403,8 +29391,6 @@ gelir gider
 gelir kaynağı
 gelir vergisi
 gelirat
-gelirini
-gelirler
 gelirli
 geliş
 gelişememek
@@ -29470,9 +29456,6 @@ gemi yapım mühendisi
 gemi yatağı
 gemici
 gemicilik
-gemiler
-gemilerde
-gemileri
 gemilik
 gemini kısmak
 geminin
@@ -29493,8 +29476,6 @@ gencer
 genç
 genç irisi
 gençken
-gençler
-gençleşme
 gençleşmek
 gençleştirilme
 gençleştirilmek
@@ -29639,14 +29620,10 @@ gerçek zamanlı işletim sistemi
 gerçekçi
 gerçekçilik
 gerçekdışı
-gerçekleme
 gerçeklemek
-gerçeklenme
 gerçeklenmek
 gerçeklenmiş
-gerçekleri
 gerçekleşemez
-gerçekleşme
 gerçekleşmek
 gerçekleşmemek
 gerçekleşmesine
@@ -29680,7 +29657,6 @@ gerdirme
 gerdirmek
 gere gere
 gereç
-gereçler
 gereği düşünülmek
 gereği gibi
 gereğince
@@ -29696,7 +29672,6 @@ gerekçelendirmek
 gerekçeli
 gerekçesiz
 gereken
-gerekenler
 gerekince
 gerekirci
 gerekircilik
@@ -29855,7 +29830,6 @@ gevezelik
 gevezelik etmek
 gevher
 geviş
-geviş getirenler
 geviş getirmek
 gevme
 gevmek
@@ -29886,7 +29860,6 @@ gevşeyiş
 gey
 geyik
 geyik böceği
-geyik böcekleri
 geyik dikeni
 geyik etine girmek
 geyik muhabbeti
@@ -29905,7 +29878,6 @@ gezdirmek
 geze almak
 gezegen
 gezegencik
-gezegenler
 gezegenler arası
 gezeğen
 gezeleme
@@ -30101,7 +30073,6 @@ giderilme
 giderilmek
 giderilmesine
 giderilmiş
-giderler
 giderme
 gidermek
 gidertme
@@ -30226,7 +30197,6 @@ giydirme
 giydirmek
 giydirmiş
 giyecek
-giyecekler
 giyiliş
 giyilme
 giyilmek
@@ -30286,8 +30256,6 @@ gizlenme
 gizlenmek
 gizlenmeyen
 gizlenmiş
-gizler
-gizlerle
 gizleyen
 gizleyiş
 gizli
@@ -30390,7 +30358,6 @@ goşist
 goşizm
 gotça
 gotik
-gotik harfler
 gotik sanat
 gotlar
 govanmak
@@ -30544,12 +30511,10 @@ gökçül
 gökdelen
 gökfındık
 gökfiziği
-gökgözler
 gökkandil
 gökkuşağı
 gökkuzgun
 gökkuzgunumsular
-gökler
 göklere çıkarmak
 göklere çıkmak
 gökmen
@@ -30614,12 +30579,8 @@ gölgesinden korkmak
 gölgesine sığınmak
 gölgesiz
 gölgeye yatmak
-gölleme
 göllemek
-göllenme
 göllenmek
-göller
-göllerde
 gölleşme
 gölleşmek
 göllük
@@ -30632,7 +30593,6 @@ gömlek değiştirmek
 gömlek eskitmek
 gömlekçi
 gömlekçilik
-gömlekler
 gömlekli
 gömleklik
 gömleksiz
@@ -30663,7 +30623,6 @@ gönderen
 gönderi
 gönderici
 gönderilen
-gönderiler
 gönderiliş
 gönderilme
 gönderilmek
@@ -30853,7 +30812,6 @@ görevlendirmek
 görevlenme
 görevlenmek
 görevli
-görevliler
 görevlilik
 görevsel
 görevsel dil bilimi
@@ -30968,7 +30926,6 @@ görünümlü
 görünür
 görünürde
 görünürdeki
-görünürlerde
 görünürlük
 görünüş
 görünüş almak
@@ -30988,7 +30945,6 @@ görüş sahibi
 görüş tarzı
 görüşalmak
 görüşen
-görüşleri
 görüşme
 görüşme yapmak
 görüşmeci
@@ -31246,7 +31202,6 @@ gözeme
 gözemek
 gözene
 gözenek
-gözenekler
 gözenekli
 gözeneklilik
 gözeneksiz
@@ -31299,7 +31254,6 @@ gözlemek
 gözlemevi
 gözlemleme
 gözlemlemek
-gözlemler
 gözlemleyerek
 gözlenme
 gözlenmek
@@ -31504,8 +31458,6 @@ gözüpek
 gözüyle görmek
 gözüyle tartmak
 gözyaşı
-gözyaşı bezeleri
-gözyaşı bezleri
 gözyaşı etçiği
 gözyaşı memesi
 gözyuvası
@@ -31627,7 +31579,7 @@ gurbet çekmek
 gurbet eli
 gurbetçi
 gurbetçilik
-gurbete (veya gurbet ellere) düşmek
+gurbete düşmek
 gurbete çıkmak
 gurbetlik
 gurbetzede
@@ -31735,12 +31687,9 @@ güçlendirme
 güçlendirmek
 güçlenir
 güçleniş
-güçlenme
 güçlenmek
 güçlenmesi
 güçlenmiş
-güçler
-güçleşme
 güçleşmek
 güçleştirme
 güçleştirmek
@@ -31758,7 +31707,6 @@ güçsünmek
 güçsüz
 güçsüz düşmek
 güçsüzce
-güçsüzler
 güçsüzleşmek
 güçsüzleşmiş
 güçsüzleştirmek
@@ -32076,7 +32024,6 @@ gündüz karşıtı
 gündüz külâhlı, gece silâhlı
 gündüz yırtıcıları
 gündüzcü
-gündüzleri
 gündüzlü
 gündüzlük
 gündüzsefası
@@ -32156,7 +32103,6 @@ günindi
 günleme
 günlemeç
 günlemek
-günler
 günlerce
 günlerden bir gün
 günleri gece olmak
@@ -32327,7 +32273,6 @@ güvensizlik önergesi
 güvercin
 güvercinboynu
 güvercingöğsü
-güvercinimsiler
 güvercinlik
 güverte
 güvey
@@ -32447,12 +32392,10 @@ haberden haber ver
 haberi
 haberi olmak
 haberin olsun!
-haberler
 haberleşme
 haberleşme servisi nezaretçisi
 haberleşme teknikeri
 haberleşmek
-haberleşmeler
 haberli
 haberlik
 habersiz
@@ -32573,7 +32516,6 @@ hâdisat
 hadise
 hâdise
 hadise çıkarmak
-hadiseler
 hadiseli
 hâdiseli
 hadisene
@@ -32732,7 +32674,6 @@ hakir
 hakir görmek
 hakk'ın rahmetine kavuşmak
 hakka
-hakka erenler
 hakkâk
 hakkaniyet
 hakkaniyetli
@@ -32834,7 +32775,6 @@ halebî ordaysa arşın burada
 halef
 halef selef
 halef selef olmak
-halefler
 halel
 halel gelmek
 halel getirmek
@@ -32902,7 +32842,6 @@ halk dili
 halk edebiyatı
 halk etmek
 halk evi
-halk evleri
 halk idaresi
 halk matinesi
 halk müziği
@@ -32931,7 +32870,6 @@ halkalanmak
 halkalayış
 halkalı
 halkalı damar
-halkalı gözler
 halkamsı
 halkavî
 halkbilgisi
@@ -32948,7 +32886,6 @@ hallaçlık
 halledilmesi
 hallenme
 hallenmek
-hâller
 halleşme
 halleşmek
 halletme
@@ -33240,7 +33177,6 @@ harabat
 harabatî
 harabatîlik
 harabe
-harabeler
 harabelik
 harabi
 haraca bağlamak
@@ -33369,7 +33305,6 @@ harfi harfine
 harfitarif
 harfiyat
 harfiyen
-harfler
 harfteş
 harhara
 harharyas
@@ -33447,7 +33382,6 @@ harnıp
 harnup
 harp
 harp açmak
-harp akademileri
 harp dairesi
 harp malulü
 harp malûlü
@@ -33569,7 +33503,6 @@ hasta etmek
 hasta ol benim için, öleyim senin için
 hasta olmak
 hastahane
-hastahanelerde
 hastahanelik
 hastahanelik etmek
 hastahanelik olmak
@@ -33588,11 +33521,7 @@ hastalıkbilim
 hastalıkbilimsel
 hastalıklar
 hastalıklı
-hastalıktan
 hastane
-hastanelere
-hastanenin
-hastanın
 hastası olmak
 hastel
 hasuda
@@ -33947,7 +33876,6 @@ hayalî
 hayalifener
 hayalifenere dönmek
 hayalinden geçirmek
-hayaller
 hayalli
 hayalperest
 hayalperestlik
@@ -34093,9 +34021,9 @@ hayrat
 hayret
 hayret etmek
 hayrete
-hayrete (veya hayretlere) düşmek
+hayrete düşmek
 hayretle
-hayrette (veya hayretler içinde) kalmak
+hayretler içinde kalmak
 hayrette bırakmak
 hayretten donakalmak
 hayrı dokunmak
@@ -34221,13 +34149,10 @@ haziran böceği
 haziranböceği
 hazire
 hazletmek
-hazmetme
 hazmetmek
 hazmolulan
 hazne
 hazret
-hazreti
-hazretleri
 hazza
 hazzetme
 hazzetmek
@@ -34240,7 +34165,6 @@ heba olmak
 heba olup gitmek
 hebenneka
 hebrid adaları
-hebridler
 heccav
 hece
 hece ölçüsü
@@ -34278,8 +34202,6 @@ hegemonya
 hegit
 hekim
 hekimbaşı
-hekimler
-hekimliğin
 hekimlik
 hekimlikte
 hektar
@@ -34489,17 +34411,6 @@ herkes gider mersin'e, biz gideriz tersine
 herkes kaşık yapar, ama sapını ortaya (veya doğru) getiremez
 herkes sevdiğini öper, bayram da bahane
 herkesçe
-herkese
-herkese tükrüğü bal
-herkesin
-herkesin arşınına göre bez vermezler
-herkesin geçtiği köprüden sen de geç
-herkesin gönlünde bir aslan yatar
-herkesin tenceresi kapalı kaynar
-herkesin yorulduğu yere han yapılmaz
-herkeslik
-herkeste
-herkez
 hermafrodit
 herrü
 herslenmek
@@ -34632,13 +34543,12 @@ heyhat
 heyhat!
 heyhey
 heyheyler geçirmek
-heyheyleri tutmak (veya heyheyleri üstünde olmak)
+heyheyleri tutmak
 heykel
 heykel gibi
 heykelci
 heykelci kalemi
 heykelcilik
-heykeller
 heykelleştirme
 heykelleştirmek
 heykelli
@@ -34994,10 +34904,7 @@ hikâyeci
 hikayecik
 hikâyecik
 hikâyecilik
-hikâyeleme
 hikâyelemek
-hikayeler
-hikâyeler
 hikâyeleştirme
 hikâyeleştirmek
 hikayet
@@ -35005,7 +34912,6 @@ hikem
 hikemî
 hikmet
 hikmetinden sual olunmaz
-hikmetler
 hikmetli
 hil'at
 hilâf
@@ -35168,9 +35074,7 @@ hissedilmeli
 hissediş
 hisseişayia
 hisseişayialı
-hisseler
 hisseli
-hissesine
 hisset
 hissetme
 hissetmek
@@ -35272,7 +35176,6 @@ hollândalı
 holmiyum
 holosen
 holosön
-holotüritler
 homeostasis
 homo
 homo-
@@ -35392,8 +35295,6 @@ hortum
 hortum gibi
 hortum sıkmak
 hortumlu
-hortumlu böcekler
-hortumlular
 horul horul
 horuldama
 horuldamak
@@ -36336,7 +36237,6 @@ hz
 ışıl ışıl
 ışıl ışıl bakmak
 ışıl küf
-ışıl küfler
 ışıl küflüce
 ışılak
 ışılama
@@ -36398,7 +36298,6 @@ hz
 ışkın
 ışkırlak
 ışlemez
-ışler
 ışsiz
 ıştahlı
 ıştır
@@ -36486,7 +36385,6 @@ ibadet de gizli, kabahat de
 ibadet etmek
 ibadetgâh
 ibadethane
-ibadetler
 ibadullah
 ibahî
 ibare
@@ -36672,7 +36570,6 @@ içe kapanıklık
 içe yöneliklik
 içecek
 içecek suyu olmak
-içecekler
 içeri
 içeri düşmek
 içeri girmek
@@ -36855,7 +36752,6 @@ içlene içlene
 içleniş
 içlenme
 içlenmek
-içler (veya yürekler) acısı
 içler acısı
 içli
 içli dışlı
@@ -36869,8 +36765,6 @@ içme suyu
 içmece
 içmeden
 içmek
-içmekten
-içmeler
 içre
 içrek
 içsel
@@ -37346,9 +37240,7 @@ iki canlılık
 iki cihan
 iki cihanda
 iki cinslikli
-iki çenekliler
 iki çenetli
-iki çenetliler
 iki çıplak bir hamama yakışır
 iki çift lâf (lâkırdı veya söz) etmek
 iki çifte
@@ -37471,7 +37363,6 @@ ikizkenar
 ikizkenar üçgen
 ikizkenar yamuk
 ikizleme
-ikizler
 ikizleşme
 ikizli
 ikizlilik
@@ -37481,7 +37372,6 @@ iklim bilimci
 iklim bilimi
 iklimleme
 iklimleme cihazı
-iklimler
 ikmal
 ikmal etmek
 ikmal imtihanı
@@ -37567,7 +37457,6 @@ ilahî
 ilâhi
 ilâhî
 ilâhî kitap
-ilahiler
 ilahiyat
 ilâhiyat
 ilahiyatçı
@@ -37612,7 +37501,7 @@ ilenç
 ileniş
 ilenme
 ilenmek
-iler tutar yeri olmamak (veya kalmamak)
+iler tutar yeri olmamak
 ilerde
 ileri
 ileri (veya öne) sürmek
@@ -37702,7 +37591,6 @@ ilgilenmemek
 ilgiler
 ilgili
 ilgilik
-ilgililer
 ilgililik
 ilgiliye
 ilginç
@@ -37756,7 +37644,6 @@ ilim kadını
 iliman
 ilimci
 ilimcilik
-ilimler
 ilinçak
 ilinek
 ilineksel
@@ -37779,7 +37666,6 @@ ilişkenli
 ilişki
 ilişki kurmak
 ilişkilendirmek
-ilişkiler
 ilişkili
 ilişkin
 ilişkinlik
@@ -37819,7 +37705,6 @@ ilke
 ilkeci
 ilkecilik
 ilkel
-ilkel memeliler
 ilkel toplum
 ilkelce
 ilkelciler
@@ -38203,7 +38088,6 @@ inceleme
 incelemeci
 incelemeden
 incelemek
-incelemeler
 inceleniş
 incelenme
 incelenmek
@@ -38890,10 +38774,7 @@ isimcilik
 isimden türeme fiil
 isimden türeme isim
 isimdeş
-isimlendirme
 isimlendirmek
-isimler
-isimleri
 isimli
 isimlik
 isimsiz
@@ -38907,7 +38788,6 @@ iskân etmek
 iskandil
 iskandil etmek
 iskandinav
-iskandinav dilleri
 iskandinavyalı
 iskarpelâ
 iskarpin
@@ -38929,7 +38809,6 @@ iskete
 iski
 iskillenmek
 iskitçe
-iskitler
 iskoç
 iskoçça
 iskoçya
@@ -39089,7 +38968,6 @@ isteksizce
 isteksizlik
 istem
 isteme
-isteme kipleri
 istemeden
 istemek
 istemeksizin
@@ -39588,8 +39466,6 @@ işlemeli
 işlemeyen
 işlemez
 işlemezlik
-işlemin
-işlemler
 işlemleyici
 işlence
 işlenge
@@ -39599,10 +39475,8 @@ işlenmek
 işlenmemiş
 işlenmiş
 işlenti
-işler
 işler açılmak
 işler becermek
-işleri
 işlerlik
 işletilen
 işletilme
@@ -39638,7 +39512,6 @@ işleysel
 işli
 işlik
 işlik orun
-işliklerde
 işlikleri
 işmar
 işmar etmek (veya geçmek)
@@ -39957,16 +39830,12 @@ iyice
 iyicene
 iyicil
 iyiden iyiye
-iyiler
-iyileşme
 iyileşmek
 iyileşmemek
 iyileşmez
 iyileştiren
 iyileştirilemeyen
-iyileştirme
 iyileştirmek
-iyileştirmeler
 iyiliği dokunmak
 iyilik
 iyilik bilmek
@@ -40056,7 +39925,6 @@ izbe
 izbelik
 izbiro
 izci
-izcilere
 izcilik
 izçeker
 izdeş
@@ -40394,7 +40262,6 @@ kâbile
 kabili kıyas
 kabilinden
 kabiliyet
-kabiliyetleri
 kabiliyetli
 kabiliyetsiz
 kabiliyetsizlik
@@ -40574,7 +40441,6 @@ kademelendirme
 kademelendirmek
 kademelenme
 kademelenmek
-kademeler
 kademeli
 kademesiz
 kademhane
@@ -40829,8 +40695,6 @@ kâfi gelmek
 kafile
 kâfir
 kâfiristan
-kâfirler
-kâfirleşme
 kâfirleşmek
 kâfirlik
 kafiye
@@ -40970,7 +40834,6 @@ kahveci
 kahvecilik
 kahvehane
 kahvehaneci
-kahvelerde
 kahverengi
 kahya
 kâhya
@@ -40979,7 +40842,6 @@ kâhyalık
 kâhyalık etmek
 kaide
 kaideci
-kaideler
 kaideli
 kaidesiz
 kail
@@ -41213,7 +41075,6 @@ kaleci eldiveni
 kalecik
 kalecilik
 kaleideskop
-kaleler
 kalem
 kalem açacağı
 kalem açmak
@@ -41246,7 +41107,6 @@ kalemis
 kalemiyle yaşamak (veya geçinmek)
 kalemkâr
 kalemkârlık
-kalemler
 kalemlik
 kalemşor
 kalemtıraş
@@ -41377,7 +41237,6 @@ kalkacağın yere oturma
 kalkan
 kalkan balığı
 kalkan bezi
-kalkan böcekleri
 kalkanbezi
 kalkancık
 kalker
@@ -41465,10 +41324,7 @@ kalpaklık
 kalpazan
 kalpazanlık
 kalpçi
-kalplaşma
 kalplaşmak
-kalple
-kalpler
 kalplık
 kalpli
 kalpsiz
@@ -42253,7 +42109,6 @@ kaplamsallık
 kaplan
 kaplan atlaması
 kaplan böcek
-kaplan böcekler
 kaplan derisi
 kaplanboğan
 kaplanış
@@ -42483,7 +42338,6 @@ karahanlı
 karahanlılar
 karahindiba
 karahip
-karahipler
 karahumma
 karaiğne
 karaim
@@ -42669,8 +42523,6 @@ karayemiş ağacı
 karayıkım
 karayılan
 karayip
-karayipler
-karayipler'de
 karayla
 karayolu
 karayolunda
@@ -42740,7 +42592,6 @@ kardiyogram
 kardiyolog
 kardiyoloji
 kardiyopati
-kardiyoskleroz
 kardiyoskop
 kardiyoskopi
 kare
@@ -43482,7 +43333,6 @@ katillik
 katip
 kâtip
 kâtipıik
-kâtipler
 kâtiplik
 katiyen
 katiyet
@@ -43554,7 +43404,6 @@ katmerli katmerli gülmek
 katmerli yalan
 katmersiz
 katolik
-katoliklerde
 katoliklik
 katolunma
 katolunmak
@@ -43650,7 +43499,6 @@ kavilleşmek
 kavilya
 kavim
 kavim kardaş
-kavimler
 kavis
 kavis çizmek
 kavislendirme
@@ -44217,7 +44065,6 @@ keçi yemişi
 keçi yolu
 keçiboynuzu
 keçiboynuzu gibi
-keçiler
 keçileri kaçırmak
 keçileşme
 keçileşmek
@@ -44243,7 +44090,6 @@ kederlendirmek
 kederleniş
 kederlenme
 kederlenmek
-kederler
 kederli
 kederlilik
 kedernâk
@@ -44360,7 +44206,6 @@ kelebek camı
 kelebek çiçeği
 kelebek gözlük
 kelebek otu
-kelebekler
 keleci
 kelee
 kelek
