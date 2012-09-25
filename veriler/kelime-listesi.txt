@@ -4361,7 +4361,6 @@ ansiklopedici
 ansiklopedicilik
 ansiklopedik
 ansiklopedik sözlük
-ansiklopedilerin
 ansiklopedist
 ant
 ant içmek
@@ -7551,7 +7550,6 @@ bahçe nanesi
 bahçeci
 bahçecilik
 bahçeler
-bahçelerin
 bahçeli
 bahçelik
 bahçemsi
@@ -9949,8 +9947,6 @@ benzen
 benzer
 benzer şekiller
 benzeri
-benzerler
-benzerlerine
 benzerlik
 benzersiz
 benzersizlik
@@ -10150,7 +10146,6 @@ besicilik
 besihane
 besili
 besin
-besinlerin
 besinli
 besinsiz
 besinsizlik
@@ -10754,8 +10749,6 @@ biçimlenme
 biçimlenmek
 biçimlenmiş
 biçimler
-biçimleri
-biçimlerini
 biçimli
 biçimsel
 biçimselleştirme
@@ -10876,7 +10869,7 @@ bileği
 bileği taşı
 bileğinde altın bileziği olmak
 bileğine güvenmek
-bileğine kadar (veya bileklerine kadar)
+bileğine kadar
 bileğinin hakkı ile
 bilek
 bilek damarı
@@ -11472,13 +11465,6 @@ birey oluş
 birey üstü
 bireyci
 bireycilik
-bireye
-bireyi
-bireyin
-bireyler
-bireylere
-bireyleri
-bireylerin
 bireyleşme
 bireyleştirme
 bireyleştirmek
@@ -11568,8 +11554,6 @@ birleşik zaman
 birleşilme
 birleşilmek
 birleşim
-birleşimini
-birleşimlerini
 birleşimli
 birleşkecilik
 birleşme
@@ -11692,9 +11676,6 @@ bitki topluluğu
 bitkici
 bitkicilik
 bitkiler
-bitkilerde
-bitkilerin
-bitkileşme
 bitkileşmek
 bitkimsi
 bitkimsi hayvanlar
@@ -13712,7 +13693,6 @@ büyüklenmesini
 büyüklenmeyen
 büyüklenmiş
 büyükler
-büyüklerin ellerinden, küçüklerin gözlerinden öpmek
 büyüklü küçüklü
 büyüklüğü
 büyüklüğünde
@@ -17702,13 +17682,10 @@ cylindroid
 çizgilemek
 çizgilenme
 çizgilenmek
-çizgiler
-çizgilerin
 çizgileşme
 çizgileşmek
 çizgili
 çizgilik
-çizginme
 çizginmek
 çizgisel
 çizgisiz
@@ -19315,10 +19292,7 @@ değerlendirme
 değerlendirmeden
 değerlendirmek
 değerlendirmelerde
-değerlenme
 değerlenmek
-değerler
-değerlerini
 değerli
 değerli kâğıt
 değerlilik
@@ -19403,7 +19377,6 @@ değişmeyen
 değişmeyerek
 değişmez
 değişmez maliyet
-değişmezlerini
 değişmezlik
 değişmiş
 değiştireç
@@ -20050,9 +20023,6 @@ deprem merkezi
 deprembilim
 deprembilimci
 depremçizer
-depremleri
-depremlerin
-depremsiz
 depremyazar
 depremzede
 deprenme
@@ -20102,13 +20072,7 @@ dereceleme
 derecelemek
 derecelendirilme
 derecelendirilmek
-derecelendirme
 derecelendirmek
-dereceler
-derecelerini
-dereceli
-derecesinde
-derecesiz
 derecik
 dereden tepeden konuşmak
 dereke
@@ -20119,8 +20083,6 @@ dereyi görmeden paçaları sıvamak
 dergâh
 dergi
 dergicilik
-dergiler
-dergilerin
 derhal
 derhâl
 derhatır
@@ -20165,7 +20127,6 @@ derinlikölçer
 derinti
 derisi
 derisi dikenliler
-derisi kemiklerine yapışmak
 derisine sığmaz
 derisini yüzmek
 derişik
@@ -20256,9 +20217,6 @@ dert yanmak
 dertlendirmek
 dertlenme
 dertlenmek
-dertler
-dertlerini
-dertleşme
 dertleşmek
 dertli
 dertlilik
@@ -21109,7 +21067,7 @@ diline dolamak
 diline dolamak (virt etmek veya diline takmak)
 diline pelesenk etmek
 diline sağlam olmak
-dilini (veya dillerini) yutmak
+dilini yutmak
 dilini bağlamak
 dilini değdirmemek
 dilini eşek arısı soksun!
@@ -21577,8 +21535,6 @@ dişlemek
 dişlenme
 dişlenmek
 dişleri dökülmek
-dişlerin
-dişletme
 dişletmek
 dişli
 dişli tırnaklı
@@ -21707,8 +21663,6 @@ dizemli
 dizemsiz
 dizey
 dizge
-dizgelerde
-dizgelerin
 dizgeli
 dizgesel
 dizgesiz
@@ -21755,7 +21709,7 @@ diziş
 dizlek
 dizleme
 dizlemek
-dizleri kesilmek (veya tutmamak)
+dizleri kesilmek
 dizlerine kapanmak
 dizlerine kara su inmek
 dizlerinin bağı çözülmek
@@ -22584,7 +22538,6 @@ dönüşüm
 dönüşümce
 dönüşümcü
 dönüşümcülük
-dönüşümlerini
 dönüşümlü
 döpiyes
 dörder
@@ -23313,7 +23266,7 @@ dünyanın yedi harikası
 dünyasından geçmek
 dünyaya gelmek
 dünyaya getirmek
-dünyaya gözlerini kapamak (veya yummak)
+dünyaya gözlerini kapamak
 dünyaya kazık çakmak (veya kakmak)
 dünyaya kazık kakmak
 dünyayı anlamak
@@ -23441,9 +23394,6 @@ düşünce özgürlüğü
 düşünceden
 düşüncedir almak
 düşüncel
-düşünceler
-düşüncelerin
-düşüncelerini
 düşünceli
 düşüncelilik
 düşüncellik
@@ -23617,8 +23567,6 @@ düzenlik
 düzenlilik
 düzensiz
 düzensizlik
-düzensizlikleri
-düzensizliklerin
 düzenteker
 düzey
 düzeyi
@@ -24330,7 +24278,6 @@ ekonomist
 ekonomizm
 ekopraksi
 ekose
-ekosistemlerin
 ekosuz
 ekran
 eksantrik
@@ -24602,8 +24549,6 @@ elcilik
 elçek
 elçi
 elçik
-elçilerin
-elçiliğin
 elçilik
 elçilik etmek (veya yapmak)
 elçilik uzmanı
@@ -24930,7 +24875,7 @@ elinden iyi işgelmek
 elinden kan çıkmak
 elinden kurtulmak
 elinden tutmak
-eline (elinize veya ellerinize) sağlık
+eline sağlık
 eline ağır
 eline almak
 eline ayağına çabuk
@@ -24999,8 +24944,6 @@ ellerde
 ellerde gezmek
 ellerim yanıma gelsin
 ellerin dert görmesin
-ellerinde
-elleşme
 elleşmek
 elli
 ellik
@@ -25575,8 +25518,6 @@ ereksel
 ereksel neden
 eren
 erendiz
-erenler
-erenlerin sağı solu olmaz
 erey
 erez
 erezyon
@@ -26667,8 +26608,6 @@ evlerde
 evlerden ırak (veya uzak)
 evlere
 evlere şenlik
-evlerin
-evlerindenolurlar
 evleviyet
 evleviyetle
 evli
@@ -26979,7 +26918,6 @@ faikiyet
 fail
 failimeçhul
 failimuhtar
-faillerini
 fainal four
 fair-play
 faiz
@@ -29438,9 +29376,6 @@ geçmişi
 geçmişi kandilli
 geçmişi kınalı
 geçmişi olmak
-geçmişler
-geçmişleri
-geçmişlerini karıştırmak
 geçmişseverlik
 geçmişte
 geçti bor'un pazarı, sür eşeğini niğde'ye (veya geçti bor'un pazarı)
@@ -29511,12 +29446,8 @@ gelen paşam, giden ağam
 gelenek
 gelenekçi
 gelenekçilik
-gelenekler
-geleneklerin
-geleneklerini
 gelenekleşme
 gelenekleşmek
-gelenekleştirme
 gelenekleştirmek
 gelenekli
 geleneksel
@@ -30069,7 +30000,6 @@ geyik muhabbeti
 geyik otu
 geyikdili
 geyikler kırkımında
-geyiklerin
 geyikotu
 geyşa
 gez
@@ -30432,11 +30362,7 @@ giyme
 giymek
 giyotin
 giysi
-giysiler
-giysilerde
-giysilerin
 giysilik
-giysisi
 giz
 gizaçım
 gizaçımlamak
@@ -31008,7 +30934,6 @@ göreneğe
 görenek
 görenekçi
 görenekçilik
-göreneklerine
 görenekli
 göreneksel
 göreneksiz
@@ -31517,13 +31442,12 @@ gözleri velfecri okumak
 gözleri yaşarmak
 gözleri yollarda kalmak
 gözleri yuvalarından fırlamak
-gözlerinde şimşek (veya şimşekler) çakmak
+gözlerinde şimşek çakmak
 gözlerinden okumak
 gözlerine fer gelmek
 gözlerine inanamamak
-gözlerine uyku girmemek (veya gözlerini uyku tutmamak)
-gözlerini
-gözlerini (veya gözünü) oymak
+gözlerine uyku girmemek
+gözlerini oymak
 gözlerini açmak
 gözlerini alamamak
 gözlerini bayıltmak
@@ -31704,7 +31628,6 @@ gradyent
 grafik
 grafik tasarımcısı
 grafik teknisyeni
-grafiklerin
 grafit
 grafolog
 grafoloji
@@ -32560,8 +32483,6 @@ güzeli
 güzelim
 güzelken
 güzelleme
-güzeller
-güzellerin talihi çirkin olur
 güzelleşir
 güzelleşme
 güzelleşmek
@@ -33540,11 +33461,7 @@ hareketlendirme
 hareketlendirmek
 hareketlenme
 hareketlenmek
-hareketler
-hareketleri
-hareketlerini
 hareketli
-hareketli, dinamik
 hareketlilik
 hareketsiz
 hareketsizlik
@@ -33630,8 +33547,6 @@ harman dövmek keçinin işi değil
 harman etmek
 harman savurmak
 harman sonu
-harman sonu dervişlerin
-harman yel ile, düğün el ile
 harman yeri
 harmancı
 harmancıkakalan
@@ -35881,8 +35796,6 @@ hücre
 hücre bilimi
 hücre yutarlığı
 hücreler arası
-hücrelerin
-hücreyutarlığı
 hücum
 hücum etmek
 hücum oyuncusu
@@ -36485,9 +36398,7 @@ hz
 ıstar
 ıstasyon
 ıstavroz
-ısteklendirme
 ısteklendirmek
-ısteklerini
 ısteksiz
 ısteksizlik
 ıstemesine
@@ -37191,7 +37102,6 @@ idealizasyon
 idealize
 idealize etmek
 idealizm
-ideallerini
 idealleştirme
 idealleştirmek
 idealsiz
@@ -37847,7 +37757,6 @@ ilca etmek
 ilçe
 ilçe belediyesi
 ilçebay
-ilçelerin
 ildeş
 ile
 ilelebet
@@ -38068,7 +37977,6 @@ ilkel toplum
 ilkelce
 ilkelciler
 ilkelcilik
-ilkelerini
 ilkeleşme
 ilkeleşmek
 ilkelleşme
@@ -38463,7 +38371,6 @@ inceleyici
 inceliğin
 incelik
 incelikle
-inceliklerini
 incelikli
 inceliksiz
 inceliş
@@ -39334,10 +39241,6 @@ isteklendirmek
 istekleniş
 isteklenme
 isteklenmek
-istekler
-istekleri
-isteklerinde
-isteklerini
 istekli
 isteksiz
 isteksizce
@@ -39877,7 +39780,6 @@ işlev
 işlev yitimi
 işlevci
 işlevcilik
-işlevlerini
 işlevsel
 işlevsiz
 işlevsizlik
@@ -39960,7 +39862,6 @@ işvereni
 işverenin
 işyar
 işyeri
-işyerlerinde
 it
 it canlı
 it dişi domuz derisi
@@ -40239,8 +40140,6 @@ iyilikbilmez
 iyilikçi
 iyilikçilik
 iyilikle
-iyilikler
-iyiliklerini
 iyiliksever
 iyilikseverlik
 iyimser
@@ -40507,7 +40406,6 @@ jilet gibi
 jimnastik
 jimnastik yapmak
 jimnastikçi
-jimnastikçilerin
 jin
 jinekolog
 jinekoloji
@@ -46841,9 +46739,6 @@ kişide
 kişiler
 kişiler arası
 kişiler arası ilişki
-kişileri
-kişilerin
-kişilerle
 kişileşme
 kişileşmek
 kişileştirme
@@ -48466,10 +48361,7 @@ köprüleniş
 köprülenme
 köprülenmek
 köprüleri atmak
-köprülerin
 köprülü
-köprünün (veya köprülerin) altından çok su (veya sular) aktı (veya geçti)
-köprüyü geçinceye kadar ayıya dayı derler
 köpük
 köpük gibi
 köpüklenen
@@ -50177,7 +50069,6 @@ külhanbeyce
 külhanbeyi
 külhanbeyi ağzı
 külhanbeyilik
-külhanbeylerinin
 külhanbeylik
 külhancı
 külhanî
@@ -50833,7 +50724,6 @@ lâtin halkları
 lâtin yelkeni
 lâtince
 latinçiçeği
-latinçiçeklerinden
 lâtinlik
 lâubali
 lâubalî
@@ -52486,7 +52376,6 @@ marazlık etmek
 marche
 marda
 mareşal
-mareşallerin
 mareşallik
 mareşallik asası
 margarik asit
@@ -52884,7 +52773,6 @@ mayıs
 mayıs böceği
 mayıs böcekleri
 mayısböceği
-mayısböceklerinden
 mayıslamak
 mayıslı
 mayışma
@@ -54834,9 +54722,6 @@ molekül
 moleküler
 moleküler biyolog
 moleküler grup
-moleküller
-moleküllere
-moleküllerin
 molibden
 molibdin
 molla
@@ -55929,7 +55814,6 @@ müge
 mühasif
 mühendis
 mühendishane
-mühendislerin
 mühendislik
 müheyya
 müheyyiç
@@ -57351,7 +57235,6 @@ nehî
 nehir
 nehir roman
 nehirin
-nehirlerin
 nehiy
 nekahet
 nekahethane
@@ -57467,8 +57350,6 @@ nesne öbeği
 nesnel
 nesnelci
 nesnelcilik
-nesneler
-nesnelerin
 nesnelleşme
 nesnelleşmek
 nesnellik
@@ -59791,16 +59672,11 @@ ozuga
 öfkeye kapılmak
 öfkeyle
 öge
-ögeler
-ögelerinin
 öger
 öglena
 ögretimde
 öğecik
 öğecik yapısı
-öğeciklerde
-öğecikleri
-öğeciklerin
 öğecikleşme
 öğle
 öğle ezanı
@@ -59826,9 +59702,6 @@ ozuga
 öğrenci kartı
 öğrenci kimliği
 öğrenci yurdu
-öğrencilere
-öğrencileri
-öğrencilerin
 öğrencilik
 öğrenilme
 öğrenilmek
@@ -59889,10 +59762,8 @@ ozuga
 öğüt
 öğüt vermek (veya öğütte bulunmak)
 öğütçü
-öğütleme
 öğütlemek
 öğütlenmek
-öğütlerine
 öğütlük
 öğütme
 öğütme haznesi
@@ -60006,9 +59877,7 @@ ozuga
 ölçülü biçili
 ölçülülük
 ölçüm
-ölçümleme
 ölçümlemek
-ölçümlerini
 ölçümlü
 ölçün
 ölçün sapma
@@ -60286,8 +60155,6 @@ ozuga
 önem
 önem vermek
 önemi
-önemini
-önemlerine
 önemli
 önemlice
 önemseme
@@ -60529,8 +60396,6 @@ ozuga
 örülüş
 örüm
 örümce
-örümceğimsiler
-örümceğimsilerin
 örümcek
 örümcek bağlamak
 örümcek kafalı
@@ -60712,8 +60577,6 @@ ozuga
 özcesi
 özdecik
 özdecik topağı
-özdecikleri
-özdeciklerin
 özdecikte
 özdeğin
 özdek
@@ -60780,10 +60643,6 @@ ozuga
 özelliği
 özellik
 özellikle
-özellikler
-özellikleri
-özelliklerin
-özelliklerini
 özellikli
 özeme
 özemek
@@ -62096,7 +61955,6 @@ pelemir
 peleng
 pelenk
 pelerin
-pelerinli
 pelerinli çamurcun
 pelesenk
 pelesenk ağacı
@@ -62497,8 +62355,6 @@ peygamberane
 peygamberce
 peygamberçiçeği
 peygamberdevesi
-peygamberler
-peygamberlerine
 peygamberlik
 peygamberöküzü
 peygambervari
@@ -63462,9 +63318,7 @@ projektör
 projektör ışığı
 projektör ışığında olmak
 projelendiren
-projelendirme
 projelendirmek
-projelerini
 proletarya
 proleter
 proleterleşme
@@ -63791,7 +63645,6 @@ radar
 radarcı
 radarcılık
 radde
-raddelerinde
 radika
 radikal
 radikalist
@@ -65919,7 +65772,6 @@ samaryum
 samba
 sami
 samî
-samilerin
 samimi
 samimî
 samimi olmak
@@ -67130,9 +66982,6 @@ selektör
 selen
 selender
 selenli
-selentereler
-selenterelerden
-selenterelerin
 selenyum
 selfdeterminasyon
 selfservis
@@ -67537,7 +67386,6 @@ serseri
 serseri mayın
 serseri serseri
 serserice
-serserilerin
 serserileşme
 serserileşmek
 serserilik
@@ -67669,10 +67517,7 @@ seslendiriş
 seslendirme
 seslendirmek
 sesleniş
-seslenme
 seslenmek
-sesler
-seslerin
 sesletim
 sesletmek
 sesli
@@ -70151,7 +69996,6 @@ sözcük
 sözcük hazinesi
 sözcük türü
 sözcük vurgusu
-sözcüklerin
 sözcülük
 sözde
 sözde kalmak
@@ -70171,11 +70015,7 @@ sözlendiricilik
 sözlendirme
 sözlendirmede
 sözlendirmek
-sözlenme
 sözlenmek
-sözler
-sözleri
-sözlerin
 sözleriyle
 sözleşme
 sözleşme tutanağı
@@ -71128,8 +70968,6 @@ süpriz
 süprülmek
 süprüntü
 süprüntücü
-süprüntüler
-süprüntülerin
 süprüntülük
 süpürge
 süpürge çalısı
@@ -71615,9 +71453,6 @@ süzüntü
 şairan
 şairane
 şairanelik
-şaire
-şairler
-şairlerin
 şairlik
 şak
 şak etmek
@@ -73778,15 +73613,12 @@ tane bağlamak
 tane tane
 tane tane söylemek (veya konuşmak)
 tanecik
-taneciklerin
 tanecikli
 taneciksiz
 tanecil
 taneleme
 tanelemek
-tanelenme
 tanelenmek
-tanelerin
 taneli
 tanen
 tang
@@ -74180,7 +74012,6 @@ tarihî tiyatro
 tarihini
 tarihlendirme
 tarihlendirmek
-tarihlerini
 tarihli
 tarihöncesi
 tarihsel
@@ -75303,7 +75134,7 @@ tekelci anamalcılık
 tekelcilik
 tekelinde olmak
 tekeline
-tekeline (veya tekellerine) almak
+tekeline almak
 tekelleşme
 tekelleşmek
 tekelleştirme
@@ -76354,7 +76185,6 @@ terzi kendi söküğünü dikemez
 terzihane
 terzil
 terzil etmek
-terzilerin
 terzilik
 terziye dinlen demişler, ayağa kalkmış
 tes'it
@@ -77944,8 +77774,6 @@ töreci
 törecilik
 törel
 törelcilik
-törelere
-törelerini
 töreli
 törellik
 törelsiz
@@ -78813,9 +78641,6 @@ türkiye'de
 türkkâri
 türkkıyması
 türkkupası
-türklerde
-türklerinde
-türkleşme
 türkleşmek
 türkleştirme
 türkleştirmek
@@ -78845,9 +78670,6 @@ türküleştirmek
 türküsü
 türküsünü çağırmak
 türkvari
-türler
-türlerin
-türlerinin
 türlü
 türlü türlü
 türş
@@ -80310,9 +80132,6 @@ uzyazdırım
 üremsel
 üreteç
 üretici
-üretici alan
-üretici olmayan alan
-üreticilerin
 üreticilik
 üretildiği
 üretilen
@@ -82122,8 +81941,6 @@ yahudi takvimi
 yahudi tapınağı
 yahudice
 yahudiler
-yahudilerde
-yahudilerin
 yahudilik
 yahut
 yak
@@ -84338,7 +84155,6 @@ yemekli vagon
 yemeklik
 yemeksiz
 yemen
-yemen ellerinde veysel karanî
 yemeni
 yemenici
 yemenicilik
@@ -85753,7 +85569,6 @@ yönetsel
 yöney
 yöneylem
 yöneylem araştırması
-yöneylerin
 yöngörü
 yönlem
 yönleme
@@ -86501,7 +86316,6 @@ yüzerme
 yüzertop
 yüzey
 yüzey şekilleri
-yüzeylerin
 yüzeyleşme
 yüzeyleşmek
 yüzeyölçer
