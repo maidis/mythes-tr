@@ -20,7 +20,6 @@ abanma
 abanmak
 abanoz
 abanoz gibi
-abanozgillerden
 abanozlaşmak
 abar
 abartı
@@ -2003,8 +2002,6 @@ akasma
 akasya
 akata
 akbaba
-akbabagiller
-akbabagillerden
 akbacı
 akbakla
 akbala
@@ -2032,8 +2029,6 @@ akça armudu
 akça pakça
 akça yel
 akçaağaç
-akçaağaçgiller
-akçaağaçgillerden
 akçakavak
 akçakesme
 akçalama
@@ -2396,9 +2391,6 @@ akreditasyon
 akreditif
 akrep
 akrep gibi
-akrepgiller
-akrepler
-akreplerden
 akrilik
 akrobasi
 akrobat
@@ -2644,8 +2636,6 @@ ala tavlı
 ala yuntlu
 alabacak
 alabalık
-alabalıkgiller
-alabalıkgillerden
 alaban
 alabanda
 alabanda ateş
@@ -3982,8 +3972,6 @@ anan güzel idi, hani yeri, baban zengin idi, hani evi
 anan turp baban şalgam sen nereden çıktın gülbeşeker
 anan yahşi, baban yahşi
 ananas
-ananasgiller
-ananasgillerden
 anane
 ananecilik
 ananet
@@ -4395,7 +4383,6 @@ antenli
 antenli balık
 antep baklavası
 antep fıstığı
-antep fıstığıgiller
 antep işi
 anter
 anterit
@@ -4935,7 +4922,6 @@ arı kil
 arı kovanı
 arı kovanı gibi işlemek
 arı kuşu
-arı kuşugiller
 arı sili
 arı sütü
 arı, bey olan kovana üşer
@@ -5573,7 +5559,6 @@ aslan yatağından belli olur
 aslan yürekli
 aslanağzı
 aslanca
-aslangiller
 aslanım!
 aslanımsı
 aslanın ağzında
@@ -5607,8 +5592,6 @@ asma kilit
 asma köprü
 asma merdiven
 asma yaprağı
-asmagiller
-asmagillerden
 asmak
 asmalı
 asmalık
@@ -5913,7 +5896,6 @@ at gözlüğü
 at hırsızı gibi
 at izi it izine karışmak
 at kestanesi
-at kestanesigiller
 at koşturacak kadar
 at koşturmak
 at kudümüy yurt kudümü, avrat kudümü
@@ -6075,8 +6057,6 @@ atfen
 atfetme
 atfetmek
 atgıç
-atgiller
-atgillerden
 atgözlüğü
 athena
 atı alan üsküdar'ı geçti
@@ -6136,10 +6116,6 @@ atkılama
 atkılamak
 atkılı
 atkuyruğu
-atkuyruğugiller
-atkuyruğugillerden
-atla arpayı dövüştürmek
-atladı geçti genç osman!
 atlama
 atlama beygiri
 atlama tahtası
@@ -6161,7 +6137,6 @@ atlar tepişir, arada eşekler ezilir
 atları
 atlas
 atlas çiçeği
-atlas çiçeğigiller
 atlas kemiği
 atlas okyanusu
 atlatılma
@@ -6397,7 +6372,6 @@ ay
 ay ağılı
 ay aydın, hesap belli
 ay balığı
-ay balığıgiller
 ay balta
 ay çekirdeği
 ay dede
@@ -6627,7 +6601,6 @@ ayazma
 aybakım
 aybala
 aybalığı
-aybalığıgillerden
 aybandı
 aybar
 aybaşı
@@ -6694,8 +6667,6 @@ ayıbını yüzüne vurmak
 ayıboğan
 ayıcı
 ayıcılık
-ayıgiller
-ayıgillerden
 ayık
 ayıkla pirincin taşını!
 ayıklama
@@ -7743,14 +7714,11 @@ bakkallık
 bakkam
 bakla
 bakla çiçeği
-bakla dökmek (veya atmak)
+bakla dökmek
 bakla falı
 bakla ıslanmamak
 bakla kadar
 bakla kırı
-bakla oda nohut sofa
-baklagiller
-baklagillerden
 baklalı
 baklalık
 baklamsı
@@ -7777,7 +7745,6 @@ baksana! baksanıza!
 baksı
 bakteri
 bakteridi
-bakterigiller
 bakterisit
 bakteriyel
 bakteriyolog
@@ -7914,8 +7881,6 @@ balıkçı gemisi
 balıkçı kazağı
 balıkçı yaka
 balıkçıl
-balıkçıların
-balıkçılgiller
 balıkçılık
 balıkçıllar
 balıkçın
@@ -7943,9 +7908,6 @@ baliğolmak
 balina
 balina çubuğu
 balina yağı
-balinagillerden
-balinalar
-balinalardan
 balinalı
 balistik
 balkabağı
@@ -7979,8 +7941,6 @@ ballı börek
 ballı börekli olmak
 ballı pasta
 ballıbaba
-ballıbabagiller
-ballıbabagillerden
 ballıdarı
 ballık
 ballıklı
@@ -8178,8 +8138,6 @@ barbaşı
 barbata
 barbekü
 barbunya
-barbunyagiller
-barbunyagillerden
 barbut
 barcı
 barcılık
@@ -9031,7 +8989,6 @@ baştan sona
 baştanımaz
 baştanımazlık
 baştankara
-baştankaragiller
 baştansavma
 baştarda
 başteknisyen
@@ -9261,8 +9218,6 @@ bayi
 bayilik
 baykuş
 baykuş gibi
-baykuşgiller
-baykuşgillerden
 bayla
 baylam
 baylamış
@@ -9499,8 +9454,6 @@ begesin
 begisi
 begonvil
 begonya
-begonyagiller
-begonyagillerden
 begüm
 beğ
 beğceğiz
@@ -10948,8 +10901,6 @@ bileşik kap
 bileşik kaplar
 bileşik kesir
 bileşik önerme
-bileşikgiller
-bileşikgillerden
 bileşim
 bileşke
 bileşme
@@ -11614,8 +11565,6 @@ birleşik krallık
 birleşik oturum
 birleşik oy pusulası
 birleşik zaman
-birleşikgillerden
-birleşikgillereden
 birleşilme
 birleşilmek
 birleşim
@@ -11875,8 +11824,6 @@ blûcin
 blûm
 blûz
 boa
-boagiller
-boagillerden
 boalar
 boartz
 bobin
@@ -12266,7 +12213,6 @@ boru askısı
 boru bileziği
 boru çalmak
 boru çiçeği
-boru çiçeğigiller
 boru değil
 boru döşeyici
 boru hattı
@@ -12532,8 +12478,6 @@ boynuzlaşmak
 boynuzlatma
 boynuzlatmak
 boynuzlu
-boynuzlugiller
-boynuzlugillerden
 boynuzluteke
 boynuzsu
 boynuzsuz
@@ -12994,11 +12938,6 @@ buğday rengi
 buğday sürmesi
 buğday unu
 buğdaycıl
-buğdaygiller
-buğdaygillerde
-buğdaygillerden
-buğdaygillerin
-buğdayım var deme ambara girmeyince, oğlum var deme yoksulluğa ermeyince
 buğdaysı
 buğdaysı meyve
 buğdaysı tane
@@ -13063,9 +13002,6 @@ bukağılamak
 bukağılı
 bukağılık
 bukalemun
-bukalemun gibi renkten renge girmek
-bukalemungiller
-bukalemungillerden
 bukan
 bukanak
 buke
@@ -14053,7 +13989,6 @@ canavar düdüğü
 canavar gibi
 canavar kesilmek
 canavar otu
-canavar otugiller
 canavarca
 canavarlaşma
 canavarlaşmak
@@ -14522,11 +14457,9 @@ cenkleşme
 cenkleşmek
 cennet
 cennet balığı
-cennet balığıgiller
 cennet biberi
 cennet gibi
 cennet kuşu
-cennet kuşugiller
 cennet öküzü
 cennet taamı
 cennete çevirmek
@@ -14689,7 +14622,6 @@ cevir
 ceviz
 ceviz içi
 ceviz kırmak
-cevizgiller
 cevizî
 cevizli
 cevizlik
@@ -15679,7 +15611,6 @@ cylindroid
 çalı idi, çırpı idi, evim idi ya, ayı idi uyu idi, kocam idi ya
 çalı kakıcı
 çalı kuşu
-çalı kuşugiller
 çalı süpürgesi
 çalıbülbülü
 çalıcı
@@ -15841,15 +15772,13 @@ cylindroid
 çamçak
 çamçak çamçak
 çâmegûy
-çamgiller
-çamgillerden
 çamıç
 çamış
 çamlık
 çamsakızı
 çamuka
 çamur
-çamur atmak (veya sıçratmak)
+çamur atmak
 çamur banyosu
 çamur deryası
 çamur gibi
@@ -15881,7 +15810,6 @@ cylindroid
 çan çan
 çan çan etmek (ötmek veya konuşmak)
 çan çiçeği
-çan çiçeğigiller
 çan kulesi
 çanağa ne doğrarsan kaşığında o çıkar
 çanak
@@ -15903,7 +15831,6 @@ cylindroid
 çanayaz
 çancı
 çancılık
-çançiçeğigillerden
 çandı
 çandır
 çane
@@ -16053,8 +15980,6 @@ cylindroid
 çarkçılık
 çarkı döndürmek
 çarkıfelek
-çarkıfelekgiller
-çarkına etmek (veya okumak)
 çarkıt
 çarklı
 çarksız
@@ -16300,7 +16225,6 @@ cylindroid
 çavunt
 çavuş
 çavuş kuşu
-çavuş kuşugiller
 çavuş üzümü
 çavuşluk
 çavut
@@ -16326,8 +16250,6 @@ cylindroid
 çaydan geçip derede boğulmak
 çaydanlık
 çayevi
-çaygiller
-çaygillerden
 çayhane
 çayhaneci
 çayhanecilik
@@ -17159,7 +17081,6 @@ cylindroid
 çın tutmak
 çınak
 çınar
-çınargiller
 çınarımsı
 çınarımsı isfendan
 çınarlı
@@ -17181,7 +17102,6 @@ cylindroid
 çıngırakçılık
 çıngıraklı
 çıngıraklı yılan
-çıngıraklı yılangiller
 çıngırdak
 çıngırdama
 çıngırdamak
@@ -17607,13 +17527,10 @@ cylindroid
 çinakop
 çince
 çinçilya
-çinçilyagiller
-çinçilyagillerden
 çingen
 çingene
 çingene ahtapotu
 çingene borcu
-çingene ciğer pişirir, yemeden karnın şişirir
 çingene çergesi
 çingene çergesinde musandıra ne arar
 çingene dili
@@ -17703,7 +17620,6 @@ cylindroid
 çişik
 çit
 çit sarmaşığı
-çit sarmaşığıgiller
 çita
 çitar
 çitari
@@ -17837,9 +17753,6 @@ cylindroid
 çoban salatası
 çoban yıldızı
 çobanaldatan
-çobanaldatangiller
-çobanaldatangillerden
-çobanaldatanları
 çobançantası
 çobandağarcığı
 çobandeğneği
@@ -17850,11 +17763,7 @@ cylindroid
 çobanlama
 çobanlık
 çobanlık etmek
-çobanpüsküllügillerden
 çobanpüskülü
-çobanpüskülügiller
-çobanpüskülügillerden
-çobansız koyunu kurt kapar
 çobansüzgeci
 çobantarağı
 çobantuzluğu
@@ -18083,8 +17992,6 @@ cylindroid
 çotak
 çotanak
 çotira
-çotiragiller
-çotiragillerden
 çotra
 çotuk
 çotur
@@ -18136,7 +18043,6 @@ cylindroid
 çöküşmek
 çöl
 çöl tavuğu
-çöl tavuğugiller
 çölde
 çöle dönmek
 çölleşme
@@ -18277,9 +18183,7 @@ cylindroid
 çuğa
 çuha
 çuha çiçeği
-çuha çiçeğigiller
 çuhacılık
-çuhaçiçeğigillerden
 çuhadar
 çuhadarlık
 çuhalı
@@ -18313,8 +18217,6 @@ cylindroid
 çullanma
 çullanmak
 çulluk
-çullukgiller
-çullukgillerden
 çulpan
 çulsuz
 çultar
@@ -18701,7 +18603,6 @@ dalgıç elbisesi
 dalgıç gözlüğü
 dalgıç kuşları
 dalgıç kuşu
-dalgıç kuşugiller
 dalgıç tüpü
 dalgıçlık
 dalgın
@@ -18774,7 +18675,6 @@ dam
 dam aktarma
 dam altı
 dam koruğu
-dam koruğugiller
 dam üstünde saksağan, vur beline kazmayı
 dam yandı, içindeki sıçan da (birlikte) yandı
 dama
@@ -19345,8 +19245,6 @@ defne
 defne yaprağı
 defnedilme
 defnedilmek
-defnegiller
-defnegillerden
 defnetme
 defnetmek
 defneyaprağı
@@ -20507,7 +20405,6 @@ dev anası
 dev aynası
 dev aynasında görmek
 dev gibi
-dev köpek balığıgiller
 deva
 devaimisk
 devalüasyon
@@ -20969,7 +20866,6 @@ dikenleşme
 dikenleşmek
 dikenli
 dikenli balık
-dikenli balıkgiller
 dikenli kabak
 dikenli meyan
 dikenli salyangoz
@@ -21630,7 +21526,6 @@ diş hekimliği
 diş kirası
 diş macunu
 diş otu
-diş otugiller
 diş özü
 diş tababeti
 diş tabibi
@@ -22165,9 +22060,7 @@ dolaksız
 dolam
 dolama
 dolama otu
-dolama otugiller
 dolamak
-dolamaotugiller
 dolambaç
 dolambaçlı
 dolambaçsız
@@ -22266,7 +22159,6 @@ dolma
 dolma biber
 dolma kalem
 dolma otu
-dolma otugiller
 dolma yutmak
 dolmak
 dolmaları yutmak
@@ -22332,9 +22224,6 @@ domuz gibi yemek (veya tıkınmak)
 domuz otu
 domuz yağı
 domuzayağı
-domuzdan (bir) kıl çekmek (veya koparmak)
-domuzgiller
-domuzgillerden
 domuzlan
 domuzlaşma
 domuzlaşmak
@@ -22844,8 +22733,6 @@ dripling
 dripling yapmak
 drog
 drosera
-droseragiller
-droseragillerden
 drupa
 ds
 dst
@@ -22910,8 +22797,6 @@ dul
 dul kalmak
 dulak
 dulaptal otu
-dulaptal otugiller
-dulaptalotugillerden
 dulavrat otu
 dulavratotu
 dulda
@@ -23094,8 +22979,6 @@ dut yemiş bülbüle dönmek
 dut yemişbülbüle dönmek
 dutar
 dutçuluk
-dutgiller
-dutgillerden
 dutluk
 duva
 duvağına doymamak
@@ -23304,7 +23187,6 @@ düğün
 düğün alayı
 düğün bayram etmek
 düğün çiçeği
-düğün çiçeğigiller
 düğün çorbası
 düğün değil, bayram değil, eniştem beni neyi öptü
 düğün dernek
@@ -23318,7 +23200,6 @@ düğün salonu
 düğün yahnisi
 düğüncü
 düğüncübaşı
-düğünçiçeğigillerden
 düğüne
 düğünsüz
 düğününde kalburla (elekle) su taşımak
@@ -23817,8 +23698,6 @@ ebedîlik
 ebediyen
 ebediyet
 ebegümeci
-ebegümecigiller
-ebegümecigillerden
 ebekuşağı
 ebeleme
 ebelemek
@@ -24215,8 +24094,6 @@ eğmür
 eğnez
 eğrelti
 eğrelti otu
-eğrelti otugiller
-eğreltiotugillerden
 eğreti
 eğreti almak
 eğreti ata binen tez iner
@@ -24553,7 +24430,6 @@ ekşi limon
 ekşi maya
 ekşi surat
 ekşi yonca
-ekşi yoncagiller
 ekşi yüz
 ekşikulak
 ekşili
@@ -25506,8 +25382,6 @@ engellik
 engelsiz
 engerek
 engerek otu
-engerekgiller
-engerekgillerden
 engin
 enginar
 enginleşme
@@ -25741,7 +25615,6 @@ ergitmek
 ergonomi
 ergonomik
 erguvan
-erguvangiller
 erguvanî
 ergün
 ergürmek
@@ -27351,8 +27224,6 @@ fasulye gibi kendini nimetten saymak
 fasulye pilâkisi
 fasulye piyazı
 fasulye sırığı gibi
-fasulyegiller
-fasulyegillerden
 fasülye
 faş
 fâş
@@ -27583,7 +27454,6 @@ fenci
 fener
 fener alayı
 fener balığı
-fener balığıgiller
 fener çekmek
 fenerci
 fenercilik
@@ -27947,9 +27817,7 @@ fırt fırt
 fırtına
 fırtına çıkmak
 fırtına gibi
-fırtına kopmak (veya patlamak)
 fırtına kuşu
-fırtına kuşugiller
 fırtına uğrağı
 fırtınalı
 fırttırma
@@ -28154,8 +28022,6 @@ file
 filenk
 filet
 fileto
-filgiller
-filgillerden
 filhakika
 filibit
 filigran
@@ -28408,7 +28274,6 @@ flâman atı
 flaman kuşu
 flâman kuşu
 flâmanca
-flâmangiller
 flâmanlar
 flambaj
 flamingo
@@ -28465,8 +28330,6 @@ fodul
 fodulca
 fodulluk
 fok
-fokgiller
-fokgillerden
 fokstrot
 fokur fokur
 fokurdak
@@ -28755,7 +28618,6 @@ fujer
 fukara
 fukara babası
 fukaralık
-fukusgiller
 ful
 fular
 fule
@@ -28766,13 +28628,10 @@ fultaymcı
 fultaymlı
 fulya
 fulya balığı
-fulya balığıgiller
 funda
 funda sıçanı
 funda tavuğu
 funda toprağı
-fundagiller
-fundagillerden
 fundalar
 fundalık
 fundamentalist
@@ -29382,7 +29241,6 @@ gebeşlik
 gebol
 gebre
 gebre otu
-gebre otugiller
 gebreleme
 gebrelemek
 gebrelenme
@@ -29423,7 +29281,6 @@ geceli
 geceli gündüzlü
 gecelik
 gecesefası
-gecesefasıgiller
 geceyi gündüze katmak
 gecikilme
 gecikilmek
@@ -29701,8 +29558,6 @@ gelin yazmak
 gelinboğan
 gelince
 gelincik
-gelincikgiller
-gelincikgillerden
 gelinfeneri
 gelinkuşağı
 gelinlik
@@ -30050,8 +29905,6 @@ gerey
 gerez
 gergedan
 gergedan böceği
-gergedangiller
-gergedangillerden
 gergef
 gergef işlemek
 gergen
@@ -30215,8 +30068,6 @@ geyik etine girmek
 geyik muhabbeti
 geyik otu
 geyikdili
-geyikgiller
-geyikgillerden
 geyikler kırkımında
 geyiklerin
 geyikotu
@@ -30878,9 +30729,6 @@ gökgözler
 gökkandil
 gökkuşağı
 gökkuzgun
-gökkuzgungiller
-gökkuzgunlar
-gökkuzgunları
 gökkuzgunumsular
 gökler
 göklere çıkarmak
@@ -30921,7 +30769,6 @@ gölermek
 gölet
 gölge
 gölge balığı
-gölge balığıgiller
 gölge düşmek
 gölge düşürmek
 gölge etmek
@@ -31948,10 +31795,8 @@ gufran
 guft
 gugu çiçeği
 guguk
-guguk gibi kalmak (veya oturmak)
+guguk gibi kalmak
 guguk yapmak
-gugukgiller
-gugukgillerden
 guguklu
 guguklu saat
 gulam
@@ -32187,10 +32032,7 @@ güler yüz
 güler yüzlü
 güler yüzlülük
 gülerek
-gülerim! (veya güleyim bari!)
-gülerken ısırır
-gülgiller
-gülgillerden
+gülerim!
 gülhatmi
 gülistan
 gülkurusu
@@ -32293,7 +32135,6 @@ gümrükten mal kaçırır gibi
 gümül
 gümüş
 gümüş balığı
-gümüş balığıgiller
 gümüş grisi
 gümüş rengi
 gümüş sağ olsun, altın gidekosun
@@ -32579,9 +32420,6 @@ güreşte
 güreştirme
 güreştirmek
 gürgen
-gürgengiller
-gürgengillerden
-gürgengillerin
 gürlek
 gürleme
 gürlemek
@@ -32677,8 +32515,6 @@ güvensizlik duymak
 güvensizlik önergesi
 güvercin
 güvercinboynu
-güvercingiller
-güvercingillerden
 güvercingöğsü
 güvercinimsiler
 güvercinler
@@ -33372,7 +33208,6 @@ hamam
 hamam anası
 hamam bohçası
 hamam böceği
-hamam böceğigiller
 hamam gibi
 hamam kesesi
 hamam leğeni
@@ -33449,8 +33284,6 @@ hamse
 hamsi
 hamsi buğulama
 hamsi çorbası
-hamsigiller
-hamsigillerden
 hamsikuşu
 hamsili pilâv
 hamsin
@@ -33537,9 +33370,6 @@ hanımcık
 hanımefendi
 hanımefendilik
 hanımeli
-hanımeligiller
-hanımeligillerden
-hanımeligillilerden
 hanımgöbeği
 hanımlık
 hanımnine
@@ -33549,8 +33379,6 @@ hani ya
 hani yok mu
 hanidir
 hânif
-hanigiller
-hanigillerden
 hanlık
 hannas
 hant hant
@@ -33689,7 +33517,6 @@ harçlık
 harçsız
 hardal
 hardal rengi
-hardalgillerden
 hardaliye
 hardallı
 hardallık
@@ -33749,9 +33576,6 @@ harfler
 harfteş
 harhara
 harharyas
-harharyasgiller
-harharyasgillerden
-harı başına vurmak
 harı geçmek
 harıl harıl
 harılanma
@@ -33906,7 +33730,6 @@ hasımlık
 hasır
 hasır altı etmek
 hasır otu
-hasır otugiller
 hasıraltı
 hasırcı
 hasırcılık
@@ -33916,7 +33739,6 @@ hasırlanma
 hasırlanmak
 hasırlı
 hasırotu
-hasırotugillerden
 hasis
 hasislik
 hasislik etmek
@@ -35450,7 +35272,6 @@ hindi
 hindi gibi kabarmak
 hindiba
 hindici
-hindigiller
 hindistan
 hindistan cevizi
 hindistan ödağacı
@@ -35522,7 +35343,6 @@ hipoderm
 hipodrom
 hipoglisemi
 hipopotam
-hipopotamgiller
 hipostaz
 hipotalamus
 hipotansiyon
@@ -35631,8 +35451,6 @@ hoca
 hocalık
 hocalık etmek
 hodan
-hodangiller
-hodangillerden
 hodbehot
 hodbin
 hodbinlik
@@ -35756,19 +35574,15 @@ horoz ibiği
 horoz kafalı
 horoz karası
 horoz mantarı
-horoz ölür, gözü çöplükte kalır
 horoz siklet
 horoz şekeri
 horoz vakti
 horozayağı
 horozbina
-horozbinagiller
-horozbinagillerden
 horozcuk
 horozcuk otu
 horozdan kaçmak
 horozgözü
-horozibiğigiller
 horozlanış
 horozlanma
 horozlanmak
@@ -35995,7 +35809,6 @@ huri gibi
 hurma
 hurma ağacı
 hurma tatlısı
-hurmagillerden
 hurmalık
 hurra
 huruç
@@ -36156,8 +35969,6 @@ hüngürtü
 hünkâr
 hünkârbeğendi
 hünnap
-hünnapgiller
-hünnapgillerden
 hünsa
 hür
 hür teşebbüs
@@ -36270,8 +36081,6 @@ hz
 ıhlama
 ıhlamak
 ıhlamur
-ıhlamurgiller
-ıhlamurgillerden
 ıhma
 ıhmak
 ıhracat
@@ -36322,8 +36131,6 @@ hz
 ılgım salgım
 ılgın
 ılgıncar
-ılgıngiller
-ılgıngillerden
 ılgıt ılgıt
 ılgi
 ılgilendirici
@@ -36534,8 +36341,6 @@ hz
 ısıracak it dişini göstermez
 ısıran
 ısırgan
-ısırgangiller
-ısırgangillerden
 ısırgın
 ısırıcı
 ısırık
@@ -36636,8 +36441,6 @@ hz
 ısmılak
 ısot
 ıspanak
-ıspanakgiller
-ıspanakgillerden
 ıspanaklar
 ıspanaklı
 ıspanaklı börek
@@ -36649,7 +36452,6 @@ hz
 ıspavli
 ıspazmoz
 ıspazmoza tutulmak
-ıspinozgillerden
 ıspiyon
 ısrar
 ısrar etmek
@@ -36890,13 +36692,10 @@ hz
 ızin
 ızleyen
 ızmarit
-ızmaritgillerden
 ızometri
 ızrar
 ıztırap
 ıztırar
-i
-i, i
 iade
 iade edilmek
 iade etmek
@@ -37501,8 +37300,6 @@ iglo
 iglu
 igtirâr
 iguana
-iguanagiller
-iguanagillerden
 iğ
 iğ ağacı
 iğ iplik
@@ -37510,7 +37307,6 @@ iğ yağı
 iğbirar
 iğci
 iğde
-iğdegiller
 iğdemir
 iğdir
 iğdiş
@@ -38954,7 +38750,6 @@ insancılık
 insancıllaşma
 insancıllaşmak
 insancıllık
-insangiller
 insanı
 insanımsılar
 insanın
@@ -39397,8 +39192,6 @@ iskontosuz
 iskorbüt
 iskorçina
 iskorpit
-iskorpitgiller
-iskorpitgillerden
 iskota
 islam
 islâm
@@ -39479,8 +39272,6 @@ ispermeçet
 ispermeçet balinası
 ispikci
 ispinoz
-ispinozgiller
-ispinozgillerden
 ispir
 ispiralya
 ispirte
@@ -40590,9 +40381,6 @@ izleyerek
 izleyici
 izleyiş
 izmarit
-izmaritgiller
-izmaritgillerden
-izmaritlerden
 izmihlâl
 izmir böreği
 izmir köfte
@@ -40804,11 +40592,7 @@ kabak tadı
 kabak tadı vermek
 kabak tatlısı
 kabakçı
-kabakgiller
-kabakgillerden
-kabaklama
 kabaklamak
-kabaklaşma
 kabaklaşmak
 kabaklık
 kabakulak
@@ -41333,7 +41117,6 @@ kâğıt
 kâğıt açmak
 kâğıt ağacı
 kâğıt balığı
-kâğıt balığıgiller
 kâğıt dutu
 kâğıt gibi (olmak)
 kâğıt helvacı
@@ -41346,7 +41129,6 @@ kağıt teknikeri
 kâğıt torba
 kâğıt üzerinde (üstünde) kalmak
 kâğıtbalığı
-kâğıtbalığıgillerden
 kâğıtçı
 kâğıtçılık
 kâğıtdutu
@@ -41522,8 +41304,6 @@ kaknem
 kakofoni
 kaks
 kaktüs
-kaktüsgiller
-kaktüsgillerden
 kâkul
 kakule
 kakuleli
@@ -41859,7 +41639,6 @@ kalk borusu
 kalkacağın yere oturma
 kalkan
 kalkan balığı
-kalkan balığıgiller
 kalkan bezi
 kalkan böcekleri
 kalkanbezi
@@ -42342,8 +42121,6 @@ kangrenleştirme
 kangrenleştirmek
 kangrenli
 kanguru
-kangurugiller
-kangurugillerden
 kangurular
 kanı
 kanı ayaklı
@@ -42909,7 +42686,6 @@ kara yosunu
 kara yüz
 kara yüzlü
 karaağaç
-karaağaçgiller
 karaardıç
 karaasma
 karabacak
@@ -42921,17 +42697,12 @@ karabasan
 karabaş
 karabatak
 karabatak gibi
-karabatakgiller
-karabatakgillerden
 karabet
 karabiber
-karabibergiller
 karabina
 karabinyer
 karaboya
 karabuğday
-karabuğdaygiller
-karabuğdaygillerden
 karabulut
 karaburçak
 karaca
@@ -43057,8 +42828,6 @@ karamusal (veya karamürsel) sepeti sanmak
 karanfil
 karanfil yağı
 karanfilci
-karanfilgiller
-karanfilgillerden
 karanfili sıkmak
 karanın
 karanlığa gömülmek
@@ -43134,9 +42903,6 @@ karasu
 karaşın
 karataban
 karatavuk
-karatavukgiller
-karatavukgillerden
-karatavukgillereden
 karate
 karateci
 karaturp
@@ -43272,9 +43038,6 @@ kargabüken
 kargacık
 kargacık burgacık
 kargadelen
-kargagilerden
-kargagiller
-kargagillerden
 kargasekmez
 kargaşa
 kargaşa çıkarmak
@@ -43342,7 +43105,6 @@ karınca ezmez
 karınca kaderince
 karınca kararınca
 karınca kuşu
-karınca kuşugiller
 karınca yuvası
 karınca yuvası gibi kaynamak
 karıncaezmez
@@ -43356,8 +43118,6 @@ karıncasever
 karıncayı bile ezmemek (veya incitmemek)
 karıncayı bile incitmemek
 karıncayiyen
-karıncayiyengiller
-karıncayiyengillerden
 karıncazevali gelince kanatlanır
 karıncık
 karından ayaklılar
@@ -43607,8 +43367,6 @@ kart basmak
 kart çıkarmak
 kartal
 kartal ağacı
-kartalgiller
-kartalgillerden
 kartallar
 kartallardan
 kartallı
@@ -44279,7 +44037,6 @@ kay
 kay etmek
 kaya
 kaya balığı
-kaya balığıgiller
 kaya davarı
 kaya gibi
 kaya güvercini
@@ -44293,8 +44050,6 @@ kaya sarımsağı
 kaya sarmaşığı
 kaya suyu
 kaya tuzu
-kaya uçmazsa dere dolmaz
-kayabalığıgillerden
 kayabaşı
 kayaç
 kayaçların
@@ -44395,8 +44150,6 @@ kayın valide
 kayınbaba
 kayınbirader
 kayınço
-kayıngiller
-kayıngillerden
 kayınlık
 kayınpeder
 kayıntı
@@ -44773,8 +44526,7 @@ kedersiz
 kedi
 kedi balı
 kedi balığı
-kedi balığıgiller
-kedi ciğere bakar gibi bakmak (veya süzmek, seyretmek)
+kedi ciğere bakar gibi bakmak
 kedi gibi
 kedi gibi dört ayak üzerine düşmek
 kedi ile harara girmek
@@ -44782,13 +44534,10 @@ kedi ile köpek gibi
 kedi nanesi
 kedi olalı bir fare tuttu
 kedi otu
-kedi otugiller
 kedi uzanamadığı ciğere, pis der
 kediayağı
 kedibastı
 kedidili
-kedigiller
-kedigillerden
 kedigözü
 kedinin boynuna ciğer asılmaz
 kediyaladı
@@ -44799,8 +44548,6 @@ kefal
 kefalet
 kefaleten
 kefaletname
-kefalgiller
-kefalgillerden
 kefaller
 kefaret
 kefaretini ödemek
@@ -44913,7 +44660,6 @@ keleplemek
 kelepser
 keler
 keler balığı
-kelergiller
 keleş
 keleşlik
 keleye çekmek
@@ -45166,8 +44912,6 @@ kendini yoklamak
 kendir
 kendir bükücü
 kendircilik
-kendirgiller
-kendirgillerden
 kendirik
 kendisi
 kendisince
@@ -45568,8 +45312,6 @@ keten helvası
 keten kuşu
 keten tohumu
 ketencik
-ketengiller
-ketengillerden
 ketenpere
 kethüda
 kethüda bey
@@ -45755,7 +45497,6 @@ kılıç
 kılıç alayı
 kılıç bacak
 kılıç balığı
-kılıç balığıgiller
 kılıç çalmak
 kılıç çekmek
 kılıç gagalı
@@ -45845,14 +45586,10 @@ kın kanatlılar
 kına
 kına ağacı
 kına çiçeği
-kına çiçeğigiller
 kına gecesi
 kına gibi
-kına yakmak (koymak, sürmek, vurmak veya yakınmak)
-kına(lar) yakmak
+kına yakmak
 kınacık
-kınaçiçeği
-kınaçiçeğigillerden
 kınakına
 kınalama
 kınalamak
@@ -46102,14 +45839,10 @@ kırkyama
 kırkyıllık
 kırlangıç
 kırlangıç balığı
-kırlangıç balığıgiller
 kırlangıç dönümü
 kırlangıç fırtınası
 kırlangıç otu
 kırlangıçbalığı
-kırlangıçbalığıgillerden
-kırlangıçgiller
-kırlangıçgillerden
 kırlangıçkuyruğu
 kırlangıçotu
 kırlarda
@@ -46699,16 +46432,12 @@ kızılcık reçeli
 kızılcık şerbeti
 kızılcık şurubu
 kızılcık tarhanası
-kızılcıkgiller
-kızılcıkgillerden
 kızılçam
 kızılderili
 kızılelma
 kızılış
 kızılkanat
 kızılkantaron
-kızılkantarongiller
-kızılkantarongillerden
 kızılkök
 kızılkurt
 kızılkuyruk
@@ -47081,9 +46810,6 @@ kirloş
 kirloz
 kirmen
 kirpi
-kirpigiller
-kirpigillerden
-kirpiği kirpiğine değmemek
 kirpik
 kirpik besleyici
 kirpikli
@@ -47188,8 +46914,6 @@ kitlemek
 kitli
 kitre
 kivi
-kivigiller
-kivigillerden
 kiyanus
 kiyaset
 kizir
@@ -47278,11 +47002,7 @@ koaptör
 kobalt
 kobalt bombası
 kobay
-kobaygiller
-kobaygillerden
 kobra
-kobragiller
-kobragillerden
 koca
 koca bebek
 koca bulmak
@@ -47501,8 +47221,6 @@ kolacı
 kolacılık
 kolaçan
 kolaçan etmek
-kolagiller
-kolagillerden
 kolağası
 kolağzı
 kolaj
@@ -47586,8 +47304,6 @@ kolhoz
 koli
 kolibasil
 kolibri
-kolibrigiller
-kolibrigillerden
 kolik
 kolit
 kollama
@@ -48581,7 +48297,6 @@ kök
 kök bacaklılar
 kök bilgisi
 kök boyası
-kök boyasıgiller
 kök doğrayıcısı
 kök işareti
 kök kaplama
@@ -48594,7 +48309,6 @@ kök saplı
 kök sökmek
 kök söktürmek
 kökboyası
-kökboyasıgillerden
 kökçü
 kökçük
 köken
@@ -48718,8 +48432,6 @@ köpek suya düşmeyince yüzmeyi öğrenmez
 köpek üzümü
 köpek yese kudurur
 köpekayası
-köpekgiller
-köpekgillerden
 köpekkuyruğu
 köpekle yatan pire ile kalkar
 köpekleme
@@ -48791,7 +48503,6 @@ kör dövüşü
 kör duman
 kör düğüm
 kör fare
-kör faregiller
 kör hat
 kör kadı
 kör kandil
@@ -48819,7 +48530,6 @@ kör tapa
 kör topal
 kör uçuş
 kör yılan
-kör yılangiller
 körcesine
 kördüğüm
 köre
@@ -48903,8 +48613,6 @@ kösnülü
 kösnümek
 köstebek
 köstebek illeti
-köstebekgiller
-köstebekgillerden
 kösteği kırmak
 köstek
 köstek olmak
@@ -49461,7 +49169,6 @@ kulvar
 kulyuç
 kum
 kum balığı
-kum balığıgiller
 kum çölü
 kum engereği
 kum fırtınası
@@ -49632,14 +49339,11 @@ kurander
 kurbağa
 kurbağa adam
 kurbağa balığı
-kurbağa balığıgiller
 kurbağa otu
 kurbağa testi
 kurbağa zehiri
-kurbağa zehirigiller
 kurbağaadam
 kurbağacık
-kurbağagillerden
 kurbağalama
 kurbağalar
 kurbağalardan
@@ -49671,9 +49375,7 @@ kurçer
 kurdela
 kurdele
 kurdele balığı
-kurdele balığıgiller
 kurdelebalığı
-kurdelebalığıgillerden
 kurdeleli
 kurdelesiz
 kurdeşen
@@ -50223,8 +49925,6 @@ kuyruklu yıldız çekirdeği
 kuyruklu yıldız saçı
 kuyruklular
 kuyruksallayan
-kuyruksallayangiller
-kuyruksallayangillerden
 kuyruksuz
 kuyruksuzlar
 kuyruksüren
@@ -50583,7 +50283,6 @@ küp gibi
 küp şeker
 küpe
 küpe çiçeği
-küpe çiçeğigiller
 küpe dönmek
 küpe küp deyince küp adama düp der
 küpeli
@@ -50775,8 +50474,6 @@ lâçkalaşma
 lâçkalaşmak
 lâçkalık
 lâden
-lâdengiller
-lâdengillerden
 lâdenli
 lâdes
 lâdes kemiği
@@ -51072,9 +50769,6 @@ lâpçın
 lâpçınlı
 lâpilli
 lâpina
-lâpinagiller
-lapinagillerden
-lâpinagillerden
 lapon
 lâpon
 lâponca
@@ -51133,7 +50827,6 @@ lâtifundiacılık
 lâtilokum
 lâtin
 lâtin çiçeği
-lâtin çiçeğigiller
 lâtin çiçekleri
 lâtin dilleri
 lâtin halkları
@@ -51359,8 +51052,6 @@ levhacı
 levhacık
 levhacılık
 levrek
-levrekgiller
-levrekgillerden
 levüloz
 levye
 ley
@@ -51368,14 +51059,10 @@ leyla
 leylak
 leylâk
 leylâkî
-leyleği havada görmek
-leyleğin (yuvadan) attığı yavru
-leyleğin ömrü (veya günü) lâklâkla geçer
+leyleğin ömrü lâklâkla geçer
 leylek
 leylek gibi
 leylekgagası
-leylekgiller
-leylekgillerden
 leylekler
 leyleksiler
 leyleksilerden
@@ -51746,7 +51433,6 @@ lübnanlı
 lüfer
 lüferci
 lüfere çıkmak
-lüfergiller
 lügat
 lügat paralamak
 lügat parçalamak
@@ -52325,8 +52011,6 @@ maketçi
 maketçilik
 makferlân
 maki
-makigiller
-makigillerden
 makilik
 makime
 makina
@@ -52663,8 +52347,6 @@ manken
 manken gibi
 mankenlik
 manolya
-manolyagiller
-manolyagillerden
 manometre
 mansap
 mansaplar
@@ -52901,8 +52583,6 @@ martaval atmak (veya okumak)
 martavalcı
 martavalcılık
 martı
-martıgiller
-martıgillerden
 martin
 martini
 martolos
@@ -53184,10 +52864,7 @@ mayasıl otu
 mayasız
 maydanoz
 maydanoz olmak
-maydanozgiller
-maydanozgillerden
 maydonoz
-maydonozgillerden
 maye
 mayhoş
 mayhoşluk
@@ -53690,8 +53367,6 @@ menekşe
 menekşe gözlü
 menekşe gülü
 menekşe rengi
-menekşegiller
-menekşegillerden
 menemen
 menengiç
 menenjit
@@ -53961,11 +53636,7 @@ mersi
 mersin
 mersin ağacı
 mersin balığı
-mersin balığıgiller
-mersin balıkları
 mersin morinası
-mersingiller
-mersingillerden
 mersiye
 mersiyehan
 mert
@@ -54445,7 +54116,6 @@ meyve kabuğu
 meyve ortası
 meyve reçeli
 meyve sineği
-meyve sineğigiller
 meyve suyu
 meyve şekeri
 meyve veren ağaç taşlanır
@@ -54500,8 +54170,6 @@ mezellet
 mezemmet
 mezesiz
 mezgit
-mezgitgiller
-mezgitgillerden
 mezhebi geniş
 mezhep
 mezhepçi
@@ -54885,7 +54553,6 @@ minder dışına atmak
 minderaltı
 mine
 mine çiçeği
-mine çiçeğigiller
 mineci
 mineleme
 minelemek
@@ -55267,8 +54934,6 @@ mormenekşe
 morötesi
 mors
 mors alfabesi
-morsgiller
-morsgillerden
 mortadella
 mortlama
 mortlamak
@@ -55463,7 +55128,6 @@ muğlaklık
 muhabbet
 muhabbet beslemek
 muhabbet çiçeği
-muhabbet çiçeğigiller
 muhabbet etmek
 muhabbet kuşu
 muhabbet tellalı
@@ -56041,8 +55705,6 @@ muzahame
 muzaheret
 muzahir
 mûze
-muzgiller
-muzgillerden
 muzır
 muzırlaşma
 muzırlaşmak
@@ -57343,8 +57005,6 @@ narenciye
 narenciyeci
 nargile
 nargile tütünü
-nargiller
-nargillerden
 nargöz
 narh
 narh koymak
@@ -57784,8 +57444,6 @@ neresi
 nereye
 nergis
 nergis zambağı
-nergisgiller
-nergisgillerden
 neriman
 neritik
 nervür
@@ -58058,8 +57716,6 @@ nikris
 nikriz
 nil kazı
 nilüfer
-nilüfergiller
-nilüfergillerden
 nim
 nimbus
 nimet
@@ -59379,7 +59035,6 @@ orman serçesi
 orman sıçanı
 orman taşlamak
 orman tavuğu
-orman tavuğugiller
 orman yeşili
 ormancı
 ormancılık
@@ -60140,7 +59795,6 @@ ozuga
 ögelerinin
 öger
 öglena
-öglenagiller
 ögretimde
 öğecik
 öğecik yapısı
@@ -60266,12 +59920,10 @@ ozuga
 ökse çubuğu
 ökse kuşu
 ökse otu
-ökse otugiller
 ökseleme
 ökselemek
 ökseme
 ökseotu
-ökseotugillerden
 ökseye basmak
 öksürme
 öksürmek
@@ -60748,8 +60400,6 @@ ozuga
 ördek yürüyüşü
 ördekbaşı
 ördekgagası
-ördekgiller
-ördekgillerden
 ördekler
 ördekmercimeği
 ördürme
@@ -60885,7 +60535,6 @@ ozuga
 örümcek bağlamak
 örümcek kafalı
 örümcek kuşu
-örümcek kuşugiller
 örümcek sarmak
 örümceklenme
 örümceklenmek
@@ -60926,8 +60575,6 @@ ozuga
 öteye beriye
 öteyi beriyi
 ötleğen
-ötleğengiller
-ötleğengillerden
 ötleği
 ötme
 ötmek
@@ -61040,7 +60687,6 @@ ozuga
 öz itme
 öz itmeli
 öz kardeş
-öz kedi balığıgiller
 öz kesit
 öz odun
 öz öğrenim
@@ -61498,8 +61144,6 @@ palmitik asit
 palmitil
 palmitin
 palmiye
-palmiyegiller
-palmiyegillerden
 palmiyeler
 palmiyelik
 palto
@@ -61545,9 +61189,6 @@ pancar
 pancar gibi olmak
 pancar kesilmek
 pancarcı
-pancarcılık
-pancargillerden
-pancarlaşma
 pancarlaşmak
 pancur
 panda
@@ -61619,9 +61260,6 @@ papağan anahtarı
 papağan gibi ezberlemek
 papağan gibi tekrarlamak
 papağan yemi
-papağangiller
-papağangillerden
-papağanlar
 papağanlık
 papak
 papalık
@@ -61636,13 +61274,12 @@ papatyasız
 papaya
 papaz
 papaz balığı
-papaz balığıgiller
 papaz her gün pilâv yemez
 papaz karası
 papaz uçurmak
 papaz yahnisi
 papaza dönmek
-papaza kızıp oruç (veya perhiz) bozmak
+papaza kızıp oruç bozmak
 papazi
 papazkaçtı
 papazlık
@@ -61652,8 +61289,6 @@ papelci
 papelcilik
 papikçi
 papirüs
-papirüsgiller
-papirüsgillerden
 paprika
 papua yeni gine
 papuç
@@ -62016,7 +61651,6 @@ pas açmak
 pas almak
 pas geçmek
 pas mantarı
-pas mantarıgiller
 pas rengi
 pas tutmak
 pas vermek
@@ -62205,8 +61839,6 @@ patlıcan kebap
 patlıcan kızartması
 patlıcan oturtması
 patlıcan salatası
-patlıcangiller
-patlıcangillerden
 patlıcanî
 patlıcanlı
 patojen
@@ -62470,8 +62102,6 @@ pelesenk
 pelesenk ağacı
 pelet
 pelikan
-pelikangiller
-pelikangillerden
 pelikanları
 pelikansılar
 pelikül
@@ -62546,9 +62176,6 @@ peneplen
 penes
 pengö
 penguen
-penguengiller
-penguengillerden
-penguenler
 peni
 penis
 penisilin
@@ -63548,9 +63175,6 @@ porsiyon
 porsuk
 porsuk ağacı
 porsuk çayı
-porsukgiller
-porsukgillerden
-porsukgilleri
 porsuma
 porsumak
 porsumuş
@@ -66148,9 +65772,6 @@ saldırmazlık paktı
 saldırtmak
 salep
 salepçi
-salepçilik
-salepgiller
-salepgillerden
 salgı
 salgılama
 salgılamak
@@ -66383,8 +66004,6 @@ sandal ağacı
 sandalcı
 sandalcılık
 sandalet
-sandalgiller
-sandalgillerden
 sandalı
 sandalye
 sandalye kavgası
@@ -66395,7 +66014,6 @@ sandalyelik
 sandalyesiz
 sandık
 sandık balığı
-sandık balığıgiller
 sandık başkanı
 sandık düzmek
 sandık emini
@@ -66448,8 +66066,6 @@ sanrılama
 sanrılamak
 sanrısal
 sansar
-sansargiller
-sansargillerden
 sansasyon
 sansasyon yaratmak
 sansasyonel
@@ -66553,8 +66169,6 @@ sapmadan
 sapmak
 sapmış
 sapot ağacı
-sapotgiller
-sapotgillerden
 saprofit
 sapsarı
 sapsarı kesilmek (veya olmak)
@@ -66623,8 +66237,6 @@ sardinya
 sardoğan
 sardun
 sardunya
-sardunyagiller
-sardunyagillerden
 sarf
 sarf etmek
 sarf ü nahiv
@@ -66668,7 +66280,6 @@ sarı yağlı
 sarıağı
 sarıağız
 sarıasma
-sarıasmagiller
 sarıbalık
 sarıburma
 sarıca
@@ -66775,8 +66386,6 @@ sarmaş dolaş
 sarmaş dolaş olmak
 sarmaşan
 sarmaşık
-sarmaşıkgiller
-sarmaşıkgillerden
 sarmaşma
 sarmaşmak
 sarmısak
@@ -67176,9 +66785,6 @@ saz tavuğu
 sazak
 sazan
 sazan gibi
-sazangiller
-sazangillerden
-sazangilleredn
 sazcı
 sazcılık
 sazende
@@ -67324,14 +66930,12 @@ sedef
 sedef hastalığı
 sedef kakma
 sedef otu
-sedef otugiller
 sedefçi
 sedefçilik
 sedefimsi
 sedefkâr
 sedefli
 sedefli kalker
-sedefotugillerden
 sedefsi
 sedefsi bulut
 sedimantasyon
@@ -67585,9 +67189,6 @@ semeleşmek
 semen
 semen peyda etmek
 semender
-semendergilerden
-semendergiller
-semendergillerden
 semer
 semer vurmak
 semerci
@@ -67620,7 +67221,6 @@ semiyoloji
 semiyotik
 semiz
 semiz otu
-semiz otugiller
 semizce
 semizleme
 semizlemek
@@ -67630,9 +67230,8 @@ semizleşme
 semizleşmek
 semizletmek
 semizlik
-semizotugillerden
 sempati
-sempati duymak (veya beslemek)
+sempati duymak
 sempatik
 sempatik sinir sistemi
 sempatisini kazanmak
@@ -67804,9 +67403,6 @@ serbestlemek
 serbestlik
 serçe
 serçe parmak
-serçeden korkan darı ekmez
-serçegiller
-serçegillerden
 serçin
 serdar
 serdengeçti
@@ -67987,9 +67583,6 @@ servet sahibi
 servete
 servi
 servi boylu
-servigiller
-servigillerden
-servigilleri
 servilik
 servis
 servis arabası
@@ -68378,9 +67971,6 @@ sıçan otu
 sıçan yolu
 sıçana dönmek
 sıçandişi
-sıçangiller
-sıçangillerden
-sıçanımsılar
 sıçankulağı
 sıçankuyruğu
 sıçanotu
@@ -68458,8 +68048,6 @@ sığırcı
 sığırcık
 sığırcılık
 sığırdili
-sığırdiligiller
-sığırdiligillerden
 sığırgözü
 sığırkuyruğu
 sığırlarda
@@ -68708,8 +68296,6 @@ sıra sayı sıfatı
 sıra sıra
 sıraca
 sıraca otu
-sıracagiller
-sıracagillerden
 sıracalı
 sıracaotu
 sıracı
@@ -68860,8 +68446,6 @@ sırtını yere getirmek
 sırtlama
 sırtlamak
 sırtlan
-sırtlangiller
-sırtlangillerden
 sırtlık
 sırtüstü
 sırtüstü yatmak
@@ -68886,7 +68470,6 @@ sıva
 sıva vurmak
 sıvacı
 sıvacı kuşu
-sıvacı kuşugiller
 sıvacılık
 sıvadibi
 sıvalama
@@ -69277,8 +68860,6 @@ sinara
 sinarit
 sincabî
 sincap
-sincapgiller
-sincapgillerden
 sindirgen
 sindirilme
 sindirilmek
@@ -69305,7 +68886,6 @@ sinek ufak (veya küçük), ama mide bulandırır
 sinekçil
 sinekkapan
 sinekkapan bitkisi
-sinekkapangiller
 sinekkaydı
 sineklenme
 sineklenmek
@@ -69356,7 +68936,6 @@ sinir kesilmek
 sinir küpü
 sinir otları
 sinir otu
-sinir otugiller
 sinir savaşı
 sinir sistemi
 sinir törpüsü
@@ -69393,7 +68972,6 @@ sinirli
 sinirlilik
 sinirotları
 sinirotu
-sinirotugillerden
 sinirsel
 sinirsiz
 sinirsizlik
@@ -69648,8 +69226,6 @@ skeç
 ski
 skif
 skink
-skinkgiller
-skinkgillerden
 skleroz
 skoç
 skoda bacak
@@ -70370,8 +69946,6 @@ söğüşme
 söğüşmek
 söğüştürmek
 söğüt
-söğütgiller
-söğütgillerden
 söğütlü
 söğütlük
 söhret
@@ -70867,7 +70441,6 @@ su altı fotoğrafçılığı
 su altı işleri
 su askıları
 su aygırı
-su aygırıgiller
 su bahçesi
 su baldıranı
 su bardağı
@@ -70919,7 +70492,6 @@ su kabağı
 su kabı
 su kaçırmak
 su kamışı
-su kamışıgiller
 su kapmak
 su karanfili
 su katılmamış
@@ -70940,12 +70512,10 @@ su küçüğün, söz büyüğün
 su küre
 su mantarları
 su mercimeği
-su mercimeğigiller
 su mermeri
 su muhallebisi
 su nanesi
 su örümceği
-su örümceğigiller
 su parkı
 su perisi
 su piresi
@@ -70963,7 +70533,6 @@ su tabakası
 su tankeri
 su taşkını
 su tavuğu
-su tavuğugiller
 su tedavisi
 su terazisi
 su teresi
@@ -70982,7 +70551,6 @@ su yapmak
 su yatağı
 su yelvesi
 su yılanı
-su yılanıgiller
 su yılanları
 su yolcu
 su yolu
@@ -71088,8 +70656,6 @@ sugötürmez
 suhulet
 suhunet
 suibriği
-suibriğigiller
-suibriğigillerden
 suiistimal
 suiistimal etmek
 suikast
@@ -71101,7 +70667,6 @@ suistimal
 suizan
 sukabağı
 sukamışı
-sukamışıgillerden
 suketeni
 sukırım
 sukunet
@@ -71168,7 +70733,6 @@ sululaşma
 sululaşmak
 sululuk
 sululuk yapmak
-sululuk yapmak (veya etmek)
 suma
 sumak
 sumen
@@ -71176,7 +70740,6 @@ sumen altı etmek
 sumer
 sumerce
 sumercimeği
-sumercimeğigillerden
 sumermeri
 sumerolog
 sumeroloji
@@ -71228,8 +70791,6 @@ sunumluk
 sunuş
 suodası
 suoku
-suokugiller
-suokugillerden
 suölçer
 sup
 supab
@@ -71290,8 +70851,6 @@ susam helvası
 susam yağı
 susama
 susamak
-susamgiller
-susamgillerden
 susamış
 susamuru
 susamyağı
@@ -71339,7 +70898,6 @@ suşi
 sut
 sut kostik
 sutaşı
-sutavuğugillerden
 sutyen
 sutyenci
 sutyencilik
@@ -71479,8 +71037,6 @@ sülüklerden
 sülümen
 sülün
 sülün gibi
-sülüngiller
-sülüngillerden
 sülünlük
 sülüs
 sümbül
@@ -71494,8 +71050,6 @@ sümkürmek
 sümkürtmek
 sümmettedarik
 sümsük
-sümsükgiller
-sümsükgillerden
 sümsükleşme
 sümsükleşmek
 sümsüklük
@@ -71690,7 +71244,6 @@ sürgün yeşili
 sürgüne göndermek
 sürme
 sürme çekmek
-sürme mantarıgiller
 sürme mantarları
 sürmece
 sürmedan
@@ -71811,8 +71364,6 @@ süs için
 süs kabağı
 süs püs
 süsen
-süsengiller
-süsengillerden
 süslem
 süsleme
 süsleme sanatları
@@ -71863,7 +71414,6 @@ süt kırı
 süt kuzusu
 süt mavisi
 süt otu
-süt otugiller
 süt şekeri
 süt tozu
 süt vermek
@@ -71881,8 +71431,6 @@ sütkardeş
 sütkızı
 sütlâç
 sütleğen
-sütleğengiller
-sütleğengillerden
 sütlendirme
 sütlendirmek
 sütlenme
@@ -72055,8 +71603,6 @@ süzüntü
 şahsiyetsizlik
 şahtare
 şahtere
-şahteregiller
-şahteregillerden
 şahtur
 şahvâr
 şahzade
@@ -72612,7 +72158,6 @@ süzüntü
 şeker pancarı
 şekerci
 şekerci boyası
-şekerci boyasıgiller
 şekerciboyası
 şekercilik
 şekeri kestirmek
@@ -72786,9 +72331,6 @@ süzüntü
 şerit makarna
 şerit metre
 şeritçi
-şeritçilik
-şeritgiller
-şeritgillerden
 şeritleme
 şeritlemek
 şeritler
@@ -72881,7 +72423,6 @@ süzüntü
 şeytanın yattığı yeri bilmek
 şeytanî
 şeytaniğnesi
-şeytaniğnesigiller
 şeytanlık
 şeytanlık etmek
 şeytanminaresi
@@ -73084,8 +72625,6 @@ süzüntü
 şimşekli
 şimşeksavar
 şimşir
-şimşirgiller
-şimşirgillerden
 şimşirlik
 şimula
 şinanay
@@ -74477,10 +74016,7 @@ tapışlamak
 tapışlanma
 tapışlanmak
 tapi
-tapi kalmak (oyunlarda)
 tapir
-tapirgiller
-tapirgillerden
 tapkı
 tapkır
 tapkur
@@ -74543,7 +74079,6 @@ tarak
 tarak dubası
 tarak işi
 tarak otu
-tarak otugiller
 tarak vurmak
 taraka
 tarakçı
@@ -74670,15 +74205,11 @@ tarla
 tarla açmak
 tarla faresi
 tarla kuşu
-tarla kuşugiller
 tarla sıçanı
 tarla tump
-tarlada izi olmayanın harmanda sözü olmaz
-tarlada izi olmayanın harmanında yüzü olmaz
 tarlafaresi
 tarlakoz
 tarlakuşu
-tarlakuşugillerden
 tarlatan
 tarlayı düz al, kadını kız al
 tarlıg
@@ -74915,8 +74446,6 @@ taşçı tarağı
 taşçıl
 taşçılık
 taşemen
-taşemengiller
-taşemengillerden
 taşeron
 taşeronluk
 taşgan
@@ -74982,8 +74511,6 @@ taşkıran
 taşkıran çiçeği
 taşkıran otu
 taşkırançiçeği
-taşkırangiller
-taşkırangillerden
 taşkıranotu
 taşkömürü
 taşküre
@@ -75208,8 +74735,6 @@ tavşancıl
 tavşancıl otu
 tavşancılık
 tavşandudağı
-tavşangiller
-tavşangillerden
 tavşanı araba ile avlamak
 tavşanın suyunun suyu
 tavşankanı
@@ -75233,8 +74758,6 @@ tavuk yelpazesi
 tavukayağı
 tavukçu
 tavukçuluk
-tavukgiller
-tavukgillerden
 tavukgöğsü
 tavukgötü
 tavukkarası
@@ -76491,14 +76014,12 @@ tepeli akbaba
 tepeli bülbül
 tepeli dalgıç
 tepeli deve kuşu
-tepeli deve kuşugiller
 tepeli horoz
 tepeli köstebek
 tepeli patka
 tepeli pelikan
 tepeli tarla kuşu
 tepeli tavuk
-tepeli tavukgiller
 tepeli toygar
 tepelik
 tepelikli
@@ -76914,7 +76435,6 @@ tesmiye etmek
 tesniye
 tespih
 tespih ağacı
-tespih ağacıgiller
 tespih böceği
 tespih böcekleri
 tespih çalısı
@@ -76931,7 +76451,6 @@ test
 test etmek
 testere
 testere balığı
-testere balığıgiller
 testere çaprazı
 testereleme
 testerelemek
@@ -78344,8 +77863,6 @@ toyga
 toyga çorbası
 toygan
 toygar
-toygiller
-toygillerden
 toygur
 toylak
 toyluk
@@ -78824,8 +78341,6 @@ turnaayağı
 turnacı
 turnagagası
 turnageçidi
-turnagiller
-turnagillerden
 turnagözü
 turnayı gözünden vurmak
 turne
@@ -78840,9 +78355,6 @@ turp filizi
 turp gibi
 turp otu
 turp salatası
-turpgiller
-turpgillerden
-turpun sıkından seyreği iyidir
 turşak
 turşu
 turşu balığı
@@ -78867,8 +78379,6 @@ turunculaşmak
 turuncumsu
 turuncumtırak
 turunç
-turunçgiller
-turunçgillerden
 turus
 turuşkan
 turut
@@ -79965,10 +79475,6 @@ usdışı
 ushuru
 uskumru
 uskumru dolması
-uskumrugiller
-uskumrugillerden
-uskumrumsugiller
-uskumrumsugillerden
 uskur
 uskurlu
 uskuru
@@ -82310,7 +81816,6 @@ yabalama
 yabalamak
 yaban
 yaban arısı
-yaban arısıgiller
 yaban armudu
 yaban asması
 yaban baklası
@@ -82382,7 +81887,6 @@ yabani ıspanak
 yabanî ıspanak
 yabanî incir
 yabanî kimyon
-yabanî kimyongiller
 yabanî kiraz
 yabanî lâhana
 yabanî marul
@@ -82575,7 +82079,6 @@ yağmur duası
 yağmur kapanı
 yağmur kuşağı
 yağmur kuşu
-yağmur kuşugiller
 yağmur mevsimi
 yağmur olsa kimsenin tarlasına düşmez (veya yağmaz)
 yağmur ormanları
@@ -82914,8 +82417,6 @@ yalı kazığı gibi
 yalı uşağı
 yalı yar
 yalıçapkını
-yalıçapkınıgiller
-yalıçapkınıgillerden
 yalıksuz
 yalım
 yalım yalım
@@ -83098,7 +82599,6 @@ yan yan bakmak
 yan yana
 yan yargıcı
 yan yatmak
-yan yüzergiller
 yana yakıla
 yana yana
 yana yana istemek
@@ -84358,7 +83858,6 @@ yayımlatma
 yayımlatmak
 yayın
 yayın balığı
-yayın balığıgiller
 yayın dışı
 yayın evi
 yayın organı
@@ -84767,11 +84266,7 @@ yelkıran
 yelkim
 yelkin
 yelkovan
-yelkovangiller
-yelkovangillerden
-yelleme
 yellemek
-yellenme
 yellenmek
 yelli
 yellim
@@ -84907,7 +84402,6 @@ yeni baştan
 yeni çağ
 yeni dünya
 yeni dünya akbabaları
-yeni dünya akbabasıgiller
 yeni dünya aslanı
 yeni eflâtuncu
 yeni eflâtunculuk
@@ -85039,7 +84533,6 @@ yer değiştirme
 yer değiştirmek
 yer demir gök bakır
 yer domuzu
-yer domuzugiller
 yer elması
 yer etmek
 yer fesleğeni
@@ -85525,7 +85018,6 @@ yıl on iki ay
 yıl uğursuzun
 yılan
 yılan balığı
-yılan balığıgiller
 yılan çıyan
 yılan çiçeği
 yılan derisi
@@ -85546,8 +85038,6 @@ yılanın kuyruğuna basmak
 yılaniğnesi
 yılankavi
 yılanyastığı
-yılanyastığıgiller
-yılanyastığıgillerden
 yılaşırı
 yılbaşı
 yıldan yıla
@@ -86499,7 +85989,6 @@ yunmuş arınmış (veya yıkanmış)
 yunt
 yunum
 yunus balığı
-yunus balığıgiller
 yunusbalığı
 yurçı
 yurdu
@@ -87280,8 +86769,6 @@ zamanlı zamansız
 zamansız
 zamazingo
 zambak
-zambakgiller
-zambakgillerden
 zambiya
 zambiyalı
 zambur
@@ -87656,8 +87143,6 @@ zeytin rengi
 zeytin sineği
 zeytinci
 zeytincilik
-zeytingiller
-zeytingillerden
 zeytinimsi
 zeytinin
 zeytinli
