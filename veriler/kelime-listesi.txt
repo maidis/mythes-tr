@@ -3282,7 +3282,7 @@ alt takım
 alttaki
 alttan alta
 alttan güreşmek
-alt tarafı (veya yanı)
+alt tarafı
 altta yok üstte yok
 alt tribus
 alt tür
@@ -4058,7 +4058,6 @@ antiasit
 antibiyotik
 antibiyotik tedavisi
 ant içmek
-ant içmek (veya etmek)
 anti-damping
 antidemokratik
 antidot
@@ -4670,9 +4669,7 @@ arkadaş
 arkadaş canlısı
 arkadaşça
 arkadaşım
-arkadaşım!
 arkadaşlar
-arkadaşlar!
 arkadaşlığı
 arkadaşlık
 arkadaşlık etmek
@@ -4780,7 +4777,7 @@ armut
 armut gibi
 armut kabağı
 armut kurusu
-armut piş ağzıma düş!
+armut piş ağzıma düş
 armuz
 ar namus tertemiz
 arnavut
@@ -5140,7 +5137,7 @@ aslanağzı
 aslan ağzı
 aslanca
 aslan gibi
-aslanım!
+aslanım
 aslanımsı
 aslanın ağzında
 aslan kesilmek
@@ -5515,7 +5512,6 @@ atelye
 ateme
 aterina
 ateş
-ateş!
 ateş açmak
 ateşalmak
 ateş almak
@@ -6482,7 +6478,7 @@ az buz olmamak
 azca
 az çok
 az daha
-az değil!
+az değil
 azdıran
 azdırıcı
 azdırılma
@@ -6609,7 +6605,7 @@ babalarımız
 babalı
 babalık
 babalık etmek
-babam!
+babam
 baba mirası
 babana rahmet
 baba nasihati
@@ -7053,12 +7049,12 @@ bahtlı
 bahtsız
 bahtsızlık
 bahusus
-bak!
+bak
 bakaç
 bakadurmak
 bakakalma
 bakakalmak
-bakalım (veya bakayım)
+bakalım
 bakalit
 bakalitli
 bakalorya
@@ -7076,7 +7072,7 @@ bakar kör
 bakarsın
 bakay
 bakaya
-bak bak!
+bak bak
 bakı
 bakıcı
 bakıcılık
@@ -7148,7 +7144,6 @@ bakirlik
 bakiye
 bakka
 bakkal
-bakkala bırakma!
 bakkal çakkal
 bakkal defteri
 bakkaliye
@@ -7182,7 +7177,6 @@ bakmak
 bakmaktan
 bakmamak
 bakraç
-baksana! baksanıza!
 baksı
 bakteri
 bakteridi
@@ -7255,9 +7249,7 @@ baldırsokan
 baldız
 baldo
 bal dök de yala
-baldudak
 bal dudak
-baldudaklı
 bal dudaklı
 balduk
 bale
@@ -7441,7 +7433,7 @@ bamyatarlası
 bamya tarlası
 ban
 bana
-bana bak!
+bana bak
 ban ağacı
 banak
 banal
@@ -7876,7 +7868,7 @@ basur memesi
 basurotu
 basur otu
 basübadelmevt
-bas (veya bas git)
+bas
 basya
 baş
 başa
@@ -8204,7 +8196,7 @@ baş kıç vurmak
 başkır
 başkilise
 başkişi
-baş komak (koymak)
+baş koymak
 başkomutan
 başkomutanlık
 başkonakçı
@@ -8223,7 +8215,6 @@ başlag
 başlahana
 başlak
 başlama
-başlama!
 başlamak
 başlama meridyeni
 başlama vuruşu
@@ -8661,7 +8652,7 @@ bazende
 bazı
 bazı bazı
 bazıbölgelerde
-bazıları (veya bazısı)
+bazıları
 bazısı
 baziçe
 bazidiyospor
@@ -8903,7 +8894,6 @@ beklenmezlik
 beklenmezlik fiili
 beklenti
 beklentisi
-beklersin!
 beklerulak
 bekleşme
 bekleşmek
@@ -8912,7 +8902,6 @@ bekletilmek
 bekletme
 bekletmeden
 bekletmek
-bekle yarin köşesini!
 bekleyen
 bekleyerek
 bekleyiş
@@ -9386,7 +9375,7 @@ berhava etmek
 berhava olmak
 berhayat
 berhudar
-berhudar ol!
+berhudar ol
 beri
 beribenzer
 beriberi
@@ -10422,7 +10411,7 @@ binnetice
 bin pişman olmak
 bin tarakta bezi olmak
 bin türlü
-bin yaşa!
+bin yaşa
 binyıl
 bin zahmetle
 biokütle
@@ -10455,7 +10444,7 @@ bir araya getirmek
 bir aşağı bir yukarı
 bir avuç
 bir avuç toprak olmak
-bir ayak önce (evvel)
+bir ayak önce
 biraz
 birazcık
 birazdan
@@ -10510,7 +10499,6 @@ birdirbir
 bir dirhem
 bir dolu
 bir don bir gömlek
-bir dostluk kaldı!
 bir düzine
 bir düziye
 bire beşkatmak
@@ -10569,7 +10557,7 @@ bir hücreli
 biri
 birice
 biricik
-bir içim su (gibi)
+bir içim su
 biri çok olmak
 biridin
 birifing
@@ -10638,7 +10626,7 @@ bir kenarda durmak
 bir kere
 bir kerecik
 birkit
-bir kol çengi (olmak)
+bir kol çengi
 bir koşu
 bir köroğlu, bir ayvaz
 bir köşeye atmak
@@ -10734,11 +10722,9 @@ bir türlü
 birun
 bir vakitler
 bir varmış bir yokmuş
-bir (veya tek başına)
 biryan
 bir yana
 biryancı
-bir yandan (yanda)
 biryan pilavı
 biryan yağı
 bir yastığa baş koymak
@@ -11443,9 +11429,6 @@ boşnak
 boşnakça
 boşnak güzeli
 boşnaklık
-boşolmak
-boş olmak
-boş ol (veya olsun)
 boşoturmak
 boş oturmak
 boş söz
@@ -11550,8 +11533,6 @@ boylu poslu
 boy menteşe
 boyna
 boyna etmek
-boynu
-boynu altında kalsın!
 boynu bükük
 boynu eğri
 boynuna
@@ -12453,7 +12434,6 @@ butlan
 buton
 bu türlü
 buut
-bu (veya şu) kadar
 buyan
 buyandı
 buydurmak
@@ -12756,9 +12736,7 @@ büyük sahra çölü
 büyükseme
 büyüksemek
 büyük sesli uyumu
-büyük (söz) söylemek
 büyük söz söylemek
-büyük sözüme tövbe!
 büyüksü
 büyük şehir
 büyük tansiyon
@@ -12770,7 +12748,6 @@ büyük yemin etmek
 büyüleme
 büyülemek
 büyüleniş
-büyülenme
 büyülenmek
 büyülenmişbulunmak
 büyüleyici
@@ -12835,7 +12812,6 @@ cabalak
 cablusi
 cacık
 cadaloz
-cadalozlaşma
 cadalozlaşmak
 cadalozluk
 cadde
@@ -12889,7 +12865,6 @@ calvinci
 calvincilik
 cam
 camadan
-camadanı fora etmek
 camadanlı
 camadan vurmak
 caman
@@ -12920,7 +12895,6 @@ camış
 camız
 cami
 camia
-camilerde
 camit
 cam kanatlılar
 camlama
@@ -13024,10 +12998,10 @@ canı cehenneme
 canı çekilmek
 canıçekmek
 canı çekmek
-canı çıkasıca!
+canı çıkasıca
 canıçıkmak
 canı çıkmak
-canı çıksın!
+canı çıksın
 canı gelip gitmek
 canı gelmek
 canı gibi sevmek
@@ -13038,7 +13012,6 @@ canı ile oynamak
 canı ile uğraşmak
 canı istemek
 canı isterse
-canım!
 canım ciğerim
 canımın içi
 canına acımamak
@@ -13066,9 +13039,9 @@ canını sokakta bulmak
 canını vermek
 canınıyakmak
 canını yakmak
-canın isterse!
+canın isterse
 canı pek
-canı sağ olsun!
+canı sağ olsun
 canı sıkılmak
 canı sıkkın
 canı tatlı
@@ -13099,7 +13072,6 @@ cankurtaran salı
 cankurtaran sandalı
 cankurtaran simidi
 cankurtaran yeleği
-cankurtaran yok mu!
 can kuşu
 canla başla
 canlandırı
@@ -13279,7 +13251,6 @@ ceben
 cebenoyan
 ceberut
 cebi delik
-cebi delik (kimse)
 cebin
 cebinde akrep olmak
 cebinden çıkarmak
@@ -13300,7 +13271,7 @@ cebrinefs
 cebriye
 cebri yürüyüş
 cece
-ceddine rahmet!
+ceddine rahmet
 cedelleşme
 cedi
 cedit
@@ -13812,7 +13783,6 @@ cici bici
 cicik
 cicili bicili
 cicim
-cicim!
 cici mama
 cicim ayı
 cicoz
@@ -14027,7 +13997,6 @@ cismanilik
 cismen
 civa
 civan
-civanım!
 civankaşı
 civanmert
 civanmertlik
@@ -14270,7 +14239,7 @@ cylindroid
 çabuklaştırma
 çabuklaştırmak
 çabukluk
-çabuk ol (veya çabuk)
+çabuk ol
 çaça
 çaça balığı
 çaçaça
@@ -14409,7 +14378,7 @@ cylindroid
 çakan
 çakar
 çakaralmaz
-çak çak (olmak)
+çak çak
 çaker
 çakeri
 çakı
@@ -16026,7 +15995,7 @@ cylindroid
 çıplak alev
 çıplak at
 çıplak beton
-çıplak gözle (bakmak)
+çıplak gözle
 çıplaklar kampı
 çıplaklaşma
 çıplaklaşmak
@@ -16068,7 +16037,6 @@ cylindroid
 çırnık
 çırpı
 çırpıcı
-çırpı (gibi)
 çırpı ipi
 çırpılma
 çırpılmak
@@ -16775,8 +16743,7 @@ cylindroid
 çok seslilik
 çok söylemek
 çok sözlü
-çok şey!
-çok şükür!
+çok şükür
 çoktan
 çoktandır
 çok tanrıcı
@@ -16787,7 +16754,7 @@ cylindroid
 çoktürel tezlendirme
 çoku
 çok uluslu
-çok yanlı (veya yönlü)
+çok yanlı
 çok yıllık
 çok yüzlü
 çol
@@ -17264,7 +17231,7 @@ dahacık
 daha da
 daha daha
 daha iyisi can sağlığı
-daha neler!
+daha neler
 dahası
 dahası var
 dahdah
@@ -17995,10 +17962,8 @@ def'aten
 defedilmek
 defedilmiş
 defekt
-defet!
-defetme
+defet
 defetmek
-def'etmek
 defibela kabilinden
 defibratör
 defigam etmek
@@ -18024,8 +17989,6 @@ defnolunma
 defnolunmak
 defo
 defol
-defol!
-defolma
 defolmak
 defolu
 deformasyon
@@ -18362,7 +18325,7 @@ delirmek
 delirtme
 delirtmek
 deli saçması
-deli saraylı (gibi)
+deli saraylı
 delisava
 delişmen
 delişmence
@@ -18386,7 +18349,6 @@ demagoji yapmak
 dem çekmek
 dem dökmek
 deme
-deme!
 demeç
 demeç vermek
 demediğini bırakmamak
@@ -19057,7 +19019,7 @@ desteleyici
 desteleyicilik
 destere
 destroyer
-destur!
+destur
 destursuz
 destursuz atmak
 desturun
@@ -19201,7 +19163,6 @@ devlethane
 devletin
 devlet kapısı
 devlet kuşu
-devletle!
 devletler
 devletler arası
 devletleri
@@ -19670,8 +19631,8 @@ dilden dile dolaşmak
 dil ebesi
 dilediğince
 dilediğini yapmak
-dilediğin(iz) gibi
-dile (dillere) düşmek
+dilediğin gibi
+dillere düşmek
 dile gelen ele gelir
 dile gelmek
 dile getirilmek
@@ -19681,7 +19642,6 @@ dilekçe
 dilek kipi
 dilekleme
 dile kolay
-dileme
 dilemek
 dilemma
 dilenci
@@ -19689,7 +19649,6 @@ dilenci çanağı
 dilencilik
 dilencilik etmek
 dilenci vapuru
-dilendirme
 dilendirmek
 dilenemez dilenci
 dileniş
@@ -19713,7 +19672,7 @@ dili döndüğü kadar
 dili durmak
 dili durmamak
 dili kılıçtan keskin
-dili kurusun!
+dili kurusun
 dilim
 dilim dilim
 dilim dilim etmek
@@ -20378,7 +20337,7 @@ diz kapağı kemiği
 dizlek
 dizleme
 dizlemek
-diz(leri)ini dövmek
+dizini dövmek
 dizleri kesilmek
 dizlerine kapanmak
 dizlik
@@ -21415,7 +21374,6 @@ dun
 duo
 dupduru
 dur
-dur!
 dura
 duraç
 durağan
@@ -21537,7 +21495,6 @@ duruş
 duruşma
 duruşmak
 duruvermek
-dur (veya durun!)
 dustan
 duş
 duşak
@@ -21846,7 +21803,6 @@ dünyalığı doğrultmak
 dünyalık
 dünya malı
 dünyanın
-dünyanın (birşey) -i
 dünyanın dört bucağı
 dünyanın ucu uzundur
 dünyanın yedi harikası
@@ -22336,7 +22292,7 @@ edepsizleşme
 edepsizleşmek
 edepsizlik
 edeptir söylemesi
-edep yahu!
+edep yahu
 edep yeri
 eder
 ederkon
@@ -22662,7 +22618,6 @@ einsteinium
 einsteiniyum
 einstenyum
 ejder
-ejder (ejderha) gibi
 ejderha
 ejektör
 ekabir
@@ -22965,7 +22920,7 @@ elbasan tavası
 el basmak
 elbe
 el bebek gül bebek
-el bende!
+el bende
 elbe nehri
 elbet
 elbette
@@ -23026,7 +22981,7 @@ elden ele
 elden ele dolaşmak
 elden ele geçmek
 elden geçirmek
-elden gel!
+elden gel
 elden geldiği kadar
 elden gelmemek
 elden gitmek
@@ -23245,8 +23200,6 @@ eli armut devşirmek
 eli ayağıdolaşmak
 eli ayağı dolaşmak
 eli ayağı düzgün
-eli ayağı (olmak)
-eli ayağıtitremek
 eli ayağı titremek
 eli aza varmamak
 eli bayraklı
@@ -23275,7 +23228,7 @@ eli koynunda
 eli koynunda kalmak
 eli kulağında
 eli kurusun
-el ile (elle) tutulur
+elle tutulur
 elim
 eli maşalı
 eliminasyon
@@ -23374,7 +23327,7 @@ ellerde
 ellerde gezmek
 ellerim yanıma gelsin
 ellerin dert görmesin
-eller yukarı!
+eller yukarı
 elleşmek
 elli
 ellik
@@ -24811,7 +24764,7 @@ etme bulma dünyası
 etme eyleme
 etmek
 etmen
-etme (veya etme yahu)
+etme yahu
 etnik
 etnograf
 etnografya
@@ -27337,8 +27290,6 @@ gazino
 gazinocu
 gazinoculuk
 gazi olmak
-gazla!
-gazlama
 gazlamak
 gaz lambası
 gazlanma
@@ -28035,7 +27986,7 @@ geride
 geriden geriye
 geri dönmek
 geri durmak
-geri geri (çekilmek)
+geri geri çekilmek
 geri gitmek
 geri göndermek
 geri hizmet
@@ -29219,7 +29170,7 @@ görüşü
 görüşülme
 görüşülmek
 görüşüm
-gör (veya görürsün)
+görürsün
 göstereç
 göstere göstere
 gösteren
@@ -32056,7 +32007,6 @@ haymana öküzü
 haymatlos
 hayr
 hayra alamet değil
-hayra karşı (olmak)
 hayran
 hayran etmek
 hayran hayran
@@ -32383,7 +32333,7 @@ hercai menekşe
 hercümerç
 hercümerç etmek
 her daim
-her dem taze (olmak)
+her dem taze
 her derde deva
 herek
 herekleme
@@ -32533,7 +32483,7 @@ heyecan vermek
 heyecen
 heyet
 heyetiyle
-hey gidi (hey)
+hey gidi hey
 heyhat
 heyhat!
 heyhey
@@ -33529,7 +33479,7 @@ hükmolunmak
 hükmünde
 hükmünde olmak
 hükmü parasına geçmek
-hükmü var (veya yok)
+hükmü yok
 hükumet
 hükumet darbesi
 hükumet erkanı
@@ -36915,8 +36865,6 @@ iş bırakımı
 işbilim
 iş bilimi
 iş bilmek
-iş (birinden) bitmek
-iş (birine) kalmak
 işbirliği
 iş birliği
 iş birliği yapmak
@@ -36969,7 +36917,7 @@ işgücü
 iş gücü
 işgücü devir hızı
 iş güç
-iş (güç) edinmek
+iş güç edinmek
 iş güç sahibi
 işgüder
 işgüderlik
@@ -36983,7 +36931,6 @@ işi aksi gitmek
 işi allah'a kalmak
 işi anlamak
 işi azıtmak
-işi (bir şeye) vurmak
 işi bitmek
 işi bozmak
 işi bozulmak
@@ -37432,8 +37379,7 @@ iyi gün dostu
 iyi gün dostu olmak
 iyi hal
 iyi hal belgesi
-iyi hoş (ama)
-iyi iş (doğrusu)
+iyi hoş ama
 iyi kalpli
 iyi ki
 iyi kötü
@@ -38240,7 +38186,6 @@ kafayı işletmek
 kafayı tütsülemek
 kafayı üşütmek
 kafayı yemek
-kafayı (yere) vurmak
 kafa yok!
 kafa yormak
 kafdağı
@@ -38288,7 +38233,6 @@ kağıtçı
 kağıtçılık
 kağıtdutu
 kağıt dutu
-kağıt gibi (olmak)
 kağıt helvacı
 kağıthelvası
 kağıt helvası
@@ -38308,7 +38252,7 @@ kağıt teknikeri
 kağıt torba
 kağnı
 kağnı arabası
-kağnı gibi (gitmek)
+kağnı gibi gitmek
 kağnı mazısı
 kağnının
 kağşak
@@ -38862,7 +38806,6 @@ kalpsiz
 kalpsizlik
 kalp spazmı
 kalp yarası
-kalsa (veya kalırsa)
 kalseduan
 kalsemi
 kalsın
@@ -39287,7 +39230,7 @@ kanlı canlı
 kanlı katil
 kanlılık
 kanlısı olmak
-kanlı yaş(lar) dökmek
+kanlı yaşlar dökmek
 kanma
 kanmak
 kanmaz
@@ -39495,7 +39438,6 @@ kapı ağası
 kapı ağzı
 kapı aralamak
 kapı aramak
-kapı (bir) komşu
 kapıcı
 kapıcık
 kapıcılık
