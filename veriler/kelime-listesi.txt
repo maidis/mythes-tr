@@ -759,7 +759,6 @@ ademi
 ademimerkeziyet
 ademimerkeziyetçi
 ademimerkeziyetçilik
-adem-i nef'i
 ademi tediye
 adem-i tenafür
 ademoğulları
@@ -1018,7 +1017,6 @@ afra tafra
 afrika
 afrika boynuzu
 afrika çekirgesi
-afrika'da
 afrika domuzu
 afrika kaşıkçısı
 afrikalı
@@ -3074,7 +3072,6 @@ alman papatyası
 almansever
 alman usulü
 almanya
-almanya'nın
 almas
 almaş
 almaşık
@@ -3592,11 +3589,7 @@ ana motif
 ana muhalefet
 ananas
 anane
-an'ane
-an'aneci
 ananecilik
-an'anecilik
-an'anesiz
 ananet
 ananevi
 ananın örekesi
@@ -5202,7 +5195,6 @@ asudelik
 asuman
 asurca
 asya
-asya'da
 asyalı
 asyalılık
 asya yağmurcunu
@@ -6110,7 +6102,6 @@ ayıltma
 ayıltmak
 ayım
 ayın
-ay'ın
 ayınga
 ayıngacı
 ayıngacılık
@@ -6343,7 +6334,6 @@ aysberg
 aysberk
 aysel
 aysfild
-ay'sın
 aysız
 aysun
 ayşe
@@ -6697,7 +6687,6 @@ bağcıklı
 bağcıksız
 bağcılık
 bağ çubuğu
-bağdad'ı tamir etmek
 bağdalama
 bağdalamak
 bağdama
@@ -9296,7 +9285,6 @@ berdelacuz
 berdevam
 berdi
 berduş
-berdül'acz fırtınası
 bere
 beregen
 bereket
@@ -9996,7 +9984,6 @@ biçmek
 biçti
 biçtirme
 biçtirmek
-bid'at
 bidayet
 bide
 bider
@@ -10802,7 +10789,6 @@ bitoranı
 bit oranı
 bit otu
 bitpazarı
-bi't-tab
 bittabi
 bitter
 bitüm
@@ -12863,7 +12849,6 @@ camlı köşk
 camlifi
 cam macunu
 cam mozaik
-campione d'ıtalia
 cam resim
 camsı
 camsız
@@ -13300,8 +13285,6 @@ cemaatsizlik
 cemadat
 cemal
 ceman
-cem'an
-cem'an yekun
 cemaziyülahır
 cemaziyülevvel
 cember
@@ -14122,8 +14105,6 @@ cümle
 cümle alem
 cümle bilgisi
 cümlecik
-cümle-i mutanza
-cümle-i mu'terize
 cümle kapısı
 cümlemsi
 cümlenin ögeleri
@@ -14137,17 +14118,8 @@ cünun
 cünüp
 cünüplük
 cüppe
-cür'at
 cüret
-cür'et
-cür'et etmek
 cüretkar
-cür'etkar
-cür'etkarlık
-cür'etlenme
-cür'etlenmek
-cür'etli
-cür'etsiz
 cürmümeşhut
 cürmü meşhut
 cürmümeşhut halinde
@@ -14160,7 +14132,6 @@ cüz
 cüzam
 cüzamlı
 cüzdan
-cüz'i
 cüziyet
 cüzzam
 cüzzamlı
@@ -17910,7 +17881,6 @@ defalarca
 defans
 defansif
 defaten
-def'aten
 defedilmek
 defedilmiş
 defekt
@@ -18895,8 +18865,6 @@ deryadil
 derya gibi
 derz
 desais
-descartes'çı
-descartes'çılık
 desen
 desenci
 desencilik
@@ -22299,7 +22267,6 @@ editörlük
 edna
 edvar
 edvar musikisi
-ef'al
 efalle
 efdal
 efe
@@ -26127,7 +26094,6 @@ fileto
 fil faresi
 fil gibi
 filhakika
-fi'l-hakika
 fil hastalığı
 filibit
 filigran
@@ -26861,9 +26827,7 @@ galatasaray
 galatıhis
 galatımeşhur
 galba
-gal'ba
 gale
-ga'leb
 galebe
 galebe çalmak
 galenit
@@ -30114,7 +30078,6 @@ güneş gözlüğü
 güneş günü
 güneş hayvancıkları
 güneşin
-güneş'in
 güneşin alnında
 güneş kremi
 güneş lekeleri
@@ -30544,7 +30507,6 @@ haçlamak
 haçlı
 haçlılar
 haçvari
-hadai'
 hadde
 haddeci
 haddeden geçirmek
@@ -30816,8 +30778,6 @@ halel vermek
 halep çıbanı
 halet
 haletiruhiye
-hal'etme
-hal'etmek
 hale yola koymak
 halfa
 half-time
@@ -32793,7 +32753,6 @@ hilaf yok
 hilal gibi
 hilali
 hilallemek
-hil'at
 hile
 hilebaz
 hileci
@@ -32833,7 +32792,6 @@ hindi gibi kabarmak
 hindistan
 hindistancevizi
 hindistan cevizi
-hindistan'da
 hindistan ödağacı
 hindolog
 hindoloji
@@ -32883,7 +32841,6 @@ hint pirinci
 hint safranı
 hint sarısı
 hint tavuğu
-hint'ten
 hintyağı
 hint yağı
 hint yağı ağacı
@@ -34189,7 +34146,6 @@ iaşe
 iaşe etmek
 iaşe ve ibate
 ibad
-ib'ad
 ibadat
 ibadet etmek
 ibadetgah
@@ -34198,7 +34154,6 @@ ibadullah
 ibahi
 ibare
 ibaret
-ib'as
 ibate etmek
 ibcal
 ibda
@@ -34878,7 +34833,6 @@ ihtirak
 ihtiram
 ihtiram birliği
 ihtiram duruşu
-ihtiram kıt'ası
 ihtiras
 ihtiraslı
 ihtirassız
@@ -35874,7 +35828,6 @@ ingiliz sicimi
 ingiliz siyaseti
 ingiliz tuzu
 ingiltere
-ingiltere'de
 ingiltereli
 ingin
 inginlik
@@ -36332,8 +36285,6 @@ isabetsiz
 isaf
 isal
 isale
-is'at
-is'at etmek
 ise
 ise tutmak
 isevilik
@@ -36453,7 +36404,6 @@ isnat grubu
 isot
 ispalya
 ispanya
-ispanya'da
 ispanyol
 ispanyolca
 ispanyol dansı
@@ -36511,7 +36461,6 @@ istadya
 istalagmit
 istanbul
 istanbul boğazı
-istanbul'da
 istanbul efendisi
 istanbulin
 istanbul kekiği
@@ -36700,7 +36649,6 @@ istilzam
 istilzam etmek
 istilzaziye
 istim
-istima'
 istimal
 istimal etmek
 istimara
@@ -36785,7 +36733,6 @@ iş açmak
 iş adamı
 iş akdi
 iş alanı
-iş'ar
 işaret
 işaretçi
 işaret etmek
@@ -36802,8 +36749,6 @@ işaret parmağı
 işaret sıfatı
 işaretsiz
 işaret vermek
-iş'ari
-iş'ari oy
 iş ayağa düşmek
 işba
 iş başa düşmek
@@ -36878,7 +36823,6 @@ işgüzarlık
 işgüzarlık etmek
 iş hanı
 işi aksi gitmek
-işi allah'a kalmak
 işi anlamak
 işi azıtmak
 işi bitmek
@@ -37126,7 +37070,6 @@ italik
 italya
 italyan
 italyanca
-italya'nın
 italya yarımadası
 itap
 itap etmek
@@ -37382,8 +37325,6 @@ iyotlu tuz
 izabe
 izabe fırını
 izabe noktası
-iz'aç
-iz'aç etmek
 izae
 izaf
 izafe
@@ -37404,16 +37345,9 @@ izam
 izam etmek
 izamik
 izan
-iz'an
-iz'an etmek
-iz'anı yok
 izanlı
-iz'anlı
 izansız
-iz'ansız
-iz'ansızca
 izansızlık
-iz'ansızlık
 izaz
 izaz etmek
 izazüikram
@@ -37859,7 +37793,7 @@ kaçınganlık
 kaçınık
 kaçınılmaz
 kaçınım erkesi
-kaçın kur'ası
+kaçın kurası
 kaçınma
 kaçınmak
 kaçıntı
@@ -40581,7 +40515,6 @@ kategorize etmek
 katet
 katetme
 katetmek
-kat'etmek
 katgüt
 katı
 katık
@@ -40647,17 +40580,13 @@ katibe
 katibiadil
 katil
 katileşme
-kat'ileşme
 katileşmek
 katil etmek
 katillik
-kat'i olarak
 katipıik
 katiplik
 katiyen
-kat'iyen
 katiyet
-kat'iyet
 katiyetle
 kat kat
 katkı
@@ -42844,12 +42773,9 @@ kışlık
 kış uykusu
 kış yapmak
 kıt
-kıt'a
 kıtaat
 kıtal
 kıtalar
-kıt'alar arası
-kıt'a sahanlığı
 kıtık
 kıtı kıtına
 kıtıklama
@@ -45575,7 +45501,6 @@ kuduzluk
 kuduz otu
 kudüm
 kudümzen
-kudüs'ü
 kufi
 kuğu
 kuğu gibi
@@ -45870,15 +45795,11 @@ kupon
 kupür
 kur
 kura
-kur'a
 kurabiye
 kurabiyeci
 kurabiyecilik
 kurabiye gibi
-kur'acı
-kur'a çekmek
 kurada
-kur'a efradı
 kurak
 kurakçıl
 kuraklık
@@ -45906,11 +45827,7 @@ kuramsal
 kuramsal dilbilim
 kuramsal kimya
 kuran
-kur'an
 kurander
-kur'anıkerim
-kur'an-ı kerim
-kur'ası olmak
 kurbağa
 kurbağaadam
 kurbağa adam
@@ -47851,7 +47768,6 @@ maalmemnuniye
 maarif
 maarifçi
 maarif vekaleti
-ma'ariv
 maaş
 maaşa geçmek
 maaş almak
@@ -47863,7 +47779,6 @@ maaş vermek
 maatteessüf
 maaz
 maazallah
-ma-ba'd
 mabat
 mabet
 mabet ağacı
@@ -47993,7 +47908,6 @@ madrabazlık
 madreporlar
 madrigal
 madrup
-ma'dud
 madun
 maestoso
 maestro
@@ -48888,7 +48802,6 @@ masa üstü yayıncılık
 mas etmek
 masif
 masiko
-ma'siyyet
 mask
 maskanyin
 maskara
@@ -49336,7 +49249,6 @@ meftuniyet
 meftunluk
 meftun olmak
 meful
-mef'ul
 mega
 megafon
 megahertz
@@ -49432,7 +49344,6 @@ melaike
 melamet
 melami
 melamilik
-mel'anet
 melanit
 melankoli
 melankolik
@@ -49472,7 +49383,6 @@ melih
 meliha
 melik
 melike
-melikü'l-müluk
 melil
 melinit
 melis
@@ -49487,8 +49397,6 @@ melon
 meltem
 melul
 melun
-mel'un
-mel'unca
 melül
 melül mahzun
 melül melül
@@ -49756,7 +49664,6 @@ merhume
 merhum olmak
 merhun
 meri
-mer'i
 merid
 meridyen
 meridyen dairesi
@@ -49766,7 +49673,6 @@ merinos
 merinos koyunu
 meristem
 meriyet
-mer'iyet
 merkantilist
 merkantilizm
 merkat
@@ -49937,33 +49843,19 @@ mest olmak
 mestur
 mesture
 mesudane
-mes'udane
 mesul
-mes'ul
 mesuliyet
-mes'uliyet
-mes'uliyet almak
 mesuliyetli
-mes'uliyetli
 mesuliyetsiz
-mes'uliyetsiz
 mesuliyetsizlik
-mes'uliyetsizlik
-mes'ul olmak
-mes'ul tutmak
 mesut
-mes'ut
 mesutça
-mes'ut etmek
-mes'ut olmak
-meş'
 meşakkat
 meşakkat çekmek
 meşakkate katlanmak
 meşakkatli
 meşakkatsiz
 meşale
-meş'ale
 meşaleci
 meşale çekmek
 meşatlık
@@ -50022,7 +49914,6 @@ meşruti
 meşrutiyet
 meşrutiyetçi
 meşum
-meş'um
 meşveret
 meşveret etmek
 met
@@ -50162,8 +50053,6 @@ mevduat defteri
 mevhibe
 mevhibeiilahiye
 mevhum
-mev'ıza
-mev'id
 mevize
 mevki
 mevkidaş
@@ -50275,7 +50164,6 @@ meymenetli
 meymenetsiz
 meymenetsizlik
 meyus
-me'yus
 meyus etmek
 meyusiyet
 meyus olmak
@@ -50422,7 +50310,6 @@ mısır
 mısır akbabası
 mısır baklası
 mısırcı
-mısır'da
 mısır ekmeği
 mısır fulü
 mısır gülü
@@ -52147,11 +52034,7 @@ mümeyyez
 mümeyyiz
 mümeyyizlik
 mümin
-mü'min
-mü'minane
 müminat
-mü'mince
-mü'mineler
 müminlik
 mümkün
 mümkün mertebe
@@ -52159,7 +52042,6 @@ mümkün olmak
 mümtaz
 mümted
 mümteni
-mümteni'
 mümtezic
 mümza
 mümzi
@@ -52255,7 +52137,6 @@ münhedim
 münhemik
 münhezim
 münih
-mün'im
 münir
 münkalib
 münkariz
@@ -52540,11 +52421,9 @@ müşteri
 müşteri hizmeti
 müşterilerle
 müşteriye
-müt'a
 mütabeat
 mütalaada bulunmak
 mütamadi
-müt'a nikahı
 mütareke
 müteaddi
 müteaddit
@@ -53566,8 +53445,6 @@ nezaretsiz
 nezd
 nezdinde
 nezelmek
-nez'etme
-nez'etmek
 nez hali
 nezif
 nezih
@@ -54354,7 +54231,6 @@ okyanus
 okyanus çukuru
 okyanus mavisi
 okyanusu
-okyanusya'da
 ok yılanı
 ola
 olabildiğince
@@ -58813,7 +58689,6 @@ portbebe
 porte
 portekiz
 portekizce
-portekiz'de
 portekizli
 portföy
 portmanto
@@ -60120,11 +59995,8 @@ ricacı
 rica etmek
 rical
 ricat
-ric'at
-ric'at etmek
 ricl
 rijit
-rik'a
 rikabdar
 rikkat
 rikkatli
@@ -60401,7 +60273,6 @@ rus salatası
 rustai
 rustik
 rusya
-rusya'da
 ruşen
 ruteb
 rutenyum
@@ -61811,7 +61682,6 @@ sarı yağlı
 sarıyonca
 sarızambak
 sarig
-sarih mef'ul
 sarik
 sarkaç
 sarkaçlama
@@ -65723,7 +65593,6 @@ su aygırı
 su bahçesi
 subaldıranı
 su baldıranı
-su'ban
 subap
 su bardağı
 subasar
@@ -65960,19 +65829,9 @@ sundurma
 sundurmak
 sungu
 sungur
-sun'i
-sun'i böbrek
-sun'i çayır
-sun'i gübre
-sun'i kalp
 sunilik
-sun'ilik
-sun'i peyk
 suni peyk
-sun'i solunum
-sun'i tahta
 suni tahta
-sun'i teneffüs
 sunma
 sunmak
 sunta
@@ -66359,16 +66218,8 @@ süpürülmek
 süpürüş
 sürahi
 sürat
-sür'at
-sür'at katarı
 süratle
-sür'atle
-sür'atlendirme
-sür'atlendirmek
-sür'atlenme
-sür'atlenmek
 süratli
-sür'atli
 sürç
 sürçme
 sürçmek
@@ -67429,7 +67280,6 @@ süzüntü
 şepit
 şer
 şerait
-şer'an
 şerare
 şerbet
 şerbetçi
@@ -67452,7 +67302,6 @@ süzüntü
 şerefine içmek
 şerefiye
 şerefiyle
-şeref kıt'ası
 şeref konuğu
 şereflendirme
 şereflendirmek
@@ -67478,7 +67327,6 @@ süzüntü
 şerha
 şerha şerha
 şerh etmek
-şer'i
 şeriat
 şeriatçı
 şeriatçılık
@@ -68083,7 +67931,6 @@ tabaklanma
 tabaklanmak
 tabaklık
 taban
-tab'an
 tabana kuvvet
 tabana kuvvet kaçmak
 taban basma
@@ -68542,11 +68389,9 @@ takıyye
 takıyye yapmak
 tak-ı zafer
 taki
-ta'kib
 takibat
 takiben
 takibinde
-ta'kif
 takigraf
 takim
 takimetre
@@ -68984,7 +68829,6 @@ tanrı bilimci
 tanrı bilimi
 tanrıcılık
 tanrıça
-tanrı'dır
 tanrı kayrası
 tanrı korusun
 tanrılaşma
@@ -68993,11 +68837,8 @@ tanrılaştırma
 tanrılaştırmak
 tanrılık
 tanrım
-tanrı'm
 tanrımız
 tanrı misafiri
-tanrı'nın
-tanrı'nın günü
 tanrısal
 tanrısallık
 tanrısamak
@@ -69006,9 +68847,7 @@ tanrısızlık
 tanrıtanımaz
 tanrıtanımazlık
 tanrı vergisi
-tanrı'ya
 tanrı yarattı dememek
-tanrı'ya şükür
 tansığ
 tansık
 tansiyometre
@@ -69612,7 +69451,6 @@ tatarcık
 tatarcık humması
 tatar çorbası
 tatarımsı
-tataristan'da
 tatarlaşmak
 tatarsı
 tataş
@@ -70596,10 +70434,7 @@ telif hakkı
 telik
 teli kırmak
 telin
-tel'in
-tel'in etmek
 telin etmek
-tel'in mitingi
 telis
 tel kadayıf
 tel kafes
@@ -71341,8 +71176,6 @@ tesisi
 tesisini
 tesisler bütünü
 tesit
-tes'it
-tes'it etmek
 teskere
 teskin
 teskin etmek
@@ -71972,7 +71805,6 @@ tibetçe
 tibetli
 tibet öküzü
 tibet sığırı
-tibet'te
 ti borusu
 ticaret
 ticaret ataşesi
@@ -72912,7 +72744,6 @@ transformasyon
 transformatör
 transformizm
 transfüzyon
-transilvanya'da
 transistor
 transit
 transit geçmek
@@ -73652,7 +73483,6 @@ türki
 türkistanlı
 türkiyat
 türkiye
-türkiye'de
 türkiye türkçesi
 türk kanaryası
 türkkari
@@ -75564,10 +75394,6 @@ vaizlik
 vajen
 vajina
 vaka
-vak'a
-vak'alar
-vak'anüvis
-vak'anüvislik
 vakar
 vakarlı
 vakarsız
@@ -75773,7 +75599,6 @@ var yok
 varyos
 vasat
 vasati irtifa
-vasati sür'at
 vasektomi
 vasfı
 vasf-ı tahsini
@@ -75867,7 +75692,6 @@ vazgelmek
 vazı
 vazıh
 vazıhamil
-vaz'ıhamil
 vazıh olmak
 vazııkanun
 vazıyet
@@ -76446,7 +76270,6 @@ vükela
 vülgarize
 vürut
 vüsat
-vüs'at
 vüsul
 vüzera
 v, v
@@ -76682,7 +76505,6 @@ yağma
 yağmacı
 yağmacılık
 yağma gitmek
-yağma hasan'ın böreği
 yağmak
 yağmalama
 yağmalamak
@@ -79102,7 +78924,6 @@ yerilen
 yerilme
 yerilmek
 yerin
-yer'in
 yerinç
 yerinde
 yerinde duramamak
@@ -79236,7 +79057,6 @@ yer yuvarlağı
 yeryüzü
 yeryüzünün
 yer zarfı
-ye's
 yesar
 yestehleme
 yestehlemek
@@ -81032,7 +80852,6 @@ zafer
 zafer bayramı
 zaferler
 zafer takı
-za'f-ı suri
 zafiyet
 zafran
 zağ
