@@ -1,40 +1,25 @@
 abadi
 abajur
-abajurcu
-abajurculuk
-abajurlu
 abak
 abakan
 abakıymış
 abaküs
 abala
 abalı
-abandırma
-abandırmak
 abandone
-abandone etmek
-abandone olmak
 abanges
 abani
 abanma
 abanmak
 abanoz
-abanoz gibi
 abanozlaşmak
 abar
 abartı
-abartıcı
-abartıcılık
 abartılı
 abartılmak
-abartılmamış
 abartılmış
 abartısız
 abartış
-abartma
-abartmacı
-abartmacılık
-abartmadan
 abartmak
 abartmalı
 abartmasız
@@ -71,9 +56,7 @@ abdestbozan otu
 abdesthane
 abdestinde namazında
 abdestini vermek
-abdestli
 abdestlik
-abdestsiz
 abdiaciz
 abdler
 abdlik
@@ -102,7 +85,6 @@ abı
 abıç
 abıdan
 abıhayat
-abıhayat içmiş
 abık
 abıkan
 abıkevser
@@ -114,9 +96,7 @@ abışka
 abız
 abi
 abide
-abideleşme
 abideleşmek
-abideleştirme
 abideleştirmek
 abidemsi
 abidevi
@@ -157,11 +137,9 @@ aborjin
 aborjin turizmi
 abra
 abrakadabra
-abrama
 abramak
 abrasion
 abraş
-abrıl
 abril
 abrul
 absorban
@@ -201,16 +179,12 @@ acar
 acara
 acaralp
 acarkan
-acarlaşma
 acarlaşmak
 acarlık
 acayibine gitmek
 acayip
 acayip karşılamak
-acayipleşme
 acayipleşmek
-acayipleştirme
-acayipleştirmek
 acayiplik
 acayip olmak
 accelerando
@@ -222,10 +196,8 @@ acele acele
 aceleci
 acelecilik
 acele etmek
-aceleleştirme
 aceleleştirmek
 aceleten
-aceleye
 aceleye gelmek
 aceleye getirmek
 aceleyle
@@ -240,7 +212,6 @@ acemi ağası
 acemice
 acemi çaylak
 acemi er
-acemileşme
 acemileşmek
 acemilik
 acemilik çekmek
@@ -250,9 +221,7 @@ acemi oğlanı
 acem kılıcı gibi
 acemkürdi
 acemlalesi
-acemleşme
 acemleşmek
-acemleştirme
 acemleştirmek
 acem pilavı
 acem sanatkar
@@ -286,25 +255,19 @@ acıkara
 acı karpuz
 acı kavak
 acı kavun
-acıkılma
 acıkılmak
 acıklanmak
 acıklı
 acıklı komedi
-acıkma
 acıkmak
 acıkmış
 acı kök
-acıktırma
 acıktırmak
 acı kuvvet
 acılan
-acılanma
 acılanmak
 acılar
-acılaşma
 acılaşmak
-acılaştırma
 acılaştırmak
 acılı
 acılık
@@ -334,12 +297,9 @@ acınası
 acından ölmek
 acındıracak
 acındırıcı
-acındırma
 acındırmak
 acınılacak
-acınılma
 acınılmak
-acınma
 acınmak
 acı ot
 acırak
@@ -361,7 +321,6 @@ acı söz
 acı su
 acı tatlı
 acıtış
-acıtma
 acıtmak
 acıvermek
 acı vermek
@@ -389,15 +348,12 @@ acip
 aciyo
 aciz kalmak
 acizler
-acizleri
 acizlik
 aclan
-action
 acu
 acube
 acul
 acun
-acunluk
 acur
 acurlu
 acuze
@@ -418,16 +374,12 @@ aç biilaç
 aç doyurmak
 açelya
 açgöz
-aç göz
 açgözlü
-aç gözlü
 açgözlülük
-aç gözlülük
-aç gözlülük etmek
+açgözlülük etmek
 açı
 açıcı
 açığa alınmak
-açığa alma
 açığa almak
 açığa çıkarmak
 açığa çıkmak
@@ -3344,7 +3296,7 @@ amalık
 amalierbaa
 aman
 amana gelmek
-aman allah (allahım)
+aman allahım
 aman bulmak
 aman derim!
 aman dilemek
@@ -41268,7 +41220,6 @@ kazalı
 kazamat
 kazan
 kazanan
-kazan (biri) kepçe
 kazancı
 kazancılık
 kazancınınmuştusudur
@@ -42177,7 +42128,7 @@ kevser gibi
 key
 keyfetme
 keyfetmek
-keyfi bilmek (biri)
+keyfi bilir
 keyfi bozulmak
 keyfi gelmek
 keyfi kaçmak
@@ -42365,7 +42316,6 @@ kılınmak
 kılır
 kılış
 kıl ibik
-kıl (kadar) kalmak
 kılkapan
 kıl keçisi
 kılkıran
@@ -43502,7 +43452,7 @@ kireç
 kireççi
 kireççil
 kireç fabrikası
-kireç gibi (olmak)
+kireç gibi olmak
 kireç kaymağı
 kireç kuyusu
 kireçleme
@@ -45632,7 +45582,7 @@ kudümzen
 kudüs'ü
 kufi
 kuğu
-kuğu (gibi)
+kuğu gibi
 kuğurma
 kuğurmak
 kuhi
@@ -49136,7 +49086,7 @@ mavilik
 mavimsi
 mavimtırak
 maviş
-maviş maviş (bakmak)
+maviş maviş bakmak
 mavna
 mavnacı
 mavra
@@ -51813,7 +51763,6 @@ muvaffakiyetsiz
 muvaffakiyetsizlik
 muvaffak olmak
 muvafık
-muvafık bulma(ma)k
 muvafık olmak
 muvahhiş
 muvahhit
@@ -54229,7 +54178,7 @@ oftalmolog
 oftalmoloji
 oftalmoskop
 oguz
-o gün bugün(dür)
+o gün bugündür
 oğalamak
 oğan
 oğdurmak
@@ -54706,7 +54655,6 @@ ondalıkçı
 ondalık kesir
 ondalık sayı
 ondan
-on (defa veya kere)
 ondurma
 ondurmak
 ondurmaz
@@ -56196,7 +56144,7 @@ ozuga
 ön uyum
 önü
 önü alınmak
-önünce (veya önünden)
+önünce
 önünde
 önünden
 önünde sonunda
@@ -58983,7 +58931,7 @@ poyrazlanmak
 poz
 pozisyon
 pozitif
-pozitif bilim(ler)
+pozitif bilimler
 pozitif elektrik
 pozitif film
 pozitif görüntü
@@ -60413,7 +60361,6 @@ ruhsuzlaştırma
 ruhsuzlaştırmak
 ruhsuzluk
 ruhu
-ruhu (bile) duymamak
 ruhum!
 ruhunda güneş açmak
 ruhunu şad etmek
@@ -62612,7 +62559,7 @@ selenyum
 sele zeytini
 selfdeterminasyon
 selfservis
-sel gibi (akmak)
+sel gibi
 sel gider, kum kalır
 sel götürmek
 selika
@@ -63883,7 +63830,6 @@ sıtıl
 sıtıra
 sıtma
 sıtma bilimi
-sıtma görmemiş (ses)
 sıtmalanma
 sıtmalanmak
 sıtmalı
@@ -65900,7 +65846,6 @@ su gibi akmak
 su gibi aziz ol!
 su gibi ezberlemek
 su gibi gitmek
-su gibi (olmak)
 su gibi terlemek
 su gösterdi
 sugötürmez
@@ -66232,7 +66177,6 @@ suyunun suyu
 suyu seli kalmamak
 su yuvarı
 su yürümek
-su (yüzü) görmemiş
 su yüzü görmemiş
 su yüzüne çıkmak
 suz
@@ -67643,7 +67587,6 @@ süzüntü
 şeytan taşlama
 şeytantersi
 şeytantırnağı
-şeytan tüyü (olmak)
 şeytan uçurtması
 şezlong
 şık
@@ -76849,7 +76792,6 @@ yakamozlanmak
 yakan
 yaka paça
 yaka paça etmek
-yaka paça (götürmek)
 yakar
 yakarca
 yakarı
@@ -78329,7 +78271,7 @@ yavaşa
 yavaşça
 yavaşçacık
 yavaşça yavaşça
-yavaş gel! (veya ol!)
+yavaş ol
 yavaşlama
 yavaşlamak
 yavaşlatılma
@@ -80854,7 +80796,6 @@ yürük aksak
 yürüklük
 yürük semai
 yürüm
-yürü (marş)!
 yürüme
 yürümek
 yürünme
