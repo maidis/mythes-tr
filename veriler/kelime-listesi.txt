@@ -4907,7 +4907,6 @@ arzunun
 arzusu kalmak
 arz ve talep
 arz zinciri
-as-
 asa
 asabileşme
 asabileşmek
@@ -6718,7 +6717,6 @@ bağ doku
 bağdu
 bağfiil
 bağ fiil
-bağ-fiil
 bağfill
 bağı
 bağıcı
@@ -6867,7 +6865,7 @@ bağlıbağış
 bağlık
 bağlıkalmak
 bağlı kalmak
-bağlık bahçelik,-ği
+bağlık bahçelik
 bağlı kredi
 bağlılaşık
 bağlılaşım
@@ -8181,7 +8179,6 @@ başlı
 başlı başına
 başlıca
 başlık
-baş-lık
 başlıkçı
 başlıklarda
 başlıklı
@@ -9118,7 +9115,6 @@ benden söylemesi
 bendezade
 bendi
 bendir
-bene-
 benefşe
 benek
 benekçik
@@ -9872,7 +9868,6 @@ bıyıksız
 bızbız
 bızdık
 bızır
-bi-
 biat
 biat edilmek
 biat etmek
@@ -9989,7 +9984,6 @@ bide
 bider
 bidon
 bidoncu
-bi-emani
 bienal
 biftek
 bifyografi
@@ -11275,7 +11269,6 @@ bos
 bosbolamadık
 boslu
 bosna hersek
-bosna-hersek
 bosnasaray
 bosna sarayı
 bostan
@@ -80822,8 +80815,6 @@ yüz yüze gelmek
 yüz yüze kalmak
 yüz yüze yaşamak
 yvbd
-yy.
-zaaf
 zaaf saymak
 zabın
 zabıt
