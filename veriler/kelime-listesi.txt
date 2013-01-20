@@ -20101,7 +20101,6 @@ dival
 divan
 divançe
 divane
-divan edebiyatı
 divaneleşme
 divaneleşmek
 divanelik
@@ -81738,9 +81737,6 @@ züllü
 zül saymak
 zülüf
 zülüflü
-zümre
-zümre edebiyatı
-zümre toplantısı
 zümrüdi
 zümrüdüanka
 zümrüdüanka gibi
