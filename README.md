@@ -1,8 +1,6 @@
 mythes-tr
 =========
 
-![alt text](http://i.imgur.com/HfCf0Id.png)
-
 mythes-tr, gönüllülerce yürütülen bir Türkçe Eşanlamlı Kelimeler Sözlüğü
 (Turkish Thesaurus) projesidir. Elektronik ortamda kullanılabilecek bir
 sözlük oluşturmayı amaçlar.
@@ -12,3 +10,5 @@ Türkçe eş anlamlı kelimeler sözlüğünün ilk halini iş başında
 görebilirsiniz:
 
 http://www.youtube.com/watch?v=Cv2Z6afjb7w
+
+![alt text](http://i.imgur.com/HfCf0Id.png)
