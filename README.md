@@ -6,7 +6,7 @@ mythes-tr, gönüllülerce yürütülen bir Türkçe Eşanlamlı Kelimeler Sözl
 sözlük oluşturmayı amaçlar.
 
 Belgelendirme için projenin wiki sayfalarına bakabilirsiniz. Aşağıda da 
-Türkçe eş anlamlı kelimeler sözlüğünün ilk halini iş başında
+Türkçe eşanlamlı kelimeler sözlüğünün ilk halini iş başında
 görebilirsiniz:
 
 http://www.youtube.com/watch?v=Cv2Z6afjb7w
